@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zippy &#8211; save the 76 ball</title>
+	<atom:link href="https://www.savethe75ball.com/category/tags/zippy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.savethe75ball.com/</link>
+	<description>it&#039;s not too late</description>
+	<lastBuildDate>Mon, 04 Sep 2006 16:55:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<title>zippy &#8211; save the 76 ball</title>
+	<link>https://www.savethe75ball.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Zippy Revisits the 76 Ball</title>
+		<link>https://www.savethe75ball.com/2006/09/04/zippy-revisits-the-76-ball/</link>
+					<comments>https://www.savethe75ball.com/2006/09/04/zippy-revisits-the-76-ball/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Mon, 04 Sep 2006 16:55:59 +0000</pubDate>
+				<category><![CDATA[bill griffith]]></category>
+		<category><![CDATA[earl ma]]></category>
+		<category><![CDATA[griffy]]></category>
+		<category><![CDATA[zippy]]></category>
+		<category><![CDATA[zippy the pinhead]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[A tip o&#8217; the pin to Bill Griffith, who has for the second time honored the endangered 76 Balls with a visit from their pal Zippy. This strip also references our own Earl Ma, whose photo and video documentation of the 76 Balls of Honolulu and Los Angeles offers bittersweet cause for reflection in anyone [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/233932193/"><img loading="lazy" width="500" height="198" border="0" alt="Zippy The Pinhead sez No Nix 76" src="https://static.flickr.com/97/233932193_2557d765c1.jpg" /></a></p>
+<p> A tip o&#8217; the pin to <a href="https://www.zippythepinhead.com/" target="_blank">Bill Griffith</a>, who has for the second time honored the endangered 76 Balls with a visit from their pal Zippy. This strip also references our own Earl Ma, whose photo and video documentation of the 76 Balls of Honolulu and Los Angeles offers bittersweet cause for reflection in anyone who loves classic design.</p>
+<p>We dig this rallying cry: NO NIX 76!&nbsp;</p>
+<div id="themify_builder_content-194" data-postid="194" class="themify_builder_content themify_builder_content-194 themify_builder themify_builder_front">
+
+	</div>
+<!-- /themify_builder_content -->]]></content:encoded>
+					
+					<wfw:commentRss>https://www.savethe75ball.com/2006/09/04/zippy-revisits-the-76-ball/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

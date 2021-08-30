@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>autoweek &#8211; save the 76 ball</title>
+	<atom:link href="https://www.savethe75ball.com/category/tags/autoweek/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.savethe75ball.com/</link>
+	<description>it&#039;s not too late</description>
+	<lastBuildDate>Fri, 11 Aug 2006 22:53:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<title>autoweek &#8211; save the 76 ball</title>
+	<link>https://www.savethe75ball.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Save the 76 Ball Campaign In Autoweek Magazine</title>
+		<link>https://www.savethe75ball.com/2006/08/11/save-the-76-ball-campaign-in-autoweek-magazine/</link>
+					<comments>https://www.savethe75ball.com/2006/08/11/save-the-76-ball-campaign-in-autoweek-magazine/#comments</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2006 22:53:29 +0000</pubDate>
+				<category><![CDATA[autoweek]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[magazine]]></category>
+		<category><![CDATA[media]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/212790175/" title="Photo Sharing"><img loading="lazy" src="https://static.flickr.com/97/212790175_af67fff322.jpg" width="500" height="374" alt="Save the 76 Ball in Autoweek" /></a></p>
+<div id="themify_builder_content-192" data-postid="192" class="themify_builder_content themify_builder_content-192 themify_builder themify_builder_front">
+
+	</div>
+<!-- /themify_builder_content -->]]></content:encoded>
+					
+					<wfw:commentRss>https://www.savethe75ball.com/2006/08/11/save-the-76-ball-campaign-in-autoweek-magazine/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

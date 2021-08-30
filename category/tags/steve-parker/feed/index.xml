@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>steve parker &#8211; save the 76 ball</title>
+	<atom:link href="https://www.savethe75ball.com/category/tags/steve-parker/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.savethe75ball.com/</link>
+	<description>it&#039;s not too late</description>
+	<lastBuildDate>Fri, 24 Mar 2006 04:11:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<title>steve parker &#8211; save the 76 ball</title>
+	<link>https://www.savethe75ball.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ray Pedersen on Steve Parker&#8217;s Car Nut Show</title>
+		<link>https://www.savethe75ball.com/2006/03/24/ray-on-steve-parker-show/</link>
+					<comments>https://www.savethe75ball.com/2006/03/24/ray-on-steve-parker-show/#comments</comments>
+		
+		<dc:creator><![CDATA[rss]]></dc:creator>
+		<pubDate>Fri, 24 Mar 2006 04:11:40 +0000</pubDate>
+				<category><![CDATA[76 ball]]></category>
+		<category><![CDATA[design history]]></category>
+		<category><![CDATA[KPSI]]></category>
+		<category><![CDATA[ray pedersen]]></category>
+		<category><![CDATA[steve parker]]></category>
+		<category><![CDATA[the car nut]]></category>
+		<category><![CDATA[young and rubicam]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Listen to 76 Ball designer Ray Pedersen interviewed on Steve Parker&#8217;s the Car Nut show, Newstalk 920 K-PSI Palm Springs. Ray talks about the genesis of the ball and his wild and wooly days as an ad exec for Young &#38; Rubicam in the fifties and sixties. Show was recorded 3-05-06. Visit www.steveparker.com for more [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Listen to <a href="https://ia310109.us.archive.org/1/items/ray_pedersen_and_the_76_ball/RayPederseninterview.mp3">76 Ball designer Ray Pedersen</a> interviewed on Steve Parker&#8217;s the Car Nut show, Newstalk 920 K-PSI Palm Springs. Ray talks about the genesis of the ball and his wild and wooly days as an ad exec for Young &amp; Rubicam in the fifties and sixties. Show was recorded 3-05-06.</p>
+<p>Visit <a href="https://www.76upgrade.richardschave.com//www.steveparker.com" target="_blank">www.steveparker.com</a> for more info on cars, trucks, motorcycles, auto racing and auto lifestyles.  </p>
+<p>Subscribe to the Save the 76 Ball <a href="https://feeds.feedburner.com/76ball">feed</a> and stay tuned.</p>
+<div id="themify_builder_content-162" data-postid="162" class="themify_builder_content themify_builder_content-162 themify_builder themify_builder_front">
+
+	</div>
+<!-- /themify_builder_content -->]]></content:encoded>
+					
+					<wfw:commentRss>https://www.savethe75ball.com/2006/03/24/ray-on-steve-parker-show/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

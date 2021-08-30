@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>l.a. city nerd &#8211; save the 76 ball</title>
+	<atom:link href="https://www.savethe75ball.com/category/tags/l-a-city-nerd/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.savethe75ball.com/</link>
+	<description>it&#039;s not too late</description>
+	<lastBuildDate>Fri, 01 Jun 2007 21:13:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<title>l.a. city nerd &#8211; save the 76 ball</title>
+	<link>https://www.savethe75ball.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Nerd Knows His Red Balls</title>
+		<link>https://www.savethe75ball.com/2007/06/01/lacitynerd/</link>
+					<comments>https://www.savethe75ball.com/2007/06/01/lacitynerd/#respond</comments>
+		
+		<dc:creator><![CDATA[kim]]></dc:creator>
+		<pubDate>Fri, 01 Jun 2007 21:13:58 +0000</pubDate>
+				<category><![CDATA[l.a. city nerd]]></category>
+		<category><![CDATA[red]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[One of our favorite pseudonymous bloggers, the L.A. City Nerd (c&#39;mon, Antonio, we know it&#39;s you) has made one of the most rare of sightings, a new red 76 Ball in the wild and on the move. Visit his blog to see how carefully the balls are transported to their new homes in the sky. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>One of our favorite pseudonymous bloggers, the L.A. City Nerd (c&#39;mon, Antonio, we know it&#39;s you) has made one of the most rare of sightings, a new red 76 Ball in the wild and on the move. Visit his <a href="https://lacitynerd.blogspot.com/2007/05/76-balls-on-move.html" target="_blank">blog</a> to see how carefully the balls are transported to their new homes in the sky. </p>
+<p>Where will this one end up? Could it be <em>your</em> local 76 station?</p>
+<div id="themify_builder_content-227" data-postid="227" class="themify_builder_content themify_builder_content-227 themify_builder themify_builder_front">
+
+	</div>
+<!-- /themify_builder_content -->]]></content:encoded>
+					
+					<wfw:commentRss>https://www.savethe75ball.com/2007/06/01/lacitynerd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
