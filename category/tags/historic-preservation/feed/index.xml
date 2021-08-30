@@ -9,8 +9,8 @@
 
 <channel>
 	<title>historic preservation &#8211; save the 76 ball</title>
-	<atom:link href="https://www.savethe75ball.com/category/tags/historic-preservation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.savethe75ball.com/</link>
+	<atom:link href="/category/tags/historic-preservation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>it&#039;s not too late</description>
 	<lastBuildDate>Sat, 27 Jan 2007 18:07:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
 	<title>historic preservation &#8211; save the 76 ball</title>
-	<link>https://www.savethe75ball.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>LA CityBeat article: Americana- Saving Ray&#8217;s Balls</title>
-		<link>https://www.savethe75ball.com/2007/01/27/citybeat2/</link>
-					<comments>https://www.savethe75ball.com/2007/01/27/citybeat2/#comments</comments>
+		<link>/2007/01/27/citybeat2/</link>
+					<comments>/2007/01/27/citybeat2/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sat, 27 Jan 2007 18:07:53 +0000</pubDate>
@@ -52,15 +52,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/01/27/citybeat2/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/01/27/citybeat2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Seattle P-I article: A roadside icon, the 76 ball, comes &#8217;round again</title>
-		<link>https://www.savethe75ball.com/2007/01/26/seattlepi/</link>
-					<comments>https://www.savethe75ball.com/2007/01/26/seattlepi/#respond</comments>
+		<link>/2007/01/26/seattlepi/</link>
+					<comments>/2007/01/26/seattlepi/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 26 Jan 2007 17:11:57 +0000</pubDate>
@@ -130,7 +130,7 @@
 <li><strong>Where it was: </strong>In 1969, more than 18,000 stations reportedly had 76 balls. Dodger Stadium also had a 76 ball, and the gas station sign spawned millions of replica antenna toppers. </li>
 <li><strong>Price of regular gas in 1962: </strong> 31 cents a gallon </li>
 <li><strong>Price of regular gas in 2007:</strong> $2.59 a gallon </li>
-<li><strong>More online: </strong>Visit <a href="https://www.savethe75ball.com//">savethe76ball.com</a> </li>
+<li><strong>More online: </strong>Visit <a href="//">savethe76ball.com</a> </li>
 </div>
 <div class="vgray"><strong>P-I reporter Casey McNerthney can be reached at 206-448-8220 or <a href="mailto:caseymcnerthney@seattlepi.com">caseymcnerthney@seattlepi.com</a>.</strong></div>
 <p>&nbsp;</p>
@@ -139,15 +139,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/01/26/seattlepi/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/01/26/seattlepi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>We Won!</title>
-		<link>https://www.savethe75ball.com/2007/01/21/victory/</link>
-					<comments>https://www.savethe75ball.com/2007/01/21/victory/#comments</comments>
+		<link>/2007/01/21/victory/</link>
+					<comments>/2007/01/21/victory/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sun, 21 Jan 2007 19:25:12 +0000</pubDate>
@@ -173,15 +173,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/01/21/victory/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/01/21/victory/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sign the Petition</title>
-		<link>https://www.savethe75ball.com/2006/01/31/sign-the-petition/</link>
-					<comments>https://www.savethe75ball.com/2006/01/31/sign-the-petition/#comments</comments>
+		<link>/2006/01/31/sign-the-petition/</link>
+					<comments>/2006/01/31/sign-the-petition/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 31 Jan 2006 04:37:03 +0000</pubDate>
@@ -207,7 +207,7 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/01/31/sign-the-petition/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/01/31/sign-the-petition/feed/</wfw:commentRss>
 			<slash:comments>16</slash:comments>
 		
 		

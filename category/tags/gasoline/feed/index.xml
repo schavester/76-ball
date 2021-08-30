@@ -9,8 +9,8 @@
 
 <channel>
 	<title>gasoline &#8211; save the 76 ball</title>
-	<atom:link href="https://www.savethe75ball.com/category/tags/gasoline/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.savethe75ball.com/</link>
+	<atom:link href="/category/tags/gasoline/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>it&#039;s not too late</description>
 	<lastBuildDate>Wed, 08 Feb 2006 12:42:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
 	<title>gasoline &#8211; save the 76 ball</title>
-	<link>https://www.savethe75ball.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Press Release &#8211; Car Owners and California History Buffs Cry: Save the Union 76 Ball!</title>
-		<link>https://www.savethe75ball.com/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/</link>
-					<comments>https://www.savethe75ball.com/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/#comments</comments>
+		<link>/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/</link>
+					<comments>/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 08 Feb 2006 12:42:34 +0000</pubDate>
@@ -62,7 +62,7 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

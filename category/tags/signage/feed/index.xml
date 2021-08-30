@@ -9,8 +9,8 @@
 
 <channel>
 	<title>signage &#8211; save the 76 ball</title>
-	<atom:link href="https://www.savethe75ball.com/category/tags/signage/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.savethe75ball.com/</link>
+	<atom:link href="/category/tags/signage/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>it&#039;s not too late</description>
 	<lastBuildDate>Fri, 18 Aug 2006 18:56:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
 	<title>signage &#8211; save the 76 ball</title>
-	<link>https://www.savethe75ball.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Death of the Sawtelle Sphere</title>
-		<link>https://www.savethe75ball.com/2006/08/18/death-of-the-sawtelle-sphere/</link>
-					<comments>https://www.savethe75ball.com/2006/08/18/death-of-the-sawtelle-sphere/#comments</comments>
+		<link>/2006/08/18/death-of-the-sawtelle-sphere/</link>
+					<comments>/2006/08/18/death-of-the-sawtelle-sphere/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 18 Aug 2006 18:56:37 +0000</pubDate>
@@ -57,15 +57,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/08/18/death-of-the-sawtelle-sphere/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/18/death-of-the-sawtelle-sphere/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>More Hawaiian 76 Balls in Motion</title>
-		<link>https://www.savethe75ball.com/2006/06/27/more-hawaiian-76-balls-in-motion/</link>
-					<comments>https://www.savethe75ball.com/2006/06/27/more-hawaiian-76-balls-in-motion/#respond</comments>
+		<link>/2006/06/27/more-hawaiian-76-balls-in-motion/</link>
+					<comments>/2006/06/27/more-hawaiian-76-balls-in-motion/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2006 22:28:58 +0000</pubDate>
@@ -91,15 +91,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/06/27/more-hawaiian-76-balls-in-motion/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/27/more-hawaiian-76-balls-in-motion/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>PR Week feature: Cooper has a ball in effort to save brand icon</title>
-		<link>https://www.savethe75ball.com/2006/06/06/pr-week-feature-cooper-has-a-ball-in-effort-to-save-brand-icon/</link>
-					<comments>https://www.savethe75ball.com/2006/06/06/pr-week-feature-cooper-has-a-ball-in-effort-to-save-brand-icon/#respond</comments>
+		<link>/2006/06/06/pr-week-feature-cooper-has-a-ball-in-effort-to-save-brand-icon/</link>
+					<comments>/2006/06/06/pr-week-feature-cooper-has-a-ball-in-effort-to-save-brand-icon/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 06 Jun 2006 17:28:23 +0000</pubDate>
@@ -140,15 +140,15 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/06/06/pr-week-feature-cooper-has-a-ball-in-effort-to-save-brand-icon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/06/pr-week-feature-cooper-has-a-ball-in-effort-to-save-brand-icon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>An Offbeat Recollection of 76 Ball Manufacture</title>
-		<link>https://www.savethe75ball.com/2006/03/29/an-offbeat-recollection-of-76-ball-manufacture/</link>
-					<comments>https://www.savethe75ball.com/2006/03/29/an-offbeat-recollection-of-76-ball-manufacture/#respond</comments>
+		<link>/2006/03/29/an-offbeat-recollection-of-76-ball-manufacture/</link>
+					<comments>/2006/03/29/an-offbeat-recollection-of-76-ball-manufacture/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 29 Mar 2006 02:40:33 +0000</pubDate>
@@ -174,15 +174,15 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/03/29/an-offbeat-recollection-of-76-ball-manufacture/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/29/an-offbeat-recollection-of-76-ball-manufacture/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Visit To The 76 Ball Graveyeard</title>
-		<link>https://www.savethe75ball.com/2006/03/28/a-visit-to-the-76-ball-graveyeard/</link>
-					<comments>https://www.savethe75ball.com/2006/03/28/a-visit-to-the-76-ball-graveyeard/#comments</comments>
+		<link>/2006/03/28/a-visit-to-the-76-ball-graveyeard/</link>
+					<comments>/2006/03/28/a-visit-to-the-76-ball-graveyeard/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 28 Mar 2006 16:43:00 +0000</pubDate>
@@ -210,15 +210,15 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/03/28/a-visit-to-the-76-ball-graveyeard/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/28/a-visit-to-the-76-ball-graveyeard/feed/</wfw:commentRss>
 			<slash:comments>7</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nathan Marsak says &#8220;Save the 76 Ball!&#8221;</title>
-		<link>https://www.savethe75ball.com/2006/02/16/nathanpodcast1/</link>
-					<comments>https://www.savethe75ball.com/2006/02/16/nathanpodcast1/#respond</comments>
+		<link>/2006/02/16/nathanpodcast1/</link>
+					<comments>/2006/02/16/nathanpodcast1/#respond</comments>
 		
 		<dc:creator><![CDATA[rss]]></dc:creator>
 		<pubDate>Thu, 16 Feb 2006 00:19:53 +0000</pubDate>
@@ -242,15 +242,15 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/02/16/nathanpodcast1/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/02/16/nathanpodcast1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Press Release &#8211; Car Owners and California History Buffs Cry: Save the Union 76 Ball!</title>
-		<link>https://www.savethe75ball.com/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/</link>
-					<comments>https://www.savethe75ball.com/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/#comments</comments>
+		<link>/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/</link>
+					<comments>/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 08 Feb 2006 12:42:34 +0000</pubDate>
@@ -282,15 +282,15 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/02/08/press-release-car-owners-and-california-history-buffs-cry-save-the-union-76-ball/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sign the Petition</title>
-		<link>https://www.savethe75ball.com/2006/01/31/sign-the-petition/</link>
-					<comments>https://www.savethe75ball.com/2006/01/31/sign-the-petition/#comments</comments>
+		<link>/2006/01/31/sign-the-petition/</link>
+					<comments>/2006/01/31/sign-the-petition/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 31 Jan 2006 04:37:03 +0000</pubDate>
@@ -316,7 +316,7 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/01/31/sign-the-petition/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/01/31/sign-the-petition/feed/</wfw:commentRss>
 			<slash:comments>16</slash:comments>
 		
 		

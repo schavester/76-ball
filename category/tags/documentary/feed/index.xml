@@ -9,8 +9,8 @@
 
 <channel>
 	<title>documentary &#8211; save the 76 ball</title>
-	<atom:link href="https://www.savethe75ball.com/category/tags/documentary/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.savethe75ball.com/</link>
+	<atom:link href="/category/tags/documentary/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>it&#039;s not too late</description>
 	<lastBuildDate>Mon, 12 Jun 2006 18:07:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
 	<title>documentary &#8211; save the 76 ball</title>
-	<link>https://www.savethe75ball.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Gallery of 76 Balls In Motion</title>
-		<link>https://www.savethe75ball.com/2006/06/12/gallery-of-76-balls-in-motion/</link>
-					<comments>https://www.savethe75ball.com/2006/06/12/gallery-of-76-balls-in-motion/#respond</comments>
+		<link>/2006/06/12/gallery-of-76-balls-in-motion/</link>
+					<comments>/2006/06/12/gallery-of-76-balls-in-motion/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2006 18:07:51 +0000</pubDate>
@@ -57,7 +57,7 @@ Hank&#8217;s Union 76 service station, Kaneohe Bay Shopping Center, 46-047 Kameh
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/06/12/gallery-of-76-balls-in-motion/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/12/gallery-of-76-balls-in-motion/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

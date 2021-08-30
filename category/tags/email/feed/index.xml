@@ -9,8 +9,8 @@
 
 <channel>
 	<title>email &#8211; save the 76 ball</title>
-	<atom:link href="https://www.savethe75ball.com/category/tags/email/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.savethe75ball.com/</link>
+	<atom:link href="/category/tags/email/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>it&#039;s not too late</description>
 	<lastBuildDate>Fri, 09 Jun 2006 21:06:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
 	<title>email &#8211; save the 76 ball</title>
-	<link>https://www.savethe75ball.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Here&#8217;s a Save Our Balls graphic and email for fans to circulate</title>
-		<link>https://www.savethe75ball.com/2006/06/09/heres-a-save-our-balls-graphic-and-email-for-fans-to-circulate/</link>
-					<comments>https://www.savethe75ball.com/2006/06/09/heres-a-save-our-balls-graphic-and-email-for-fans-to-circulate/#respond</comments>
+		<link>/2006/06/09/heres-a-save-our-balls-graphic-and-email-for-fans-to-circulate/</link>
+					<comments>/2006/06/09/heres-a-save-our-balls-graphic-and-email-for-fans-to-circulate/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 09 Jun 2006 21:06:42 +0000</pubDate>
@@ -51,7 +51,7 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/06/09/heres-a-save-our-balls-graphic-and-email-for-fans-to-circulate/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/09/heres-a-save-our-balls-graphic-and-email-for-fans-to-circulate/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

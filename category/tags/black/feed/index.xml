@@ -9,8 +9,8 @@
 
 <channel>
 	<title>black &#8211; save the 76 ball</title>
-	<atom:link href="https://www.savethe75ball.com/category/tags/black/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.savethe75ball.com/</link>
+	<atom:link href="/category/tags/black/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>it&#039;s not too late</description>
 	<lastBuildDate>Wed, 26 Jul 2006 03:46:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
 	<title>black &#8211; save the 76 ball</title>
-	<link>https://www.savethe75ball.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>S &#038; M 76 Ball in Malibu</title>
-		<link>https://www.savethe75ball.com/2006/07/26/s-m-76-ball-in-malibu/</link>
-					<comments>https://www.savethe75ball.com/2006/07/26/s-m-76-ball-in-malibu/#comments</comments>
+		<link>/2006/07/26/s-m-76-ball-in-malibu/</link>
+					<comments>/2006/07/26/s-m-76-ball-in-malibu/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2006 03:46:26 +0000</pubDate>
@@ -53,7 +53,7 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/07/26/s-m-76-ball-in-malibu/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/26/s-m-76-ball-in-malibu/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

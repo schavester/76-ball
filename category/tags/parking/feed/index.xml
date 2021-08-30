@@ -9,8 +9,8 @@
 
 <channel>
 	<title>parking &#8211; save the 76 ball</title>
-	<atom:link href="https://www.savethe75ball.com/category/tags/parking/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.savethe75ball.com/</link>
+	<atom:link href="/category/tags/parking/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>it&#039;s not too late</description>
 	<lastBuildDate>Sun, 07 Jan 2007 17:43:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
 	<title>parking &#8211; save the 76 ball</title>
-	<link>https://www.savethe75ball.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>&#8220;ConocoPhillips Has Bigger Problems&#8230;&#8221;</title>
-		<link>https://www.savethe75ball.com/2007/01/07/conocophillips-has-bigger-problems/</link>
-					<comments>https://www.savethe75ball.com/2007/01/07/conocophillips-has-bigger-problems/#respond</comments>
+		<link>/2007/01/07/conocophillips-has-bigger-problems/</link>
+					<comments>/2007/01/07/conocophillips-has-bigger-problems/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sun, 07 Jan 2007 17:43:59 +0000</pubDate>
@@ -56,7 +56,7 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/01/07/conocophillips-has-bigger-problems/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/01/07/conocophillips-has-bigger-problems/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

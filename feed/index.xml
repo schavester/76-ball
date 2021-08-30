@@ -9,8 +9,8 @@
 
 <channel>
 	<title>save the 76 ball</title>
-	<atom:link href="https://www.savethe75ball.com/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.savethe75ball.com/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>it&#039;s not too late</description>
 	<lastBuildDate>Fri, 26 Oct 2007 00:34:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
 	<title>save the 76 ball</title>
-	<link>https://www.savethe75ball.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Halloween is here!</title>
-		<link>https://www.savethe75ball.com/2007/10/26/halloween2007/</link>
-					<comments>https://www.savethe75ball.com/2007/10/26/halloween2007/#comments</comments>
+		<link>/2007/10/26/halloween2007/</link>
+					<comments>/2007/10/26/halloween2007/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 26 Oct 2007 00:34:05 +0000</pubDate>
@@ -47,15 +47,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/10/26/halloween2007/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/10/26/halloween2007/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Palm Desert Station Owner Happy He Gets to Keep His Ball</title>
-		<link>https://www.savethe75ball.com/2007/07/26/palmdesert/</link>
-					<comments>https://www.savethe75ball.com/2007/07/26/palmdesert/#respond</comments>
+		<link>/2007/07/26/palmdesert/</link>
+					<comments>/2007/07/26/palmdesert/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Thu, 26 Jul 2007 21:30:25 +0000</pubDate>
@@ -94,15 +94,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/07/26/palmdesert/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/07/26/palmdesert/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Preservation Online feature &#8220;On the Ball: How the 76 Ball Was Saved&#8221;</title>
-		<link>https://www.savethe75ball.com/2007/07/17/preservation/</link>
-					<comments>https://www.savethe75ball.com/2007/07/17/preservation/#respond</comments>
+		<link>/2007/07/17/preservation/</link>
+					<comments>/2007/07/17/preservation/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 17 Jul 2007 03:24:15 +0000</pubDate>
@@ -120,7 +120,7 @@
 <td>
 <p class="text">From <a href="https://www.nationaltrust.org/magazine/story/index.htm" target="_blank">Preservation Online</a>, the online magazine of the National          Trust for Historic Preservation</p>
 <p class="text">www.preservationonline.org</p>
-<p> 						       <span class="texttitle">On the Ball</span><br />       <span class="textbold"><em><span class="text">How the 76 Ball Was Saved</span></em></span> <br />       <img loading="lazy" src="https://www.savethe75ball.com/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" /><br />       <span class="textsmall">Story by Arin Greenwood / July 13, 2007</span><br />       <img loading="lazy" src="https://www.savethe75ball.com/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" />       </p>
+<p> 						       <span class="texttitle">On the Ball</span><br />       <span class="textbold"><em><span class="text">How the 76 Ball Was Saved</span></em></span> <br />       <img loading="lazy" src="/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" /><br />       <span class="textsmall">Story by Arin Greenwood / July 13, 2007</span><br />       <img loading="lazy" src="/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" />       </p>
 <p class="text" align="left">About a year and a half ago, Kim Cooper and her husband, Richard Schave, were driving in Los AngelesÃ¢â‚¬â€perhaps to get some dumplings for lunch, she recallsÃ¢â‚¬â€when at a stop light she happened to look up and find herself shocked by what she saw: changes to the Union 76 gas station on the corner. Big changes. </p>
 <p class="text" align="left">The colors of the station were different: The standard orange and blue colors that had been there for as long as Cooper could remember were gone, and they&#39;d been replaced with bright and jarring red. And the station had installed a signÃ¢â‚¬â€a terrible sign, Kim says, a sign that looked like a gigantic, blood-red &quot;blister pack&quot; that aspirin might come in. </p>
 <p class="text" align="left">&quot;Now that 76 Station had never had a 76 ball, but it was the standard orange and blue. And suddenly it wasn&#39;t anymore,&quot; Cooper says. &quot;I just sat there festering, going, &#39;That doesn&#39;t look right. That looks really wrong. Did corporate, like, send out the wrong plastic?&#39;&quot; </p>
@@ -149,15 +149,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/07/17/preservation/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/07/17/preservation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>In memory of Earl Ma, 1971-2007</title>
-		<link>https://www.savethe75ball.com/2007/06/11/ripearlma/</link>
-					<comments>https://www.savethe75ball.com/2007/06/11/ripearlma/#comments</comments>
+		<link>/2007/06/11/ripearlma/</link>
+					<comments>/2007/06/11/ripearlma/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Mon, 11 Jun 2007 07:02:17 +0000</pubDate>
@@ -177,15 +177,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/06/11/ripearlma/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/06/11/ripearlma/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Nerd Knows His Red Balls</title>
-		<link>https://www.savethe75ball.com/2007/06/01/lacitynerd/</link>
-					<comments>https://www.savethe75ball.com/2007/06/01/lacitynerd/#respond</comments>
+		<link>/2007/06/01/lacitynerd/</link>
+					<comments>/2007/06/01/lacitynerd/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Fri, 01 Jun 2007 21:13:58 +0000</pubDate>
@@ -201,15 +201,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/06/01/lacitynerd/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/06/01/lacitynerd/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Red Ball Cometh, The Orange Ball Falls</title>
-		<link>https://www.savethe75ball.com/2007/03/31/redballcometh/</link>
-					<comments>https://www.savethe75ball.com/2007/03/31/redballcometh/#comments</comments>
+		<link>/2007/03/31/redballcometh/</link>
+					<comments>/2007/03/31/redballcometh/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sat, 31 Mar 2007 15:36:49 +0000</pubDate>
@@ -233,15 +233,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/03/31/redballcometh/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/31/redballcometh/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ray Pedersen To Get A Ball (also, you)</title>
-		<link>https://www.savethe75ball.com/2007/02/27/raygetsaball/</link>
-					<comments>https://www.savethe75ball.com/2007/02/27/raygetsaball/#respond</comments>
+		<link>/2007/02/27/raygetsaball/</link>
+					<comments>/2007/02/27/raygetsaball/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 27 Feb 2007 18:35:39 +0000</pubDate>
@@ -257,15 +257,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/02/27/raygetsaball/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/02/27/raygetsaball/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Eye on the Beverly Hills 76 Ball</title>
-		<link>https://www.savethe75ball.com/2007/02/20/eyeonbeverlyhills/</link>
-					<comments>https://www.savethe75ball.com/2007/02/20/eyeonbeverlyhills/#respond</comments>
+		<link>/2007/02/20/eyeonbeverlyhills/</link>
+					<comments>/2007/02/20/eyeonbeverlyhills/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 20 Feb 2007 15:47:28 +0000</pubDate>
@@ -287,15 +287,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/02/20/eyeonbeverlyhills/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/02/20/eyeonbeverlyhills/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LA Observed Native Intelligence videoblog:  How the 76 ball was saved</title>
-		<link>https://www.savethe75ball.com/2007/01/31/laobserved/</link>
-					<comments>https://www.savethe75ball.com/2007/01/31/laobserved/#comments</comments>
+		<link>/2007/01/31/laobserved/</link>
+					<comments>/2007/01/31/laobserved/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Wed, 31 Jan 2007 15:39:58 +0000</pubDate>
@@ -317,15 +317,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/01/31/laobserved/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/01/31/laobserved/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LA CityBeat article: Americana- Saving Ray&#8217;s Balls</title>
-		<link>https://www.savethe75ball.com/2007/01/27/citybeat2/</link>
-					<comments>https://www.savethe75ball.com/2007/01/27/citybeat2/#comments</comments>
+		<link>/2007/01/27/citybeat2/</link>
+					<comments>/2007/01/27/citybeat2/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sat, 27 Jan 2007 18:07:53 +0000</pubDate>
@@ -347,7 +347,7 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/01/27/citybeat2/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/01/27/citybeat2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>drupal &#8211; save the 76 ball</title>
-	<atom:link href="https://www.savethe75ball.com/category/tags/drupal/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.savethe75ball.com/</link>
+	<atom:link href="/category/tags/drupal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>it&#039;s not too late</description>
 	<lastBuildDate>Thu, 31 Mar 2016 23:03:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://www.savethe75ball.com/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
 	<title>drupal &#8211; save the 76 ball</title>
-	<link>https://www.savethe75ball.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Preservation Online feature &#8220;On the Ball: How the 76 Ball Was Saved&#8221;</title>
-		<link>https://www.savethe75ball.com/2007/07/17/preservation/</link>
-					<comments>https://www.savethe75ball.com/2007/07/17/preservation/#respond</comments>
+		<link>/2007/07/17/preservation/</link>
+					<comments>/2007/07/17/preservation/#respond</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Tue, 17 Jul 2007 03:24:15 +0000</pubDate>
@@ -48,7 +48,7 @@
 <td>
 <p class="text">From <a href="https://www.nationaltrust.org/magazine/story/index.htm" target="_blank">Preservation Online</a>, the online magazine of the National          Trust for Historic Preservation</p>
 <p class="text">www.preservationonline.org</p>
-<p> 						       <span class="texttitle">On the Ball</span><br />       <span class="textbold"><em><span class="text">How the 76 Ball Was Saved</span></em></span> <br />       <img loading="lazy" src="https://www.savethe75ball.com/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" /><br />       <span class="textsmall">Story by Arin Greenwood / July 13, 2007</span><br />       <img loading="lazy" src="https://www.savethe75ball.com/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" />       </p>
+<p> 						       <span class="texttitle">On the Ball</span><br />       <span class="textbold"><em><span class="text">How the 76 Ball Was Saved</span></em></span> <br />       <img loading="lazy" src="/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" /><br />       <span class="textsmall">Story by Arin Greenwood / July 13, 2007</span><br />       <img loading="lazy" src="/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" />       </p>
 <p class="text" align="left">About a year and a half ago, Kim Cooper and her husband, Richard Schave, were driving in Los AngelesÃ¢â‚¬â€perhaps to get some dumplings for lunch, she recallsÃ¢â‚¬â€when at a stop light she happened to look up and find herself shocked by what she saw: changes to the Union 76 gas station on the corner. Big changes. </p>
 <p class="text" align="left">The colors of the station were different: The standard orange and blue colors that had been there for as long as Cooper could remember were gone, and they&#39;d been replaced with bright and jarring red. And the station had installed a signÃ¢â‚¬â€a terrible sign, Kim says, a sign that looked like a gigantic, blood-red &quot;blister pack&quot; that aspirin might come in. </p>
 <p class="text" align="left">&quot;Now that 76 Station had never had a 76 ball, but it was the standard orange and blue. And suddenly it wasn&#39;t anymore,&quot; Cooper says. &quot;I just sat there festering, going, &#39;That doesn&#39;t look right. That looks really wrong. Did corporate, like, send out the wrong plastic?&#39;&quot; </p>
@@ -77,15 +77,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/07/17/preservation/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/07/17/preservation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>We Won!</title>
-		<link>https://www.savethe75ball.com/2007/01/21/victory/</link>
-					<comments>https://www.savethe75ball.com/2007/01/21/victory/#comments</comments>
+		<link>/2007/01/21/victory/</link>
+					<comments>/2007/01/21/victory/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sun, 21 Jan 2007 19:25:12 +0000</pubDate>
@@ -111,15 +111,15 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2007/01/21/victory/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/01/21/victory/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>What You Can Do To Help</title>
-		<link>https://www.savethe75ball.com/2006/02/12/what-you-can-do-to-help/</link>
-					<comments>https://www.savethe75ball.com/2006/02/12/what-you-can-do-to-help/#comments</comments>
+		<link>/2006/02/12/what-you-can-do-to-help/</link>
+					<comments>/2006/02/12/what-you-can-do-to-help/#comments</comments>
 		
 		<dc:creator><![CDATA[kim]]></dc:creator>
 		<pubDate>Sun, 12 Feb 2006 17:41:45 +0000</pubDate>
@@ -148,7 +148,7 @@
 	</div>
 <!-- /themify_builder_content -->]]></content:encoded>
 					
-					<wfw:commentRss>https://www.savethe75ball.com/2006/02/12/what-you-can-do-to-help/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/02/12/what-you-can-do-to-help/feed/</wfw:commentRss>
 			<slash:comments>25</slash:comments>
 		
 		
