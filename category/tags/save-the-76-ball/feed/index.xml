@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -68,7 +68,7 @@
 <p> The 76 Ball is not the first piece of disappearing street furniture that the star has attempted to save. </p>
 <p> He is also buying one of Britain&#8217;s old red telephone boxes in an effort to preserve a little bit of the London that he remembers. </p>
 <p> &quot;I&#8217;m in the process of purchasing one of the phone boxes for myself and having it put up in the front of the garden. My kids aren&#8217;t going to see the same London that I saw, my kids aren&#8217;t going to see the same California that I saw.&quot; </p>
-<div class="footer"> Story from BBC NEWS:<br /><a href="https://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm" target="_blank"> https://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm</a></p>
+<div class="footer"> Story from BBC NEWS:<br /><a href="http://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm" target="_blank"> http://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm</a></p>
 <p> Published: 2006/06/08 07:18:04 GMT</p>
 <p> &copy; BBC MMVI </div>
 <div id="themify_builder_content-174" data-postid="174" class="themify_builder_content themify_builder_content-174 themify_builder themify_builder_front">
@@ -99,10 +99,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Cooper has a ball in effort to save brand iconby Randi Schmelzer &#8211; 5 Jun 2006 10:53 Burma-Shave rhyme signs, Howard Johnson&#8217;s orange roofs, KFC&#8217;s revolving chicken buckets: all pieces of modern Americana that today exist mostly in memory alone. Now, the iconic orange-and-blue Union 76 gas-station ball is on its way to joining them [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/161802452/"><img loading="lazy" width="500" height="343" border="0" alt="Kim Cooper and endangered 76 ball by Ricardo DeAratanha" src="https://static.flickr.com/52/161802452_5ae90c092f.jpg" /></a><br />
+										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/161802452/"><img loading="lazy" width="500" height="343" border="0" alt="Kim Cooper and endangered 76 ball by Ricardo DeAratanha" src="http://static.flickr.com/52/161802452_5ae90c092f.jpg" /></a><br />
 Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5 Jun 2006 10:53</p>
 <p><strong>Burma-Shave rhyme signs, Howard Johnson&#8217;s orange roofs, KFC&#8217;s revolving chicken buckets: all pieces of modern Americana that today exist mostly in memory alone. Now, the iconic orange-and-blue Union 76 gas-station ball is on its way to joining them &#8211; unless Kim Cooper can stop it.</strong></p>
-<p>Cooper, 39, is a native Angelino and self-proclaimed &quot;ultimate dilettante.&quot; From editing and publishing <a target="_blank" href="https://www.scrammagazine.com/">Scram</a>, a journal of un- popular culture, to co-hosting the &quot;<a target="_blank" href="https://www.1947project.com/">1947project</a>,&quot; a blog and bus-tour series highlighting LA&#8217;s off-the-beaten-path crime sites, &quot;my job is rescuing the underdog from neglect and destruction,&quot; she says.</p>
+<p>Cooper, 39, is a native Angelino and self-proclaimed &quot;ultimate dilettante.&quot; From editing and publishing <a target="_blank" href="http://www.scrammagazine.com/">Scram</a>, a journal of un- popular culture, to co-hosting the &quot;<a target="_blank" href="http://www.1947project.com/">1947project</a>,&quot; a blog and bus-tour series highlighting LA&#8217;s off-the-beaten-path crime sites, &quot;my job is rescuing the underdog from neglect and destruction,&quot; she says.</p>
 <p>The underdog this time is the 76 ball, the 45-year-old victim of a quiet marketing shift that began just after the 2002 merger of gas giants Conoco and Phillips.</p>
 <p>According to its 2004 annual report, ConocoPhillips, which operates Conoco and Phillips gas stations, as well as 76, that year initiated a project to streamline the three brands&#8217; marketing efforts. So while its Web site refers to the 76 logo as &quot;a long-trusted symbol [that] means something special to our customers,&quot; its most recent graphic-standards manual calls for a brand-consistent red-and-blue color scheme, rather than the historic, eye-popping orange.</p>
 <p>&quot;They began knocking down the 76 balls,&quot; Cooper recalls. These omnipresent symbols for gasoline in many parts of the US were methodically being substituted with ground-level &quot;monuments&quot; or taller, disc-shaped signage. Many of the LA area&#8217;s 400 spheres have already been replaced, including the one that rose above Dodger Stadium for decades.</p>
@@ -114,12 +114,12 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 <p>Cooper admits that on some level, the effort is prank-like and &quot;silly.&quot; She says she&#8217;s &quot;been attacked by people for putting my energies into this rather frivolous and highly charged campaign.&quot;</p>
 <p>But saving the 76 sphere is about more than a gas-station sign. &quot;If you don&#8217;t look at what&#8217;s around you, it&#8217;s very easy to not care if things get knocked down and destroyed, things that actually reflect the culture, history, and changes of your place,&quot; she explains. &quot;I think it&#8217;s a tragedy.&quot;</p>
 <p>Kim Cooper</p>
-<p>2005-present<br />Cofounder, <a target="_blank" href="https://www.explosivepr.com/">Explosive PR</a>/<a target="_blank" href="https://www.dumplingfeed.com/">Dumplingfeed</a> media consultancy</p>
+<p>2005-present<br />Cofounder, <a target="_blank" href="http://www.explosivepr.com/">Explosive PR</a>/<a target="_blank" href="http://www.dumplingfeed.com/">Dumplingfeed</a> media consultancy</p>
 <p>1995-2000<br />Exhibition coordinator and librarian, LA Museum of Contemporary Art</p>
-<p>1991-1992<br />Researcher, The Oakland Museum of California<br />&nbsp;<br />Copyright &copy; 2005&nbsp; <a target="_blank" href="https://www.prweek.com/">PRWeek</a></p>
+<p>1991-1992<br />Researcher, The Oakland Museum of California<br />&nbsp;<br />Copyright &copy; 2005&nbsp; <a target="_blank" href="http://www.prweek.com/">PRWeek</a></p>
 <p>photo by Ricardo DeAratanha, LA Times  </p>
 <p>&nbsp;</p>
-<p> <a target="_blank" href="https://www.prweek.com/" /></p>
+<p> <a target="_blank" href="http://www.prweek.com/" /></p>
 <div id="themify_builder_content-173" data-postid="173" class="themify_builder_content themify_builder_content-173 themify_builder themify_builder_front">
 
 	</div>
@@ -142,7 +142,7 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[WANTED: for a major opportunity to help Save the 76 Ball, any 76 Ball fans in Indianapolis who have some 76 memorabilia handy and would be willing to loan it to our Earl Ma before Monday, please contact us immediately. This is your chance to be part of a very cool, celebrity surprise that will [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>WANTED: for a major opportunity to help Save the 76 Ball, any 76 Ball fans in Indianapolis who have some 76 memorabilia handy and would be willing to loan it to our Earl Ma before Monday, please <a href="https://www.76upgrade.richardschave.com//feedback" target="_blank">contact</a> us immediately. This is your chance to be part of a very cool, celebrity surprise that will be posted on this site presently. Antenna toppers, keychains, magic 76/8 balls, decals, t-shirts, anything will do, and we are grateful for your help. Thanks!</p>
+										<content:encoded><![CDATA[<p>WANTED: for a major opportunity to help Save the 76 Ball, any 76 Ball fans in Indianapolis who have some 76 memorabilia handy and would be willing to loan it to our Earl Ma before Monday, please <a href="http://www.76upgrade.richardschave.com//feedback" target="_blank">contact</a> us immediately. This is your chance to be part of a very cool, celebrity surprise that will be posted on this site presently. Antenna toppers, keychains, magic 76/8 balls, decals, t-shirts, anything will do, and we are grateful for your help. Thanks!</p>
 <div id="themify_builder_content-172" data-postid="172" class="themify_builder_content themify_builder_content-172 themify_builder themify_builder_front">
 
 	</div>
@@ -168,8 +168,8 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 
 					<description><![CDATA[What a thrill for this native Angeleno to pick up the &#34;bulldog&#34; (Saturday&#8217;s preview) edition of the Sunday L.A. Times and discover that reporter Steve Gold&#8217;s delightful story about the 76 Ball was on the front page, under the fold! Welcome, L.A. Times readers, and for those who haven&#8217;t seen the piece yet, you can [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>What a thrill for this native Angeleno to pick up the &quot;bulldog&quot; (Saturday&#8217;s preview) edition of the Sunday L.A. Times and discover that reporter Steve Gold&#8217;s delightful story about the 76 Ball was on the <em>front</em> page, under the fold! </p>
-<p>Welcome, L.A. Times readers, and for those who haven&#8217;t seen the piece yet, you can read it online <a href="https://www.latimes.com/news/local/la-me-unocal14may14,0,2383590,full.story?coll=la-home-local" target="_blank">here</a>. (But to see the silly photo of me posing like Atlas with a 76 meatball in my palm, you&#8217;ll have to pick up the paper.)</p>
-<p>And there are so many terrific comments on the&nbsp; petition this morning. <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">Please sign</a> if you haven&#8217;t already, and spread the word to your friends. If the 76 Ball is going to be saved, it&#8217;s up to people like you to <em>quickly </em>show the new owners that this is just bad business. </p>
+<p>Welcome, L.A. Times readers, and for those who haven&#8217;t seen the piece yet, you can read it online <a href="http://www.latimes.com/news/local/la-me-unocal14may14,0,2383590,full.story?coll=la-home-local" target="_blank">here</a>. (But to see the silly photo of me posing like Atlas with a 76 meatball in my palm, you&#8217;ll have to pick up the paper.)</p>
+<p>And there are so many terrific comments on the&nbsp; petition this morning. <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">Please sign</a> if you haven&#8217;t already, and spread the word to your friends. If the 76 Ball is going to be saved, it&#8217;s up to people like you to <em>quickly </em>show the new owners that this is just bad business. </p>
 <div id="themify_builder_content-170" data-postid="170" class="themify_builder_content themify_builder_content-170 themify_builder themify_builder_front">
 
 	</div>
@@ -196,10 +196,10 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Reporter Darleene Powells, who filed a swell piece on our 1947project Crime Bus tour earlier this year, was witness to this sad scene as she drove to the Y this morning: Yes, that is the wonderful spinning ball at Monterey and Avenue 60 in the tiny NE Los Angeles township of Hermon, the same ball [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Reporter Darleene Powells, who filed a swell piece on our <a href="https://www.1947project.com/" target="_self">1947project</a> Crime Bus tour earlier this year, <a href="https://www.darleeneisms.la/2006/04/ball-comes-down.html" target="_blank">was witness</a> to this sad scene as she drove to the Y this morning:</p>
-<p><img loading="lazy" width="500" height="351" border="0" src="https://static.flickr.com/47/128220566_6b2094e59a.jpg" /></p>
+										<content:encoded><![CDATA[<p>Reporter Darleene Powells, who filed a swell piece on our <a href="http://www.1947project.com/" target="_self">1947project</a> Crime Bus tour earlier this year, <a href="http://www.darleeneisms.la/2006/04/ball-comes-down.html" target="_blank">was witness</a> to this sad scene as she drove to the Y this morning:</p>
+<p><img loading="lazy" width="500" height="351" border="0" src="http://static.flickr.com/47/128220566_6b2094e59a.jpg" /></p>
 <p>Yes, that is the wonderful spinning ball at Monterey and Avenue 60 in the tiny NE Los Angeles township of Hermon, the same ball featured on the KTLA Morning News&#8217; feature on the Save the 76 Ball campaign.</p>
-<p>Darleene notes: <em>I&#8217;d read about this a couple of times on Franklin Avenue (<a href="https://franklinavenue.blogspot.com/2006/02/save-76-meatball.html">here</a>, <a href="https://franklinavenue.blogspot.com/2005/08/orange-no-more.html">here</a> and <a href="https://franklinavenue.blogspot.com/2005/10/meatball-is-toast.html">here</a>) and later noted to myself, a little smugly, that the 76 station near my house still featured its meatball. I have to admit I was hoping that this 76 station, tucked into an area of Los Angeles doesn&#8217;t feel like Los Angeles, would escape notice, but alas. There goes the ball, sitting sadly on its 6.</em>  </p>
+<p>Darleene notes: <em>I&#8217;d read about this a couple of times on Franklin Avenue (<a href="http://franklinavenue.blogspot.com/2006/02/save-76-meatball.html">here</a>, <a href="http://franklinavenue.blogspot.com/2005/08/orange-no-more.html">here</a> and <a href="http://franklinavenue.blogspot.com/2005/10/meatball-is-toast.html">here</a>) and later noted to myself, a little smugly, that the 76 station near my house still featured its meatball. I have to admit I was hoping that this 76 station, tucked into an area of Los Angeles doesn&#8217;t feel like Los Angeles, would escape notice, but alas. There goes the ball, sitting sadly on its 6.</em>  </p>
 <p>It&#8217;s ironic, as we enter the Easter season, to see this icon of modern design pulled down from its pole&#8230; perhaps not such a huge leap to the image of the dead Christ taken down from the cross? Like Christ, we hope our beloved 76 Balls will be resurrected, as ConocoPhillips crunches the numbers and sees that since consumers do have a choice, many of them are no longer shopping where the 76 Ball doesn&#8217;t fly. </p>
 <p>Save the 76 Ball! It&#8217;s not too late!&nbsp;</p>
 <div id="themify_builder_content-167" data-postid="167" class="themify_builder_content themify_builder_content-167 themify_builder themify_builder_front">
@@ -226,7 +226,7 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The Old Ball Game (link) Last autumn, ConocoPhillips began to pluck the famous orange balls from their posts at Union 76 and Unocal gas stations and replace them with flat, rectangular signs that aren&#8217;t even orange. This sent loyal customers and commercial-design mavens into a fury. To fight back, local writer Kim Cooper launched Savethe76ball.com [&#8230;]]]></description>
-										<content:encoded><![CDATA[<h3>The Old Ball Game (<a href="https://lacitybeat.com/article.php?id=3604&#038;IssueNum=149" target="_blank">link</a>)<br /> </h3>
+										<content:encoded><![CDATA[<h3>The Old Ball Game (<a href="http://lacitybeat.com/article.php?id=3604&#038;IssueNum=149" target="_blank">link</a>)<br /> </h3>
 <p> Last autumn, ConocoPhillips began to pluck the famous orange balls from their posts at Union 76 and Unocal gas stations and replace them with flat, rectangular signs that aren&rsquo;t even orange. This sent loyal customers and commercial-design mavens into a fury. To fight back, local writer Kim Cooper launched Savethe76ball.com in January. Ray Pedersen, the ball&rsquo;s designer, soon took notice, and the two joined forces to launch the campaign &ldquo;Save Ray&rsquo;s Balls.&rdquo; </p>
 <p>The ball was born at the 1962 Seattle World&rsquo;s Fair, when Pedersen was approached to create a marker for 76 at a unique skyride installation. &ldquo;But hanging a sign on it,&rdquo; said Pedersen, &ldquo;would be tantamount to ruining something architecturally beautiful.&rdquo; Instead, he ran a pole up the center of the base and hung a sign on that. As it spun, Pedersen recalls, &ldquo;It looked like hell. It was a lollipop. I said, &lsquo;We need a ball &hellip; and I&rsquo;d like to light the damn thing from inside. Everybody looked at me like I was crazy.&rdquo; </p>
 <p>Nevertheless, Pedersen started building the ball. But he was nearly fired for racking up almost $50,000 in expenses. When he saw his boss standing beneath the prototype, waving his arms and pointing at it, Pedersen thought he was &ldquo;in deep doo-doo.&rdquo; Much to his surprise, he says, his boss emphatically shouted &ldquo;Goddammit, we&rsquo;re gonna put one of these up at every station!&rdquo; </p>
@@ -263,10 +263,10 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 
 					<description><![CDATA[Thanks to the good folks at Los Angeles Magazine (April issue, not yet online) for the swell piece on the campaign to Save the 76 Ball. We are tickled to see our Ray&#8217;s balls next to the Bettie Page feature, and further tickled by the ConocoPhillips spokesperson&#8217;s amusing claims that they had heard nothing about [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Thanks to the good folks at <a target="_blank" href="https://www.lamag.com/Me2/Default.asp">Los Angeles Magazine</a> (April issue, not yet online) for the swell piece on the campaign to Save the 76 Ball. </p>
+<p>Thanks to the good folks at <a target="_blank" href="http://www.lamag.com/Me2/Default.asp">Los Angeles Magazine</a> (April issue, not yet online) for the swell piece on the campaign to Save the 76 Ball. </p>
 <p>We are tickled to see our Ray&#8217;s balls next to the Bettie Page feature, and further tickled by the ConocoPhillips spokesperson&#8217;s amusing claims that they had heard <em>nothing</em> about any campaign to Save the 76 Ball&#8211;really? so the calls from the BBC, <em>LA Business Journal, Brandweek</em>, KTLA, KABC and <em>Daily Telegraph</em> didn&#8217;t go through?&#8211;and that anyway, they had heard <em>many more</em> complements than complaints about the new signs.</p>
 <p>Nice work, PR flack! That&#8217;s what the boss men want to hear!</p>
-<p>&#8230;now the <em>stockholders</em>, on the other hand, might be interested in knowing that as of today, 1493 people have <a target="_blank" href="https://www.petitiononline.com/mod_perl/signed.cgi?76ball&#038;1">signed the petition</a> supporting the retention of the balls, most pledging not to purchase gas from your stations unless an orange sphere flies high above!</p>
+<p>&#8230;now the <em>stockholders</em>, on the other hand, might be interested in knowing that as of today, 1493 people have <a target="_blank" href="http://www.petitiononline.com/mod_perl/signed.cgi?76ball&#038;1">signed the petition</a> supporting the retention of the balls, most pledging not to purchase gas from your stations unless an orange sphere flies high above!</p>
 <p>Take special note of signatory Charles Vaughan (#1440), who proclaims &quot;$300 in personal gasoline expense a month and well over $1000 for my company is now being spent at Exxon.&quot; Ouch! That&#8217;s a pretty expensive side effect from a failed re-branding attempt!</p>
 <p>So c&#8217;mon, let&#8217;s Save Ray&#8217;s Balls! It&#8217;s not too late! </p>
 <div id="themify_builder_content-165" data-postid="165" class="themify_builder_content themify_builder_content-165 themify_builder themify_builder_front">
@@ -296,10 +296,10 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 					<description><![CDATA[Intrepid 76 Ball Fan J. Eric Freedner has made a startling discovery near Fresno, CA, a discovery that bodes well for those of us who believe ConocoPhillips needs to REPLACE the 76 Balls that they&#8217;ve taken down from their poles. He reports: Well, I had a feeling I would find the &#34;missing&#34; 76 balls and&#8230; [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Intrepid 76 Ball Fan J. Eric Freedner has made a startling discovery near Fresno, CA, a discovery that bodes well for those of us who believe ConocoPhillips needs to REPLACE the 76 Balls that they&#8217;ve taken down from their poles. He reports:</p>
 <p> Well, I had a feeling I  would find the &quot;missing&quot; 76 balls and&#8230; here they are! </p>
-<p><img border="0" src="https://static.flickr.com/47/119375652_89badd6baf.jpg" /></p>
+<p><img border="0" src="http://static.flickr.com/47/119375652_89badd6baf.jpg" /></p>
 <p>A whole bunch of orange balls is now in the yard of Nelson Sign Service on  Golden State Highway (Old Route 99) in Fresno, California.</p>
-<p><img border="0" src="https://static.flickr.com/45/119375653_b338c03311.jpg" /> These weren&#8217;t here a few months ago!&nbsp;&nbsp; What do they plan to do  with them?&nbsp;&nbsp; Spheres take up a whole lot more space than flat signs so  I have a feeling Mr. Nelson won&#8217;t keep them around forever&#8230;</p>
-<p><img border="0" src="https://static.flickr.com/43/119375654_51b777b232.jpg" />&nbsp;</p>
+<p><img border="0" src="http://static.flickr.com/45/119375653_b338c03311.jpg" /> These weren&#8217;t here a few months ago!&nbsp;&nbsp; What do they plan to do  with them?&nbsp;&nbsp; Spheres take up a whole lot more space than flat signs so  I have a feeling Mr. Nelson won&#8217;t keep them around forever&#8230;</p>
+<p><img border="0" src="http://static.flickr.com/43/119375654_51b777b232.jpg" />&nbsp;</p>
 <p>&nbsp;</p>
 <div>There are also some flat 76 signs such as this old Fast Break one.&nbsp;  I&#8217;m not sure if the &quot;Fast Break&quot; chain is still in business.&nbsp;&nbsp; Haven&#8217;t  seen any with the new red 76 logos, anyway.</div>
 <div>&nbsp;</div>
@@ -331,10 +331,10 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The good folks of the Modcom division of the Los Angeles Conservancy have extended an invitation to discuss the Save the 76 Ball campaign at Monday night&#8217;s monthly meeting in Santa Monica, CA. Friends of the 76 Ball are invited to attend this free meeting to connect with others interested in saving the signs, and [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>The good folks of the Modcom division of the Los Angeles Conservancy have extended an invitation to discuss the Save the 76 Ball campaign at Monday night&#8217;s monthly meeting in Santa Monica, CA. Friends of the 76 Ball are invited to attend this free meeting to connect with others interested in saving the signs, and learn about the important work of Modcom. The 76 Ball discussion will be in &quot;new business&quot; in the 8pm hour, but please come early if you can. <a href="https://www.modcom.org/" target="_blank">More info</a>: </p>
+										<content:encoded><![CDATA[<p>The good folks of the Modcom division of the Los Angeles Conservancy have extended an invitation to discuss the Save the 76 Ball campaign at Monday night&#8217;s monthly meeting in Santa Monica, CA. Friends of the 76 Ball are invited to attend this free meeting to connect with others interested in saving the signs, and learn about the important work of Modcom. The 76 Ball discussion will be in &quot;new business&quot; in the 8pm hour, but please come early if you can. <a href="http://www.modcom.org/" target="_blank">More info</a>: </p>
 <p><strong>Monday, March 20th</strong><br />       6:30PM meet &amp; greet<br />       7:00PM meeting</p>
-<p>       <strong>Santa Monica Main Library</strong><br />       Multi-Purpose Room <br />       601 Santa Monica Blvd. <br />       Santa Monica, CA 90401 <br />       <a href="https://www.smpl.org/depts/branches/index.htm">MAP</a></p>
-<p>       Our friends at the <a href="https://www.smconservancy.org/mtpages/main.shtml">Santa Monica Conservancy</a> will be joining us for the meeting. SM Conservancy Vice-President John Zinner, a leading sustainable development consultant, will give a brief discussion on the value of green buildings, of which the Main Library is a noteworthy example, and the connection to historic preservation.  </p>
+<p>       <strong>Santa Monica Main Library</strong><br />       Multi-Purpose Room <br />       601 Santa Monica Blvd. <br />       Santa Monica, CA 90401 <br />       <a href="http://www.smpl.org/depts/branches/index.htm">MAP</a></p>
+<p>       Our friends at the <a href="http://www.smconservancy.org/mtpages/main.shtml">Santa Monica Conservancy</a> will be joining us for the meeting. SM Conservancy Vice-President John Zinner, a leading sustainable development consultant, will give a brief discussion on the value of green buildings, of which the Main Library is a noteworthy example, and the connection to historic preservation.  </p>
 <div id="themify_builder_content-158" data-postid="158" class="themify_builder_content themify_builder_content-158 themify_builder themify_builder_front">
 
 	</div>
@@ -358,14 +358,14 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The following article appeared on the Swedish website (newspaper?) Ny Teknik. If any of our readers can read Swedish, we would love to know what it says! Amerikaner sl&#229;ss f&#246;r sina bollar Bensinstationskedjan Union 76s skyltar har blivit en del av allas v&#229;r bild av USA. Antingen vi sett dem p&#229; plats l&#228;ngs n&#229;gon Interstate [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>The following article appeared on the Swedish website (newspaper?) <a href="https://www.nyteknik.se/pub/ipsart.asp?art_id=45017" target="_blank">Ny Teknik</a>. If any of our readers can read Swedish, we would love to know what it says!</p>
+										<content:encoded><![CDATA[<p>The following article appeared on the Swedish website (newspaper?) <a href="http://www.nyteknik.se/pub/ipsart.asp?art_id=45017" target="_blank">Ny Teknik</a>. If any of our readers can read Swedish, we would love to know what it says!</p>
 <table width="546" cellspacing="0" cellpadding="5" border="0">
 <tr>
 <td><strong><span class="rubrikstor">Amerikaner sl&aring;ss f&ouml;r sina bollar</span></strong> 		</td>
 </tr>
 <tr>
 <td> 		  			<span class="brodtext"></p>
-<div align="left">Bensinstationskedjan Union 76s skyltar har blivit en del av allas v&aring;r bild av USA. Antingen vi sett dem p&aring; plats l&auml;ngs n&aring;gon Interstate Highway eller k&auml;nner igen dem fr&aring;n en amerikansk roadmovie. Stora lysande orange bollar p&aring; h&ouml;ga master, med sifferkombinationen snitsigt m&aring;lad i m&ouml;rkbl&aring;tt och vitt. <br />&nbsp;<br />Nu plockas de brandgula bollarna ner en efter en. Union 76 &auml;r sedan l&auml;nge inf&ouml;rlivat i den &auml;nnu st&ouml;rre koncernen Conoco Phillips, som tycker att det r&auml;cker med helt vanliga platta skyltar. Och att siffrorna g&ouml;r sig b&auml;ttre mot en r&ouml;d, inte en orange, bakgrund. <br />&nbsp;<br />Men Conoco Phillips bollplockning m&ouml;ter motst&aring;nd. P&aring; internet cirkulerar namninsamlingar till f&ouml;rsvar f&ouml;r dessa motorv&auml;garnas lysande landm&auml;rken. Det finns en hel webbplats,  <a target="_blank" href="https://www.savethe76ball.local../../"> https://www.savethe76ball.local/</a> med samma syfte. <br />&nbsp;<br />Kanske kan reaktionen j&auml;mf&ouml;ras med svenskarnas k&auml;nslor n&auml;r Sparbankerna bytte bort sin v&auml;lk&auml;nda ek. <br />&nbsp;<br />Den gamla trygghetssymbolen devalverades till n&aring;got som mest s&aring;g ut som en sliten fem&ouml;ring. Och &auml;ven om 76-bollens f&ouml;rsvarare talar om den som ett designm&auml;sterverk, s&aring; tror jag att reaktionen ocks&aring; nu ytterst handlar om n&aring;got annat. <br />&nbsp;<br />Union 76 reste sina bollar p&aring; 1960-talet, l&aring;ngt f&ouml;re alla oljekriser, i en tid d&aring; bensinen var billig, s&auml;rskilt i USA, och det aldrig talades om v&auml;xthuseffekten. L&auml;ngtan tillbaka till den tiden delas av m&aring;nga, s&auml;rskilt de som d&aring; var unga. Framtiden var aldrig s&aring; ljus &#8211; och heller inte s&aring; bilburen &#8211; som d&aring;. <br />&nbsp;<br />Och den l&auml;ngtan &auml;r knappast begr&auml;nsad till amerikaner. F&ouml;r varf&ouml;r skulle annars rivningen av en BP-mack l&auml;ngs Ringv&auml;gen i Stockholm utl&ouml;sa uppr&ouml;rda ins&auml;ndare eller svenska eternitkramare samla p&aring; sig bilkuddar med Gulfsymboler. </div>
+<div align="left">Bensinstationskedjan Union 76s skyltar har blivit en del av allas v&aring;r bild av USA. Antingen vi sett dem p&aring; plats l&auml;ngs n&aring;gon Interstate Highway eller k&auml;nner igen dem fr&aring;n en amerikansk roadmovie. Stora lysande orange bollar p&aring; h&ouml;ga master, med sifferkombinationen snitsigt m&aring;lad i m&ouml;rkbl&aring;tt och vitt. <br />&nbsp;<br />Nu plockas de brandgula bollarna ner en efter en. Union 76 &auml;r sedan l&auml;nge inf&ouml;rlivat i den &auml;nnu st&ouml;rre koncernen Conoco Phillips, som tycker att det r&auml;cker med helt vanliga platta skyltar. Och att siffrorna g&ouml;r sig b&auml;ttre mot en r&ouml;d, inte en orange, bakgrund. <br />&nbsp;<br />Men Conoco Phillips bollplockning m&ouml;ter motst&aring;nd. P&aring; internet cirkulerar namninsamlingar till f&ouml;rsvar f&ouml;r dessa motorv&auml;garnas lysande landm&auml;rken. Det finns en hel webbplats,  <a target="_blank" href="http://www.savethe76ball.local../../"> http://www.savethe76ball.local/</a> med samma syfte. <br />&nbsp;<br />Kanske kan reaktionen j&auml;mf&ouml;ras med svenskarnas k&auml;nslor n&auml;r Sparbankerna bytte bort sin v&auml;lk&auml;nda ek. <br />&nbsp;<br />Den gamla trygghetssymbolen devalverades till n&aring;got som mest s&aring;g ut som en sliten fem&ouml;ring. Och &auml;ven om 76-bollens f&ouml;rsvarare talar om den som ett designm&auml;sterverk, s&aring; tror jag att reaktionen ocks&aring; nu ytterst handlar om n&aring;got annat. <br />&nbsp;<br />Union 76 reste sina bollar p&aring; 1960-talet, l&aring;ngt f&ouml;re alla oljekriser, i en tid d&aring; bensinen var billig, s&auml;rskilt i USA, och det aldrig talades om v&auml;xthuseffekten. L&auml;ngtan tillbaka till den tiden delas av m&aring;nga, s&auml;rskilt de som d&aring; var unga. Framtiden var aldrig s&aring; ljus &#8211; och heller inte s&aring; bilburen &#8211; som d&aring;. <br />&nbsp;<br />Och den l&auml;ngtan &auml;r knappast begr&auml;nsad till amerikaner. F&ouml;r varf&ouml;r skulle annars rivningen av en BP-mack l&auml;ngs Ringv&auml;gen i Stockholm utl&ouml;sa uppr&ouml;rda ins&auml;ndare eller svenska eternitkramare samla p&aring; sig bilkuddar med Gulfsymboler. </div>
 <p></span>  		</td>
 </tr>
 <tr>

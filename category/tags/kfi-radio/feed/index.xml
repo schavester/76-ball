@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -39,9 +39,9 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Nathan and I were just interviewed by Gary Burbank of 50,000 watt monster station WLW Cincinnati about the campaign to Save the 76 Ball. (Too bad Canada made &#8217;em pot down from half a million watts back in the &#8217;30s!) Gary wondered aloud if we&#8217;d been hired by ConocoPhillips to generate controversy after which they [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Nathan and I were just interviewed by <a href="https://www.700wlw.com/pages/garyburbank.html" target="_blank">Gary Burbank</a> of 50,000 watt monster station <a href="https://www.oldradio.com/archives/stations/cinc/wlwpix.htm" target="_blank">WLW</a> Cincinnati about the campaign to Save the 76 Ball. (Too bad Canada made &#8217;em pot down from half a million watts back in the &#8217;30s!)  </p>
+										<content:encoded><![CDATA[<p>Nathan and I were just interviewed by <a href="http://www.700wlw.com/pages/garyburbank.html" target="_blank">Gary Burbank</a> of 50,000 watt monster station <a href="http://www.oldradio.com/archives/stations/cinc/wlwpix.htm" target="_blank">WLW</a> Cincinnati about the campaign to Save the 76 Ball. (Too bad Canada made &#8217;em pot down from half a million watts back in the &#8217;30s!)  </p>
 <p>Gary wondered aloud if we&#8217;d been hired by ConocoPhillips to generate controversy after which they could step in and say, &quot;Hey, we didn&#8217;t know how much you loved our balls. Of course we&#8217;ll keep them!&quot; Nathan and I think that would be really neat, and are wondering why the ConocoPhillips payments have yet to arrive in our Swiss bank accounts.</p>
-<p> If you&#8217;re near LA today, or like to listen to radio online, tune <a href="https://www.kfi640.com/" target="_blank">KFI-AM 640</a> in at the top of the 4, 5 and 6 o&#8217;clock hours (we&#8217;re not sure exactly which!) and you&#8217;ll hear more from Nathan and myself about what you can do to help Save the 76 Ball, and what the big sunny orbs mean to Southern Californians, and the world. </p>
+<p> If you&#8217;re near LA today, or like to listen to radio online, tune <a href="http://www.kfi640.com/" target="_blank">KFI-AM 640</a> in at the top of the 4, 5 and 6 o&#8217;clock hours (we&#8217;re not sure exactly which!) and you&#8217;ll hear more from Nathan and myself about what you can do to help Save the 76 Ball, and what the big sunny orbs mean to Southern Californians, and the world. </p>
 <div id="themify_builder_content-153" data-postid="153" class="themify_builder_content themify_builder_content-153 themify_builder themify_builder_front">
 
 	</div>

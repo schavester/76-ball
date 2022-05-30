@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -41,7 +41,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/1752837834/" title="Photo Sharing"><img loading="lazy" src="https://farm3.static.flickr.com/2264/1752837834_323d90fcc0_o.png" alt="Berkeley 76 Station revives Halloween Tradition" width="233" height="454" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/1752837834/" title="Photo Sharing"><img loading="lazy" src="http://farm3.static.flickr.com/2264/1752837834_323d90fcc0_o.png" alt="Berkeley 76 Station revives Halloween Tradition" width="233" height="454" /></a></p>
 <div id="themify_builder_content-231" data-postid="231" class="themify_builder_content themify_builder_content-231 themify_builder themify_builder_front">
 
 	</div>
@@ -66,7 +66,7 @@
 
 					<description><![CDATA[Riverside Press-Enterprise feature: Keep 76 ball rolling Tuesday, July 24, 2007 BOB PRATTE David Hamm, the affable owner of the Palm Desert 76 gas station on Highway 111, heard good news last week. His station will be a rare location with one of those 76 balls that became endangered when the chain&#39;s owner, ConocoPhillips, began [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><span class="vitstorybody"><font size="+2"><strong></p>
-<h2 class="vitstoryheadline"><span class="vitstoryheadline">Riverside Press-Enterprise <a href="https://www.pe.com/columns/bobpratte/stories/PE_News_Local_D_dbob25.3de9e93.html" target="_blank">feature</a>: Keep 76 ball rolling</span></h2>
+<h2 class="vitstoryheadline"><span class="vitstoryheadline">Riverside Press-Enterprise <a href="http://www.pe.com/columns/bobpratte/stories/PE_News_Local_D_dbob25.3de9e93.html" target="_blank">feature</a>: Keep 76 ball rolling</span></h2>
 <p></strong></font>  <font size="-1"><strong></p>
 <h5 class="vitstorydate"><span class="vitstorydate">Tuesday, July 24, 2007</span></h5>
 <p></strong></font>  <font size="-1"><strong><span class="vitstorybyline">BOB PRATTE</span></strong></font> <span class="vitstorybody"> </p>
@@ -118,7 +118,7 @@
 <tbody>
 <tr>
 <td>
-<p class="text">From <a href="https://www.nationaltrust.org/magazine/story/index.htm" target="_blank">Preservation Online</a>, the online magazine of the National          Trust for Historic Preservation</p>
+<p class="text">From <a href="http://www.nationaltrust.org/magazine/story/index.htm" target="_blank">Preservation Online</a>, the online magazine of the National          Trust for Historic Preservation</p>
 <p class="text">www.preservationonline.org</p>
 <p> 						       <span class="texttitle">On the Ball</span><br />       <span class="textbold"><em><span class="text">How the 76 Ball Was Saved</span></em></span> <br />       <img loading="lazy" src="/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" /><br />       <span class="textsmall">Story by Arin Greenwood / July 13, 2007</span><br />       <img loading="lazy" src="/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" />       </p>
 <p class="text" align="left">About a year and a half ago, Kim Cooper and her husband, Richard Schave, were driving in Los AngelesÃ¢â‚¬â€perhaps to get some dumplings for lunch, she recallsÃ¢â‚¬â€when at a stop light she happened to look up and find herself shocked by what she saw: changes to the Union 76 gas station on the corner. Big changes. </p>
@@ -166,10 +166,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[It is with great sadness that I announce that Earl Ma has died after a long battle with cancer. In addition to being a lovely guy with vast stores of energy and passion, Earl was instrumental in the campaign to save his beloved 76 Balls. It began with his interviewing Nathan Marsak and myself for [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>It is with great sadness that I announce that <a href="https://earlma.org/" target="_blank">Earl Ma</a> has died after a long battle with cancer. In addition to being a lovely guy with vast stores of energy and passion, Earl was instrumental in the campaign to save his beloved 76 Balls. </p>
-<p>It began with his interviewing Nathan Marsak and myself for  a feature in <em>Check the Oil!</em> magazine, but he soon became the go-to guy whenever another journalist covering the campaign needed to put Union 76 into its proper historical context. Earl knew <em>everything</em> about the brand, and was always generous responding to anyone&#39;s questions. And in his spare time, he made an effort to videotape every 76 Ball, ideally spinning, that he could find and shared those tapes on <a href="https://www.youtube.com/profile_videos?user=theunions&amp;p=r" target="_blank">Youtube</a> so future generations could see lost balls <em>in situ</em>.</p>
+										<content:encoded><![CDATA[<p>It is with great sadness that I announce that <a href="http://earlma.org/" target="_blank">Earl Ma</a> has died after a long battle with cancer. In addition to being a lovely guy with vast stores of energy and passion, Earl was instrumental in the campaign to save his beloved 76 Balls. </p>
+<p>It began with his interviewing Nathan Marsak and myself for  a feature in <em>Check the Oil!</em> magazine, but he soon became the go-to guy whenever another journalist covering the campaign needed to put Union 76 into its proper historical context. Earl knew <em>everything</em> about the brand, and was always generous responding to anyone&#39;s questions. And in his spare time, he made an effort to videotape every 76 Ball, ideally spinning, that he could find and shared those tapes on <a href="http://www.youtube.com/profile_videos?user=theunions&amp;p=r" target="_blank">Youtube</a> so future generations could see lost balls <em>in situ</em>.</p>
 <p>I only met Earl once, for a breakfast and Philippe&#39;s in downtown LA with fellow 76 Ball geeks J. Eric Freedner and Nathan, but recognized him immediately in his Union 76 regalia. We all had a great visit, with no idea it would be our last. </p>
-<p><img loading="lazy" src="https://farm2.static.flickr.com/1355/540270581_38a597b1ca.jpg" alt="" width="500" height="374" /></p>
+<p><img loading="lazy" src="http://farm2.static.flickr.com/1355/540270581_38a597b1ca.jpg" alt="" width="500" height="374" /></p>
 <p>I greatly appreciated Earl&#39;s intelligence, kindness and reliability. He was a true gentleman, and it&#39;s some small consolation to know that he left this plane knowing that the 76 Ball lives on in large part thanks to his efforts.</p>
 <p>Godspeed, Earl, and thanks for all your good work and friendship.</p>
 <div id="themify_builder_content-228" data-postid="228" class="themify_builder_content themify_builder_content-228 themify_builder themify_builder_front">
@@ -194,7 +194,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[One of our favorite pseudonymous bloggers, the L.A. City Nerd (c&#39;mon, Antonio, we know it&#39;s you) has made one of the most rare of sightings, a new red 76 Ball in the wild and on the move. Visit his blog to see how carefully the balls are transported to their new homes in the sky. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>One of our favorite pseudonymous bloggers, the L.A. City Nerd (c&#39;mon, Antonio, we know it&#39;s you) has made one of the most rare of sightings, a new red 76 Ball in the wild and on the move. Visit his <a href="https://lacitynerd.blogspot.com/2007/05/76-balls-on-move.html" target="_blank">blog</a> to see how carefully the balls are transported to their new homes in the sky. </p>
+										<content:encoded><![CDATA[<p>One of our favorite pseudonymous bloggers, the L.A. City Nerd (c&#39;mon, Antonio, we know it&#39;s you) has made one of the most rare of sightings, a new red 76 Ball in the wild and on the move. Visit his <a href="http://lacitynerd.blogspot.com/2007/05/76-balls-on-move.html" target="_blank">blog</a> to see how carefully the balls are transported to their new homes in the sky. </p>
 <p>Where will this one end up? Could it be <em>your</em> local 76 station?</p>
 <div id="themify_builder_content-227" data-postid="227" class="themify_builder_content themify_builder_content-227 themify_builder themify_builder_front">
 
@@ -221,13 +221,13 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[What&#39;s that looming out of the gray San Fernando Valley gloom? Why, it&#39;s a shiny new 76 Ball, in ConocoPhillips&#39; signature liver red! Yes, our own J. Eric Freedner has spotted one of the first of the new red 76 Balls manufactured to appease some of the upset caused by the destruction of the classic [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/440800972/" title="Photo Sharing"><img loading="lazy" src="https://farm1.static.flickr.com/173/440800972_7baf5adbab.jpg" alt="Red 76 Ball at Oxnard and Woodman, Van Nuys, CA #1" width="500" height="375" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/440800972/" title="Photo Sharing"><img loading="lazy" src="http://farm1.static.flickr.com/173/440800972_7baf5adbab.jpg" alt="Red 76 Ball at Oxnard and Woodman, Van Nuys, CA #1" width="500" height="375" /></a></p>
 <p> What&#39;s that looming out of the gray San Fernando Valley gloom? Why, it&#39;s a shiny new 76 Ball, in ConocoPhillips&#39; signature liver red! Yes, our own J. Eric Freedner has spotted one of the first of the new red 76 Balls manufactured to appease some of the upset caused by the destruction of the classic orange spheres, and reports in with photographic proof.</p>
-<p>While we far prefer Ray Pedersen&#39;s original color scheme of warm sunshine orange and rich cornflower blue, we&#39;re happy to herald the birth of a new 76 Ball, especially when so many of the classic balls continue to be killed. Check out <a href="https://blogs.ocregister.com/travel/archives/2007/03/dropping_the_ball.html" target="_blank">this</a> disturbing OCRegister Travels with Gary blog post, suggested by commenter ocwarner, but only if you have a sturdy stomach. The image of the worker using an acetylene torch on the 76 Ball&#39;s pole is especially poignant. These are the clearest photos we&#39;ve seen yet of the murder of a 76 Ball.</p>
+<p>While we far prefer Ray Pedersen&#39;s original color scheme of warm sunshine orange and rich cornflower blue, we&#39;re happy to herald the birth of a new 76 Ball, especially when so many of the classic balls continue to be killed. Check out <a href="http://blogs.ocregister.com/travel/archives/2007/03/dropping_the_ball.html" target="_blank">this</a> disturbing OCRegister Travels with Gary blog post, suggested by commenter ocwarner, but only if you have a sturdy stomach. The image of the worker using an acetylene torch on the 76 Ball&#39;s pole is especially poignant. These are the clearest photos we&#39;ve seen yet of the murder of a 76 Ball.</p>
 <p>But it&#39;s simply too horrible to show on these pages. Here are a couple more shots of the new red ball at 6003 Woodman Ave. (at Oxnard) in Van Nuys instead.</p>
-<p><a href="https://www.flickr.com/photos/richardschave/440800968/" title="Photo Sharing"><img loading="lazy" src="https://farm1.static.flickr.com/204/440800968_6c2f100c12.jpg" alt="Red 76 Ball at Oxnard and Woodman, Van Nuys, CA #2" width="500" height="375" /></a></p>
+<p><a href="http://www.flickr.com/photos/richardschave/440800968/" title="Photo Sharing"><img loading="lazy" src="http://farm1.static.flickr.com/204/440800968_6c2f100c12.jpg" alt="Red 76 Ball at Oxnard and Woodman, Van Nuys, CA #2" width="500" height="375" /></a></p>
 <p>Long live the mighty 76 Ball! If you see a red ball in your town, please comment below.</p>
-<p><a href="https://www.flickr.com/photos/richardschave/440800974/" title="Photo Sharing"><img loading="lazy" src="https://farm1.static.flickr.com/171/440800974_a183381a95.jpg" alt="Red 76 Ball at Oxnard and Woodman, Van Nuys, CA closeup" width="375" height="500" /></a>  </p>
+<p><a href="http://www.flickr.com/photos/richardschave/440800974/" title="Photo Sharing"><img loading="lazy" src="http://farm1.static.flickr.com/171/440800974_a183381a95.jpg" alt="Red 76 Ball at Oxnard and Woodman, Van Nuys, CA closeup" width="375" height="500" /></a>  </p>
 <div id="themify_builder_content-226" data-postid="226" class="themify_builder_content themify_builder_content-226 themify_builder themify_builder_front">
 
 	</div>
@@ -251,7 +251,7 @@
 
 					<description><![CDATA[76 Ball designer Ray Pedersen has been informed by ConocoPhillips that they wish to honor his contribution to the brand&#39;s history by presenting him with one of the classic orange and blue 76 Ball gas station signs for his personal collection. Ray is trying to find the best place to store this large and lovely [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>76 Ball designer Ray Pedersen has been informed by ConocoPhillips that they wish to honor his contribution to the brand&#39;s history by presenting him with one of the classic orange and blue 76 Ball gas station signs for his personal collection. Ray is trying to find the best place to store this large and lovely artifact, and we hope to report back to you soon with additional details. Kudos to CP for recognizing Ray with this generous and gracious offer!</p>
-<p>In recognition of this cool news, Ray Pedersen has kindly agreed to personaly autograph a very limited number of 76 Ball antenna toppers, which we are making available to his fans. If you would like one, <a href="https://www.scrammagazine.com/ray76ball" target="_blank">just click</a>.  </p>
+<p>In recognition of this cool news, Ray Pedersen has kindly agreed to personaly autograph a very limited number of 76 Ball antenna toppers, which we are making available to his fans. If you would like one, <a href="http://www.scrammagazine.com/ray76ball" target="_blank">just click</a>.  </p>
 <div id="themify_builder_content-225" data-postid="225" class="themify_builder_content themify_builder_content-225 themify_builder themify_builder_front">
 
 	</div>
@@ -275,13 +275,13 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Thanks to the discerning eye of J. Eric Freedner, we&#39;ve been alerted to design changes at the modernist William Pereira-designed 76 station in Beverly Hills, CA. Of all the 76 stations which still proudly fly the orange ball, this is the most unique and architecturally significant, and we&#39;ve let ConocoPhillips know that the Los Angeles [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/396489186/" title="Photo Sharing"><img loading="lazy" src="https://farm1.static.flickr.com/184/396489186_a9ee5d8a5d.jpg" alt="Endangered Luckman Pereira 76 Station in Beverly Hills" width="500" height="375" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/396489186/" title="Photo Sharing"><img loading="lazy" src="http://farm1.static.flickr.com/184/396489186_a9ee5d8a5d.jpg" alt="Endangered Luckman Pereira 76 Station in Beverly Hills" width="500" height="375" /></a></p>
 <p>Thanks to the discerning eye of J. Eric Freedner, we&#39;ve been alerted to design changes at the modernist William Pereira-designed 76 station in Beverly Hills, CA. Of all the 76 stations which still proudly fly the orange ball, this is the most unique and architecturally significant, and we&#39;ve let ConocoPhillips know that the Los Angeles conservation community will be scandalized if its classic beauty is marred by one of the new blisterpak-style red signs. Would you dress Audrey Hepburn in Juicy Couture?</p>
 <p>J. Eric says: <em>The actual name of the dealer is &quot;Jack Colker&#39;s 76&quot; and he has an address on North Crescent Drive.  The station is on the corner of Crescent and Little Santa Monica Boulevard and is the only remaining gas station in downtown Beverly Hills. Perhaps that accounts for the high volume of business done there, especially at rush hour.</em></p>
 <p>  Below, a night shot of the station interior on 2/15, revealing newly installed red pump panels, replacing the previous stainless steel. Regular visitors to this site know, when the creeping red appears, it means the beloved orange ball is soon to fall. But we also know that ConocoPhillips has decided to manufacture a limited number of red 76 balls for installation at select stations. Could one of those red balls be destined for Beverly Hills?</p>
-<p> <a href="https://www.flickr.com/photos/richardschave/396489366/" title="Photo Sharing"><img loading="lazy" src="https://farm1.static.flickr.com/178/396489366_00e42bb446_o.jpg" alt="Endangered Luckman Pereira 76 Station in Beverly Hills" width="447" height="334" /></a></p>
+<p> <a href="http://www.flickr.com/photos/richardschave/396489366/" title="Photo Sharing"><img loading="lazy" src="http://farm1.static.flickr.com/178/396489366_00e42bb446_o.jpg" alt="Endangered Luckman Pereira 76 Station in Beverly Hills" width="447" height="334" /></a></p>
 <p> Right now there are at least two notable stations in the L.A. area that have red signage on the pumps, but still retain their orange 76 balls: Beverly Hills, and the station at the high-traffic corner of Melrose and Highland. If these highly visible stations aren&#39;t on the short list to retain their balls, we&#39;d like to know why not. </p>
-<p> For more of J. Eric Freedner&#39;s and Earl Ma&#39;s photos of the Beverly Hills 76 station, just <a href="https://flickr.com/photos/richardschave/sets/72157594546315309/" target="_blank">click</a>. </p>
+<p> For more of J. Eric Freedner&#39;s and Earl Ma&#39;s photos of the Beverly Hills 76 station, just <a href="http://flickr.com/photos/richardschave/sets/72157594546315309/" target="_blank">click</a>. </p>
 <div id="themify_builder_content-224" data-postid="224" class="themify_builder_content themify_builder_content-224 themify_builder themify_builder_front">
 
 	</div>
@@ -311,7 +311,7 @@
 
 					<description><![CDATA[Last week, Nathan Marsak and I got up uncommonly early to accompany intrepid LA Observed videoblogger Jacob Soboroff on a tour of the surviving 76 Balls of North-East LA. Later, Jacob followed sign-spotting legend J. Eric Freedner deep into Orange County for a sneak peak at the new, red 76 Balls being readied for, ahem, [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Last week, Nathan Marsak and I got up uncommonly early to accompany intrepid LA Observed videoblogger Jacob  Soboroff on a tour of the surviving 76 Balls of North-East LA. Later, Jacob followed sign-spotting legend J. Eric Freedner deep into Orange County for a sneak peak at the new, red 76 Balls being readied for, ahem, erection.</p>
-<p>Do click over to <a href="https://www.laobserved.com/intell/2007/01/how_the_76_ball_was_saved_1.php" target="_blank">LA Observed&#39;s Native Intelligence</a> section to read Jacob&#39;s take on the Save the 76 Ball campaign and for a brief visit with a few of the folks behind this website.</p>
+<p>Do click over to <a href="http://www.laobserved.com/intell/2007/01/how_the_76_ball_was_saved_1.php" target="_blank">LA Observed&#39;s Native Intelligence</a> section to read Jacob&#39;s take on the Save the 76 Ball campaign and for a brief visit with a few of the folks behind this website.</p>
 <div id="themify_builder_content-223" data-postid="223" class="themify_builder_content themify_builder_content-223 themify_builder themify_builder_front">
 
 	</div>
@@ -341,7 +341,7 @@
 <p> Enter Kim Cooper. The Los Angeles-based cultural historian&#39;s quest to save the eight-foot, 400-pound balls took shape when her local 76 station&#39;s ball disappeared, only to be replaced by a flattened disc with a red background instead of the familiar orange. &quot;I didn&#39;t know at first exactly why I was so upset when they got rid of the ball in my neighborhood,&quot; Cooper says, but as the campaign grew, she found that the 76 ball held a special place in the collective memory of West Coast natives. &quot;Several families have told me that it was their child&#39;s first word; that every time they drove past a 76 station their child would say &#39;ball&#39; and it became this special family memory.&quot;</p>
 <p> Cooper began the fight to save this icon of the American West from her living room with the site Savethe76ball.com, eventually bringing on her partner from the 1947 Project historical crime blog, Nathan Maransk. Together, the two amassed almost 3,000 signatures in an online petition that demanded ConocoPhillips save some of the balls to be put on display in museums. As a result of their efforts and the extensive media coverage thereof, the Texas-based oil conglomerate recently announced that it will donate several of the balls to museums across the country.</p>
 <p> Although thrilled with their success, Cooper says the battle for the fate of the balls is not yet over. The Save the 76 Ball Project is also asking that a few select, historically significant balls be preserved at their original locations, that ConocoPhillips foot the bill for transporting the unwieldy orbs, and that a ball be given to the original designer, Ray Pederson, who built and hand-painted the first ball himself for the Seattle World&#39;s Fair of 1962. </p>
-<p> 			-Ayse Arf, from <a href="https://www.lacitybeat.com/article.php?id=4947&amp;IssueNum=190" target="_blank">LA CityBeat</a></p>
+<p> 			-Ayse Arf, from <a href="http://www.lacitybeat.com/article.php?id=4947&amp;IssueNum=190" target="_blank">LA CityBeat</a></p>
 <div id="themify_builder_content-222" data-postid="222" class="themify_builder_content themify_builder_content-222 themify_builder themify_builder_front">
 
 	</div>

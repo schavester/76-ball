@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -41,7 +41,7 @@
 
 					<description><![CDATA[Riverside Press-Enterprise feature: Keep 76 ball rolling Tuesday, July 24, 2007 BOB PRATTE David Hamm, the affable owner of the Palm Desert 76 gas station on Highway 111, heard good news last week. His station will be a rare location with one of those 76 balls that became endangered when the chain&#39;s owner, ConocoPhillips, began [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><span class="vitstorybody"><font size="+2"><strong></p>
-<h2 class="vitstoryheadline"><span class="vitstoryheadline">Riverside Press-Enterprise <a href="https://www.pe.com/columns/bobpratte/stories/PE_News_Local_D_dbob25.3de9e93.html" target="_blank">feature</a>: Keep 76 ball rolling</span></h2>
+<h2 class="vitstoryheadline"><span class="vitstoryheadline">Riverside Press-Enterprise <a href="http://www.pe.com/columns/bobpratte/stories/PE_News_Local_D_dbob25.3de9e93.html" target="_blank">feature</a>: Keep 76 ball rolling</span></h2>
 <p></strong></font>  <font size="-1"><strong></p>
 <h5 class="vitstorydate"><span class="vitstorydate">Tuesday, July 24, 2007</span></h5>
 <p></strong></font>  <font size="-1"><strong><span class="vitstorybyline">BOB PRATTE</span></strong></font> <span class="vitstorybody"> </p>

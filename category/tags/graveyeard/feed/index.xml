@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -44,10 +44,10 @@
 					<description><![CDATA[Intrepid 76 Ball Fan J. Eric Freedner has made a startling discovery near Fresno, CA, a discovery that bodes well for those of us who believe ConocoPhillips needs to REPLACE the 76 Balls that they&#8217;ve taken down from their poles. He reports: Well, I had a feeling I would find the &#34;missing&#34; 76 balls and&#8230; [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Intrepid 76 Ball Fan J. Eric Freedner has made a startling discovery near Fresno, CA, a discovery that bodes well for those of us who believe ConocoPhillips needs to REPLACE the 76 Balls that they&#8217;ve taken down from their poles. He reports:</p>
 <p> Well, I had a feeling I  would find the &quot;missing&quot; 76 balls and&#8230; here they are! </p>
-<p><img border="0" src="https://static.flickr.com/47/119375652_89badd6baf.jpg" /></p>
+<p><img border="0" src="http://static.flickr.com/47/119375652_89badd6baf.jpg" /></p>
 <p>A whole bunch of orange balls is now in the yard of Nelson Sign Service on  Golden State Highway (Old Route 99) in Fresno, California.</p>
-<p><img border="0" src="https://static.flickr.com/45/119375653_b338c03311.jpg" /> These weren&#8217;t here a few months ago!&nbsp;&nbsp; What do they plan to do  with them?&nbsp;&nbsp; Spheres take up a whole lot more space than flat signs so  I have a feeling Mr. Nelson won&#8217;t keep them around forever&#8230;</p>
-<p><img border="0" src="https://static.flickr.com/43/119375654_51b777b232.jpg" />&nbsp;</p>
+<p><img border="0" src="http://static.flickr.com/45/119375653_b338c03311.jpg" /> These weren&#8217;t here a few months ago!&nbsp;&nbsp; What do they plan to do  with them?&nbsp;&nbsp; Spheres take up a whole lot more space than flat signs so  I have a feeling Mr. Nelson won&#8217;t keep them around forever&#8230;</p>
+<p><img border="0" src="http://static.flickr.com/43/119375654_51b777b232.jpg" />&nbsp;</p>
 <p>&nbsp;</p>
 <div>There are also some flat 76 signs such as this old Fast Break one.&nbsp;  I&#8217;m not sure if the &quot;Fast Break&quot; chain is still in business.&nbsp;&nbsp; Haven&#8217;t  seen any with the new red 76 logos, anyway.</div>
 <div>&nbsp;</div>

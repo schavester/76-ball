@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -44,13 +44,13 @@
 										<content:encoded><![CDATA[<p>Here are the last of the 76 Ball short films shot by Earl Ma in Hawaii. He notes these are the first Hawaiian balls that he&#8217;s seen with the spinning motors turned off, which has become sadly standard in Southern California.</p>
 <p>If you care about the 76 Balls, please call Sylvia Hansen in External Communications at ConocoPhillips, (281) 293-1000. Request that she call Nathan Marsak back and open a dialogue about how to work together to turn this bad publicity around and save some balls.</p>
 <p>Sand Island Union 76 station, 165 Sand Island Access Road, Honolulu, HI, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/EU-_XfEtNHQ"></param><embed src="https://www.youtube.com/v/EU-_XfEtNHQ" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/EU-_XfEtNHQ"></param><embed src="http://www.youtube.com/v/EU-_XfEtNHQ" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <p>Miyazaki Airport Union 76 service station, Honolulu International Airport, 351 Rodgers Boulevard, Honolulu, HI, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/83JTl5f0HGE"></param><embed src="https://www.youtube.com/v/83JTl5f0HGE" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/83JTl5f0HGE"></param><embed src="http://www.youtube.com/v/83JTl5f0HGE" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <p>Hi-Way Union 76 service station, Pearl City Shopping Center, 850 Kamehameha Highway, Pearl City, HI, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/7dLqTSTRdHA"></param><embed src="https://www.youtube.com/v/7dLqTSTRdHA" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/7dLqTSTRdHA"></param><embed src="http://www.youtube.com/v/7dLqTSTRdHA" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <p>Bobby&#8217;s Union 76 station, 99-236 Moanalua Road, Aiea, HI, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/RSkUFY-6weM"></param><embed src="https://www.youtube.com/v/RSkUFY-6weM" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/RSkUFY-6weM"></param><embed src="http://www.youtube.com/v/RSkUFY-6weM" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <div id="themify_builder_content-169" data-postid="169" class="themify_builder_content themify_builder_content-169 themify_builder themify_builder_front">
 
 	</div>

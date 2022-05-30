@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -39,7 +39,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[WANTED: for a major opportunity to help Save the 76 Ball, any 76 Ball fans in Indianapolis who have some 76 memorabilia handy and would be willing to loan it to our Earl Ma before Monday, please contact us immediately. This is your chance to be part of a very cool, celebrity surprise that will [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>WANTED: for a major opportunity to help Save the 76 Ball, any 76 Ball fans in Indianapolis who have some 76 memorabilia handy and would be willing to loan it to our Earl Ma before Monday, please <a href="https://www.76upgrade.richardschave.com//feedback" target="_blank">contact</a> us immediately. This is your chance to be part of a very cool, celebrity surprise that will be posted on this site presently. Antenna toppers, keychains, magic 76/8 balls, decals, t-shirts, anything will do, and we are grateful for your help. Thanks!</p>
+										<content:encoded><![CDATA[<p>WANTED: for a major opportunity to help Save the 76 Ball, any 76 Ball fans in Indianapolis who have some 76 memorabilia handy and would be willing to loan it to our Earl Ma before Monday, please <a href="http://www.76upgrade.richardschave.com//feedback" target="_blank">contact</a> us immediately. This is your chance to be part of a very cool, celebrity surprise that will be posted on this site presently. Antenna toppers, keychains, magic 76/8 balls, decals, t-shirts, anything will do, and we are grateful for your help. Thanks!</p>
 <div id="themify_builder_content-172" data-postid="172" class="themify_builder_content themify_builder_content-172 themify_builder themify_builder_front">
 
 	</div>

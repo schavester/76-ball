@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -44,15 +44,15 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Why won&#8217;t ConocoPhillips talk with us? On 6/15/06, we called ConocoPhillips with a win-win plan to save and preserve some select 76 Balls. We are still waiting for them to call back. Maybe they need to hear from you, too. The main number in Houston is 281-293-1000. Ask for Sylvia Hansen in External Communications and [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://static.flickr.com/40/104241155_9a9ff0c7e6_o.jpg" alt="" width="432" height="162" border="0" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://static.flickr.com/40/104241155_9a9ff0c7e6_o.jpg" alt="" width="432" height="162" border="0" /></p>
 <p><strong>Why won&#8217;t ConocoPhillips talk with us?</strong> On 6/15/06, we called ConocoPhillips with a win-win plan to save and preserve some select 76 Balls. We are still waiting for them to call back. Maybe they need to hear from <strong>you</strong>, too. The main number in Houston is 281-293-1000. Ask for <strong>Sylvia Hansen in External Communications</strong> and request that she call Nathan Marsak back and open a dialogue about how to work together to turn this bad publicity around and save some balls.</p>
 <p><strong>About our cause:</strong> ConocoPhillips is removing the iconic 76 Balls and replacing them with boring rectangular signs that aren&#8217;t even orange! Our petition and boycott asks that they STOP THIS and leave the remaining 76 Balls on their poles, where they belong. Wanna help?:</p>
-<p>1) sign the <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">PETITION</a>; after adding your name to the list, you can also call ConocoPhillips <a href="https://www.conocophillips.com/contactus/index.htm" target="_blank">DIRECTLY</a>.</p>
-<p>2) Join the digg online community and click that you &#8220;digg&#8221; <a href="https://digg.com/software/Can_Drupal_Save_the_76_Ball_" target="_blank">THIS POST</a>. If we can get enough diggs, the topic will rise to the front page and get many thousands of visitors.</p>
-<p>3) if your local 76 gas station still has its ball, tell them &#8220;if that ball goes, so does this customer!&#8221; Ask them to turn the ball on if it&#8217;s not lit or rotating. And if your local 76 station has already switched to the liver-colored tombstone sign, don&#8217;t buy gas there and be sure to tell the owner why. (<a href="https://plasticmuse.com/Download.html" target="_blank">DOWNLOAD</a> and print these cards to make it simple.)</p>
-<p><img src="https://savethe76ball.honestbleeps.com/files/savethe76card_168.jpg" alt="" border="0" /></p>
+<p>1) sign the <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">PETITION</a>; after adding your name to the list, you can also call ConocoPhillips <a href="http://www.conocophillips.com/contactus/index.htm" target="_blank">DIRECTLY</a>.</p>
+<p>2) Join the digg online community and click that you &#8220;digg&#8221; <a href="http://digg.com/software/Can_Drupal_Save_the_76_Ball_" target="_blank">THIS POST</a>. If we can get enough diggs, the topic will rise to the front page and get many thousands of visitors.</p>
+<p>3) if your local 76 gas station still has its ball, tell them &#8220;if that ball goes, so does this customer!&#8221; Ask them to turn the ball on if it&#8217;s not lit or rotating. And if your local 76 station has already switched to the liver-colored tombstone sign, don&#8217;t buy gas there and be sure to tell the owner why. (<a href="http://plasticmuse.com/Download.html" target="_blank">DOWNLOAD</a> and print these cards to make it simple.)</p>
+<p><img src="http://savethe76ball.honestbleeps.com/files/savethe76card_168.jpg" alt="" border="0" /></p>
 <p>4) SPREAD THE WORD: through blogs, email chains, conversation, calls to your favorite talk radio show and letters to the editor.</p>
-<p>5) visit our <a href="https://savethe76ball.honestbleeps.com/" target="_blank">FORUM</a> to report existing or missing 76 Balls in your community. Take photos and host them for free right on the Forum.</p>
+<p>5) visit our <a href="http://savethe76ball.honestbleeps.com/" target="_blank">FORUM</a> to report existing or missing 76 Balls in your community. Take photos and host them for free right on the Forum.</p>
 <p>Consumers have the power to change corporate mistakes. ConocoPhillips will listen if you just speak up!</p>
 <div id="themify_builder_content-142" data-postid="142" class="themify_builder_content themify_builder_content-142 themify_builder themify_builder_front">
 
@@ -84,8 +84,8 @@
 
 					<description><![CDATA[Car Owners and California History Buffs Cry: Save the Union 76 Ball! &#160; February 8, 2006&#160; &#8211; For immediate release Click to view petition. LOS ANGELES- In 2005, ConocoPhillips, the Texas-based energy company that took over the historic California Unocal refineries and gas stations in 2002, commenced a campaign of design terrorism, ripping down the [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Car Owners and California History Buffs Cry: Save the Union 76 Ball!  </p>
-<p>&nbsp;<br /> February 8, 2006&nbsp;  &#8211; For immediate release  <a target="_blank" href="https://www.petitiononline.com/76ball/petition.html" /></p>
-<p><a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">Click</a> to view petition. </p>
+<p>&nbsp;<br /> February 8, 2006&nbsp;  &#8211; For immediate release  <a target="_blank" href="http://www.petitiononline.com/76ball/petition.html" /></p>
+<p><a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">Click</a> to view petition. </p>
 <p>LOS ANGELES- In 2005, ConocoPhillips, the Texas-based energy company that took over the historic California Unocal refineries and gas stations in 2002, commenced a campaign of design terrorism, ripping down the hugely popular orange and blue &quot;76&quot; branded ball signs in favor of a generic flattened red and blue disk. </p>
 <p>&nbsp;<br /> To give the public a chance to be heard, an online petition has been launched by the authors of L.A.&#8217;s 1947project crime history blog. Signers are declaring their intention to boycott if ConocoPhillips doesn&#8217;t reverse their redesign policy and show proper respect for the beloved 76 ball brand. </p>
 <p>&nbsp;<br /> Petition co-writer Nathan Marsak, author of &quot;Los Angeles Neon,&quot; says &quot;Our urban fabric will lose a groovy, sexy element of its attraction with the disappearance of this turning orb&lsaquo;an orb that still speaks &quot;progress!&quot; and &quot;fun!&quot; as opposed to its replacement, which resembles some sort of giant tombstone.&quot; </p>
@@ -93,7 +93,7 @@
 <p>Here&#8217;s what some of the petition&#8217;s signers are saying: &quot;I actually buy 76 gas because of their historic branding and am proud to have a 76 ball on my vintage 1963 car.&quot; (Mary-Margaret Stratton). . . &quot;I used to buy from a 76 station only 2 blocks from my house. The day ConocoPhillips changed it to red and blue, I stopped patronizing it.&quot; (Guy Kudlemyer) . . . &quot;It&#8217;s like McDonald&#8217;s dumping the arches. Just wrong!&quot; (Sean Russ). . . &quot;How can you destroy such a trusted icon?&quot; (Kyle Barnes). . . &quot;Please stop destroying American history.&quot; (Steve Tepperman). </p>
 <p>Petition co-writer Kim Cooper muses, &quot;If ConocoPhillips&#8217; intention was to lose any goodwill their customers feel towards the 76 brand, they&#8217;re off to a great start. In 2004 they withdrew fuel sponsorship of NASCAR&#8211;killing off the longest such relationship in the history of the organization&#8211;and in late 2005 began chopping down the big orange pumpkin balls that cheer our urban landscape. Since my local station had its orange ball removed, I&#8217;ve started filling my tank elsewhere, and from our petition it sounds like many others are doing the same.&quot; </p>
 <p>Petition authors Kim Cooper and Nathan Marsak are available for interviews. </p>
-<p>See the petition <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">here</a>.&nbsp; </p>
+<p>See the petition <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">here</a>.&nbsp; </p>
 <div id="themify_builder_content-140" data-postid="140" class="themify_builder_content themify_builder_content-140 themify_builder themify_builder_front">
 
 	</div>
@@ -122,7 +122,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[To sign this petition, click here.&#160; To: ConocoPhillips We, the undersigned, as consumers with an abiding fondness for the striking, historic and uniquely Californian blue and orange ball-shaped Union 76 logo, be it on tall metal poles or car antennae (since 1967), hereby call on ConocoPhillips to reconsider their alteration of the 115-year-old brand, to [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>To sign this petition, click <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">here</a>.&nbsp;  </p>
+										<content:encoded><![CDATA[<p>To sign this petition, click <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">here</a>.&nbsp;  </p>
 <p>To:  ConocoPhillips  </p>
 <p>We, the undersigned, as consumers with an abiding fondness for the striking, historic and uniquely Californian blue and orange ball-shaped Union 76 logo, be it on tall metal poles or car antennae (since 1967), hereby call on ConocoPhillips to reconsider their alteration of the 115-year-old brand, to cease replacing spherical blue and orange 76 balls at gas stations with flattened blue and red disks, and to restore the beloved spheres to the poles where they belong. If ConocoPhillips does not demonstrate greater respect for the the history and goodwill associated with the blue and orange 76 ball, we will be taking our business to other gas sellers. </p>
 <p>This petition is being launched on January 31, six days after ConocoPhillips posted fourth quarterly earnings of $3.7 Billion, and we call for a sincere response to our concerns before the announcement of their next second quarterly earnings. </p>

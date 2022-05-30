@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -46,7 +46,7 @@
 <p> Enter Kim Cooper. The Los Angeles-based cultural historian&#39;s quest to save the eight-foot, 400-pound balls took shape when her local 76 station&#39;s ball disappeared, only to be replaced by a flattened disc with a red background instead of the familiar orange. &quot;I didn&#39;t know at first exactly why I was so upset when they got rid of the ball in my neighborhood,&quot; Cooper says, but as the campaign grew, she found that the 76 ball held a special place in the collective memory of West Coast natives. &quot;Several families have told me that it was their child&#39;s first word; that every time they drove past a 76 station their child would say &#39;ball&#39; and it became this special family memory.&quot;</p>
 <p> Cooper began the fight to save this icon of the American West from her living room with the site Savethe76ball.com, eventually bringing on her partner from the 1947 Project historical crime blog, Nathan Maransk. Together, the two amassed almost 3,000 signatures in an online petition that demanded ConocoPhillips save some of the balls to be put on display in museums. As a result of their efforts and the extensive media coverage thereof, the Texas-based oil conglomerate recently announced that it will donate several of the balls to museums across the country.</p>
 <p> Although thrilled with their success, Cooper says the battle for the fate of the balls is not yet over. The Save the 76 Ball Project is also asking that a few select, historically significant balls be preserved at their original locations, that ConocoPhillips foot the bill for transporting the unwieldy orbs, and that a ball be given to the original designer, Ray Pederson, who built and hand-painted the first ball himself for the Seattle World&#39;s Fair of 1962. </p>
-<p> 			-Ayse Arf, from <a href="https://www.lacitybeat.com/article.php?id=4947&amp;IssueNum=190" target="_blank">LA CityBeat</a></p>
+<p> 			-Ayse Arf, from <a href="http://www.lacitybeat.com/article.php?id=4947&amp;IssueNum=190" target="_blank">LA CityBeat</a></p>
 <div id="themify_builder_content-222" data-postid="222" class="themify_builder_content themify_builder_content-222 themify_builder themify_builder_front">
 
 	</div>

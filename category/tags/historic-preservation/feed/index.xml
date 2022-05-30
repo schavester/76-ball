@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -46,7 +46,7 @@
 <p> Enter Kim Cooper. The Los Angeles-based cultural historian&#39;s quest to save the eight-foot, 400-pound balls took shape when her local 76 station&#39;s ball disappeared, only to be replaced by a flattened disc with a red background instead of the familiar orange. &quot;I didn&#39;t know at first exactly why I was so upset when they got rid of the ball in my neighborhood,&quot; Cooper says, but as the campaign grew, she found that the 76 ball held a special place in the collective memory of West Coast natives. &quot;Several families have told me that it was their child&#39;s first word; that every time they drove past a 76 station their child would say &#39;ball&#39; and it became this special family memory.&quot;</p>
 <p> Cooper began the fight to save this icon of the American West from her living room with the site Savethe76ball.com, eventually bringing on her partner from the 1947 Project historical crime blog, Nathan Maransk. Together, the two amassed almost 3,000 signatures in an online petition that demanded ConocoPhillips save some of the balls to be put on display in museums. As a result of their efforts and the extensive media coverage thereof, the Texas-based oil conglomerate recently announced that it will donate several of the balls to museums across the country.</p>
 <p> Although thrilled with their success, Cooper says the battle for the fate of the balls is not yet over. The Save the 76 Ball Project is also asking that a few select, historically significant balls be preserved at their original locations, that ConocoPhillips foot the bill for transporting the unwieldy orbs, and that a ball be given to the original designer, Ray Pederson, who built and hand-painted the first ball himself for the Seattle World&#39;s Fair of 1962. </p>
-<p> 			-Ayse Arf, from <a href="https://www.lacitybeat.com/article.php?id=4947&amp;IssueNum=190" target="_blank">LA CityBeat</a></p>
+<p> 			-Ayse Arf, from <a href="http://www.lacitybeat.com/article.php?id=4947&amp;IssueNum=190" target="_blank">LA CityBeat</a></p>
 <div id="themify_builder_content-222" data-postid="222" class="themify_builder_content themify_builder_content-222 themify_builder themify_builder_front">
 
 	</div>
@@ -76,7 +76,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Photo by Scott Eklund / Seattle P-I A Save the 76 Ball campaign aims to preserve the former gas station mainstay, designed by Ray Pedersen. Pedersen, who lives in Bellingham, first displayed his creation at the 1962 Seattle World&#39;s Fair. Pedersen gases up at this station in Tulalip, coincidentally one of the last gas stations [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/369977126/" title="Photo Sharing"><img loading="lazy" src="https://farm1.static.flickr.com/173/369977126_74686fa430_o.jpg" alt="76 ball designer ray pederson by scott eklund of the seattle pi" width="450" height="320" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/369977126/" title="Photo Sharing"><img loading="lazy" src="http://farm1.static.flickr.com/173/369977126_74686fa430_o.jpg" alt="76 ball designer ray pederson by scott eklund of the seattle pi" width="450" height="320" /></a></p>
 <div align="right"> </div>
 <h6><em>Photo by Scott Eklund / Seattle P-I</em></h6>
 <p><em>A Save the 76 Ball campaign aims to preserve the former gas station mainstay, designed by Ray Pedersen. Pedersen, who lives in Bellingham, first displayed his creation at the 1962 Seattle World&#39;s Fair. Pedersen gases up at this station in Tulalip, coincidentally one of the last gas stations in the U.S. with one of the icons.</em></p>
@@ -162,10 +162,10 @@
 
 					<description><![CDATA[Nearly one year after we launched our campaign asking ConocoPhillips to reconsider their &#34;destroy all balls&#34; policy towards the historic blue and orange Union 76 Ball gas station signs, the Texas energy giant announced to the Wall Street Journal that they have changed their course. Focus groups held last fall told them what nearly 3000 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p><img loading="lazy" src="https://static.flickr.com/40/104241155_9a9ff0c7e6_o.jpg" border="0" alt="" width="432" height="162" /> </p>
-<p>Nearly one year after we launched our campaign asking ConocoPhillips to reconsider their &quot;destroy all balls&quot; policy towards the historic blue and orange Union 76 Ball gas station signs, the Texas energy giant announced to the Wall Street Journal that they have changed their course. Focus groups held last fall told them what nearly 3000 signers of the Save the 76 Ball <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">petition</a> have already told us: <strong>people love the 76 Balls, and don&#39;t want them to disappear.</strong> </p>
+<p><img loading="lazy" src="http://static.flickr.com/40/104241155_9a9ff0c7e6_o.jpg" border="0" alt="" width="432" height="162" /> </p>
+<p>Nearly one year after we launched our campaign asking ConocoPhillips to reconsider their &quot;destroy all balls&quot; policy towards the historic blue and orange Union 76 Ball gas station signs, the Texas energy giant announced to the Wall Street Journal that they have changed their course. Focus groups held last fall told them what nearly 3000 signers of the Save the 76 Ball <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">petition</a> have already told us: <strong>people love the 76 Balls, and don&#39;t want them to disappear.</strong> </p>
 <p> The 76 Balls that come off their poles are <strong>no longer being smashed</strong> or cut into pieces, but being <strong>preserved for donation to museums</strong> like the American Sign Museum, Petersen Automotive Museum, NASCAR Hall of Fame, Museum of Neon Art and perhaps even the Smithsonian! <strong>And a new type of 76 Ball, colored red rather than orange, will soon be installed at up to 100 gas stations in the west.</strong>  </p>
-<p> But there are still good reasons for signing our <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">petition</a>. We believe that a select few historically and architecturally <strong>significant orange 76 Balls should remain </strong>where they have always glowed and spun, like at William Pereira&#39;s modernist 76 station in Beverly Hills, one of the spheres along Highway One in Malibu, and the station in Marysville, WA where 76 Ball designer Ray Pedersen buys his gas. Also, ConocoPhillips has declared that no private individuals will be able to get a 76 Ball, which will be a disappointment to our campaign&#39;s supporter Michael Madsen. <strong>We respectfully ask that ConocoPhillips reconsider this policy, and present one 76 Ball to the individual who conceived,  designed and hand-painted the first 76 Ball for the 1962 Seattle  World&#39;s Fair: Ray Pedersen.</strong></p>
+<p> But there are still good reasons for signing our <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">petition</a>. We believe that a select few historically and architecturally <strong>significant orange 76 Balls should remain </strong>where they have always glowed and spun, like at William Pereira&#39;s modernist 76 station in Beverly Hills, one of the spheres along Highway One in Malibu, and the station in Marysville, WA where 76 Ball designer Ray Pedersen buys his gas. Also, ConocoPhillips has declared that no private individuals will be able to get a 76 Ball, which will be a disappointment to our campaign&#39;s supporter Michael Madsen. <strong>We respectfully ask that ConocoPhillips reconsider this policy, and present one 76 Ball to the individual who conceived,  designed and hand-painted the first 76 Ball for the 1962 Seattle  World&#39;s Fair: Ray Pedersen.</strong></p>
 <p>And most importantly, we ask that ConocoPhillips commit to <strong>pay all costs</strong> <strong>associated with crating and shipping donated 76 Balls to the selected museums</strong>, thus enjoying greater tax benefits and sparing these institutions from having to pay hundreds or thousands of dollars out of their limited budgets in order to receive the gift of the 76 Ball.    </p>
 <p> Our heartfelt thanks to everyone who has supported this campaign through 2006 and into 2007. This is inspiring proof that citizens have the power to reach large corporations and inspire positive change.  </p>
 <div id="themify_builder_content-220" data-postid="220" class="themify_builder_content themify_builder_content-220 themify_builder themify_builder_front">
@@ -196,7 +196,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[To sign this petition, click here.&#160; To: ConocoPhillips We, the undersigned, as consumers with an abiding fondness for the striking, historic and uniquely Californian blue and orange ball-shaped Union 76 logo, be it on tall metal poles or car antennae (since 1967), hereby call on ConocoPhillips to reconsider their alteration of the 115-year-old brand, to [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>To sign this petition, click <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">here</a>.&nbsp;  </p>
+										<content:encoded><![CDATA[<p>To sign this petition, click <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">here</a>.&nbsp;  </p>
 <p>To:  ConocoPhillips  </p>
 <p>We, the undersigned, as consumers with an abiding fondness for the striking, historic and uniquely Californian blue and orange ball-shaped Union 76 logo, be it on tall metal poles or car antennae (since 1967), hereby call on ConocoPhillips to reconsider their alteration of the 115-year-old brand, to cease replacing spherical blue and orange 76 balls at gas stations with flattened blue and red disks, and to restore the beloved spheres to the poles where they belong. If ConocoPhillips does not demonstrate greater respect for the the history and goodwill associated with the blue and orange 76 ball, we will be taking our business to other gas sellers. </p>
 <p>This petition is being launched on January 31, six days after ConocoPhillips posted fourth quarterly earnings of $3.7 Billion, and we call for a sincere response to our concerns before the announcement of their next second quarterly earnings. </p>

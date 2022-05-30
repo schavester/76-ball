@@ -1,4 +1,4 @@
-/* Themify Theme Scripts - https://themify.me/ */
+/* Themify Theme Scripts - http://themify.me/ */
 
 // Declar object literals and variables
 var FixedHeader = {}, LayoutAndFilter = {}, themifyScript, ThemifySlider, ThemifyMediaElement, qp_max_pages;

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -41,10 +41,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[If you&#8217;ve been wondering, like we have, what&#8217;s become of the 76 Balls that are being pulled down from their poles, here&#8217;s where one of them is: being auctioned on eBay! The seller says it was removed from a Bakersfield race track two years ago. And of course if you win, you have to pick [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img border="0" src="https://static.flickr.com/41/103534861_3a7ea2eb2a_m.jpg" /> </p>
-<p>If you&#8217;ve been wondering, like we have, what&#8217;s become of the 76 Balls that are being pulled down from their poles, here&#8217;s where one of them is: being <a target="_blank" href="https://cgi.ebay.com/Union-76-Light_W0QQitemZ7221333383QQcategoryZ10803QQrdZ1">auctioned on eBay</a>! The seller says it was removed from a Bakersfield race track two years ago. And of course if you win, you have to pick it up.&nbsp;</p>
-<p>The Save the 76 Ball made some new friends in the media yesterday. Check out the <a target="_blank" href="https://www.bbc.co.uk/fivelive/programmes/upallnight_blog/20060221.shtml">podcast</a> of petition writers Nathan and Kim in the last ten minutes of the BBC&#8217;s Up All Night Blog show, the Daily Telegraph <a target="_blank" href="https://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/02/23/wballs23.xml&#038;sSheet=/news/2006/02/23/ixworld.html">article</a>, and the <a target="_blank" href="https://www.cspnet.com/ME2/Audiences/dirmod.asp?sid=&#038;nm=&#038;type=Publishing&#038;mod=Publications%3A%3AArticle&#038;mid=8F3A7027421841978F18BE895F87F791&#038;tier=4&#038;id=67C610CD4F604FC1B84B1C50EB230A46&#038;AudID=B1DB1F916652">piece</a> in the deliciously-named Convenience Store/Petroleum Daily News.</p>
-<p>We&#8217;re closing in on 900 signatures on the <a target="_blank" href="https://www.petitiononline.com/76ball/petition.html">petition</a>. Will it hit 1000 by the weekend? </p>
+										<content:encoded><![CDATA[<p><img border="0" src="http://static.flickr.com/41/103534861_3a7ea2eb2a_m.jpg" /> </p>
+<p>If you&#8217;ve been wondering, like we have, what&#8217;s become of the 76 Balls that are being pulled down from their poles, here&#8217;s where one of them is: being <a target="_blank" href="http://cgi.ebay.com/Union-76-Light_W0QQitemZ7221333383QQcategoryZ10803QQrdZ1">auctioned on eBay</a>! The seller says it was removed from a Bakersfield race track two years ago. And of course if you win, you have to pick it up.&nbsp;</p>
+<p>The Save the 76 Ball made some new friends in the media yesterday. Check out the <a target="_blank" href="http://www.bbc.co.uk/fivelive/programmes/upallnight_blog/20060221.shtml">podcast</a> of petition writers Nathan and Kim in the last ten minutes of the BBC&#8217;s Up All Night Blog show, the Daily Telegraph <a target="_blank" href="http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/02/23/wballs23.xml&#038;sSheet=/news/2006/02/23/ixworld.html">article</a>, and the <a target="_blank" href="http://www.cspnet.com/ME2/Audiences/dirmod.asp?sid=&#038;nm=&#038;type=Publishing&#038;mod=Publications%3A%3AArticle&#038;mid=8F3A7027421841978F18BE895F87F791&#038;tier=4&#038;id=67C610CD4F604FC1B84B1C50EB230A46&#038;AudID=B1DB1F916652">piece</a> in the deliciously-named Convenience Store/Petroleum Daily News.</p>
+<p>We&#8217;re closing in on 900 signatures on the <a target="_blank" href="http://www.petitiononline.com/76ball/petition.html">petition</a>. Will it hit 1000 by the weekend? </p>
 <div id="themify_builder_content-148" data-postid="148" class="themify_builder_content themify_builder_content-148 themify_builder themify_builder_front">
 
 	</div>

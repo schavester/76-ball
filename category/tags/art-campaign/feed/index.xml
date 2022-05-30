@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -47,9 +47,9 @@
 										<content:encoded><![CDATA[<p>This is an open invitation to artists who love the 76 Ball.</p>
 <p> As you may know, Texas oil giant ConocoPhillips has purchased Union 76, and has been quietly pulling down the beautiful orange and blue 76 Balls and replacing them with ugly flat signs in red and blue. The ball&#8217;s original designer, Ray Pedersen, is behind our petition and boycott campaign to Save The 76 Ball, as are nearly 1000 petition signers. Our campaign has received coverage on the BBC, LA Business Journal, Brandweek, OC Weekly and KIRO radio Seattle.</p>
 <p> ConocoPhillips refuses to talk with the media about this issue, so you can bet they won&#8217;t respond when we ask them to confirm or deny the rumors that the removed 76 Balls are being SMASHED INTO TINY PIECES. Since they are so secretive, I feel it&#8217;s up to the artists of the world to show what&#8217;s happening through the magic of pen, ink, Photoshop, etc. This is your chance to show what the powers that be don&#8217;t want us to see&#8211;just like Goya, Gericault and Picasso!</p>
-<p> If you&#8217;d care to contribute an image to the campaign, I would love to share it with the world on our website https://www.savethe76ball.local,/ along with a bio and link to your website. We got 51,000 hits over the past month, and I&#8217;m continuing to alert the media, so this could be a cool way to show your work off to gearheads and design fiends.</p>
+<p> If you&#8217;d care to contribute an image to the campaign, I would love to share it with the world on our website http://www.savethe76ball.local,/ along with a bio and link to your website. We got 51,000 hits over the past month, and I&#8217;m continuing to alert the media, so this could be a cool way to show your work off to gearheads and design fiends.</p>
 <p> Please pass this on to anyone you think might be interested. Any help or suggestions you can offer would be greatly appreciated.</p>
-<p> best regards,<br /> Kim Cooper<br /> Editrix, Scram Magazine<br /> and chief troublemaker, Save The 76 Ball<br /> https://www.savethe76ball.local/</p>
+<p> best regards,<br /> Kim Cooper<br /> Editrix, Scram Magazine<br /> and chief troublemaker, Save The 76 Ball<br /> http://www.savethe76ball.local/</p>
 <div id="themify_builder_content-151" data-postid="151" class="themify_builder_content themify_builder_content-151 themify_builder themify_builder_front">
 
 	</div>

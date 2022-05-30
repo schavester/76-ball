@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -41,8 +41,8 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[When I wrote this little text about our campaign for the preservation journal of the SCA some months back, I didn&#8217;t think they were going to put it on the cover of Road Notes! I also didn&#8217;t think the Hermon ball, beloved by Nathan and myself and featured in the photo we sent along, would [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/177060959/"><img loading="lazy" width="383" height="500" border="0" alt="Society For Commercial Archeology Road Notes" src="https://static.flickr.com/60/177060959_54c2695275.jpg" /></a><br />
-When I wrote this little text about our campaign for the preservation journal of the <a href="https://www.sca-roadside.org/index.html" target="_blank">SCA</a> some months back, I didn&#8217;t think they were going to put it on the cover of Road Notes! </p>
+										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/177060959/"><img loading="lazy" width="383" height="500" border="0" alt="Society For Commercial Archeology Road Notes" src="http://static.flickr.com/60/177060959_54c2695275.jpg" /></a><br />
+When I wrote this little text about our campaign for the preservation journal of the <a href="http://www.sca-roadside.org/index.html" target="_blank">SCA</a> some months back, I didn&#8217;t think they were going to put it on the cover of Road Notes! </p>
 <p>I also didn&#8217;t think the Hermon ball, beloved by Nathan and myself and featured in the photo we sent along, would be GONE by the time it was printed. But so it is. </p>
 <p>Walking west on the Sunset Strip last night, I saw a terrible sight, perhaps an omen. A handsome backlit 76 ball on the North side of the street between Fairfax and Crescent Heights was suddenly shut off as my friends and I were enjoying it. It was as if the very sun had gone out. </p>
 <p>Save the 76 Ball. It&#8217;s not too late.</p>

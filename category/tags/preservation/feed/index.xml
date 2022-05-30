@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -41,8 +41,8 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[When I wrote this little text about our campaign for the preservation journal of the SCA some months back, I didn&#8217;t think they were going to put it on the cover of Road Notes! I also didn&#8217;t think the Hermon ball, beloved by Nathan and myself and featured in the photo we sent along, would [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/177060959/"><img loading="lazy" width="383" height="500" border="0" alt="Society For Commercial Archeology Road Notes" src="https://static.flickr.com/60/177060959_54c2695275.jpg" /></a><br />
-When I wrote this little text about our campaign for the preservation journal of the <a href="https://www.sca-roadside.org/index.html" target="_blank">SCA</a> some months back, I didn&#8217;t think they were going to put it on the cover of Road Notes! </p>
+										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/177060959/"><img loading="lazy" width="383" height="500" border="0" alt="Society For Commercial Archeology Road Notes" src="http://static.flickr.com/60/177060959_54c2695275.jpg" /></a><br />
+When I wrote this little text about our campaign for the preservation journal of the <a href="http://www.sca-roadside.org/index.html" target="_blank">SCA</a> some months back, I didn&#8217;t think they were going to put it on the cover of Road Notes! </p>
 <p>I also didn&#8217;t think the Hermon ball, beloved by Nathan and myself and featured in the photo we sent along, would be GONE by the time it was printed. But so it is. </p>
 <p>Walking west on the Sunset Strip last night, I saw a terrible sight, perhaps an omen. A handsome backlit 76 ball on the North side of the street between Fairfax and Crescent Heights was suddenly shut off as my friends and I were enjoying it. It was as if the very sun had gone out. </p>
 <p>Save the 76 Ball. It&#8217;s not too late.</p>
@@ -74,10 +74,10 @@ When I wrote this little text about our campaign for the preservation journal of
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Cooper has a ball in effort to save brand iconby Randi Schmelzer &#8211; 5 Jun 2006 10:53 Burma-Shave rhyme signs, Howard Johnson&#8217;s orange roofs, KFC&#8217;s revolving chicken buckets: all pieces of modern Americana that today exist mostly in memory alone. Now, the iconic orange-and-blue Union 76 gas-station ball is on its way to joining them [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/161802452/"><img loading="lazy" width="500" height="343" border="0" alt="Kim Cooper and endangered 76 ball by Ricardo DeAratanha" src="https://static.flickr.com/52/161802452_5ae90c092f.jpg" /></a><br />
+										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/161802452/"><img loading="lazy" width="500" height="343" border="0" alt="Kim Cooper and endangered 76 ball by Ricardo DeAratanha" src="http://static.flickr.com/52/161802452_5ae90c092f.jpg" /></a><br />
 Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5 Jun 2006 10:53</p>
 <p><strong>Burma-Shave rhyme signs, Howard Johnson&#8217;s orange roofs, KFC&#8217;s revolving chicken buckets: all pieces of modern Americana that today exist mostly in memory alone. Now, the iconic orange-and-blue Union 76 gas-station ball is on its way to joining them &#8211; unless Kim Cooper can stop it.</strong></p>
-<p>Cooper, 39, is a native Angelino and self-proclaimed &quot;ultimate dilettante.&quot; From editing and publishing <a target="_blank" href="https://www.scrammagazine.com/">Scram</a>, a journal of un- popular culture, to co-hosting the &quot;<a target="_blank" href="https://www.1947project.com/">1947project</a>,&quot; a blog and bus-tour series highlighting LA&#8217;s off-the-beaten-path crime sites, &quot;my job is rescuing the underdog from neglect and destruction,&quot; she says.</p>
+<p>Cooper, 39, is a native Angelino and self-proclaimed &quot;ultimate dilettante.&quot; From editing and publishing <a target="_blank" href="http://www.scrammagazine.com/">Scram</a>, a journal of un- popular culture, to co-hosting the &quot;<a target="_blank" href="http://www.1947project.com/">1947project</a>,&quot; a blog and bus-tour series highlighting LA&#8217;s off-the-beaten-path crime sites, &quot;my job is rescuing the underdog from neglect and destruction,&quot; she says.</p>
 <p>The underdog this time is the 76 ball, the 45-year-old victim of a quiet marketing shift that began just after the 2002 merger of gas giants Conoco and Phillips.</p>
 <p>According to its 2004 annual report, ConocoPhillips, which operates Conoco and Phillips gas stations, as well as 76, that year initiated a project to streamline the three brands&#8217; marketing efforts. So while its Web site refers to the 76 logo as &quot;a long-trusted symbol [that] means something special to our customers,&quot; its most recent graphic-standards manual calls for a brand-consistent red-and-blue color scheme, rather than the historic, eye-popping orange.</p>
 <p>&quot;They began knocking down the 76 balls,&quot; Cooper recalls. These omnipresent symbols for gasoline in many parts of the US were methodically being substituted with ground-level &quot;monuments&quot; or taller, disc-shaped signage. Many of the LA area&#8217;s 400 spheres have already been replaced, including the one that rose above Dodger Stadium for decades.</p>
@@ -89,12 +89,12 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 <p>Cooper admits that on some level, the effort is prank-like and &quot;silly.&quot; She says she&#8217;s &quot;been attacked by people for putting my energies into this rather frivolous and highly charged campaign.&quot;</p>
 <p>But saving the 76 sphere is about more than a gas-station sign. &quot;If you don&#8217;t look at what&#8217;s around you, it&#8217;s very easy to not care if things get knocked down and destroyed, things that actually reflect the culture, history, and changes of your place,&quot; she explains. &quot;I think it&#8217;s a tragedy.&quot;</p>
 <p>Kim Cooper</p>
-<p>2005-present<br />Cofounder, <a target="_blank" href="https://www.explosivepr.com/">Explosive PR</a>/<a target="_blank" href="https://www.dumplingfeed.com/">Dumplingfeed</a> media consultancy</p>
+<p>2005-present<br />Cofounder, <a target="_blank" href="http://www.explosivepr.com/">Explosive PR</a>/<a target="_blank" href="http://www.dumplingfeed.com/">Dumplingfeed</a> media consultancy</p>
 <p>1995-2000<br />Exhibition coordinator and librarian, LA Museum of Contemporary Art</p>
-<p>1991-1992<br />Researcher, The Oakland Museum of California<br />&nbsp;<br />Copyright &copy; 2005&nbsp; <a target="_blank" href="https://www.prweek.com/">PRWeek</a></p>
+<p>1991-1992<br />Researcher, The Oakland Museum of California<br />&nbsp;<br />Copyright &copy; 2005&nbsp; <a target="_blank" href="http://www.prweek.com/">PRWeek</a></p>
 <p>photo by Ricardo DeAratanha, LA Times  </p>
 <p>&nbsp;</p>
-<p> <a target="_blank" href="https://www.prweek.com/" /></p>
+<p> <a target="_blank" href="http://www.prweek.com/" /></p>
 <div id="themify_builder_content-173" data-postid="173" class="themify_builder_content themify_builder_content-173 themify_builder themify_builder_front">
 
 	</div>
@@ -120,9 +120,9 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 					<description><![CDATA[And now a word from our Nathan: The Oasis re-imaging campaign, expected to continue through 2007, is giving the Phillips 66, Conoco and 76 branded stations a consistent look across the country. Additionally, the company has improved a number of offerings to help strengthen the brands and bring them under the umbrella of &#8216;ONE!&#8217; &#8211; [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>And now a word from our Nathan:</p>
 <p><span class="postbody"><span>The Oasis re-imaging campaign, expected to continue through 2007, is giving the Phillips 66, Conoco and 76 branded stations a consistent look across the country. Additionally, the company has improved a number of offerings to help strengthen the brands and bring them under the umbrella of &lsquo;ONE!&rsquo; &ndash; one company, one image, one credit card, one quality product.&rdquo;</span> <br /> <span>&#8211;	ConocoPhillips 2004 Annual Report</span> </p>
-<p> I trust many of you are familiar with the &ldquo;Save Ray&rsquo;s Balls!&rdquo; campaign at <a target="_blank" href="https://www.savethe76ball.local../../">https://www.savethe76ball.local/</a> &#8212; not only are the balls going, but the gas station architecture as well, as part of the nefariously-named Oasis Campaign. Check out the Oahu photos at the top of the savethe76ball page to see what they&rsquo;re up to. </p>
-<p> Here is the Pereira &amp; Assoc. 1965 Union Oil station &#8212;  <br />  &nbsp; <br /> <img border="0" src="https://static.flickr.com/44/153465405_6c37c14556.jpg" /></p>
-<p> &#8212; further seen here &#8212; <a target="_blank" href="https://you-are-here.com/googie/_76.html">https://you-are-here.com/googie/_76.html</a> &#8212; could she be next?   </p>
+<p> I trust many of you are familiar with the &ldquo;Save Ray&rsquo;s Balls!&rdquo; campaign at <a target="_blank" href="http://www.savethe76ball.local../../">http://www.savethe76ball.local/</a> &#8212; not only are the balls going, but the gas station architecture as well, as part of the nefariously-named Oasis Campaign. Check out the Oahu photos at the top of the savethe76ball page to see what they&rsquo;re up to. </p>
+<p> Here is the Pereira &amp; Assoc. 1965 Union Oil station &#8212;  <br />  &nbsp; <br /> <img border="0" src="http://static.flickr.com/44/153465405_6c37c14556.jpg" /></p>
+<p> &#8212; further seen here &#8212; <a target="_blank" href="http://you-are-here.com/googie/_76.html">http://you-are-here.com/googie/_76.html</a> &#8212; could she be next?   </p>
 <p>Will Beverly Hills lose Trader Vic&rsquo;s and Pereira&rsquo;s 76 in one fell swoop? Given the sterling history of preservation in BH&hellip; Gershwin House, Beverly Theater&hellip; </p>
 <p> (&hellip;thanks to Adrienne Biondo for [unknowingly] allowing me to steal her wonderful photo from LAOK.)</span>  </p>
 <div id="themify_builder_content-171" data-postid="171" class="themify_builder_content themify_builder_content-171 themify_builder themify_builder_front">
@@ -154,9 +154,9 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 
 					<description><![CDATA[Original 8mm footage, courtesy of Alan Eastlund, of Ray Pedersen&#8217;s design for the Union Oil Skyride exhibit at the Seattle Fair, which inspired the endangered 76 Ball design. &#160;]]></description>
 										<content:encoded><![CDATA[
-<p>Original <a href="https://youtube.com/watch?v=6Dya3lRHCpM" target="_blank">8mm footage</a>, courtesy of Alan Eastlund, of Ray Pedersen&#8217;s design for the Union Oil Skyride exhibit at the Seattle Fair, which inspired the endangered 76 Ball design.</p>
+<p>Original <a href="http://youtube.com/watch?v=6Dya3lRHCpM" target="_blank">8mm footage</a>, courtesy of Alan Eastlund, of Ray Pedersen&#8217;s design for the Union Oil Skyride exhibit at the Seattle Fair, which inspired the endangered 76 Ball design.</p>
 <p>&nbsp;</p>
-<p><object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/6Dya3lRHCpM"></param><embed src="https://www.youtube.com/v/6Dya3lRHCpM" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/6Dya3lRHCpM"></param><embed src="http://www.youtube.com/v/6Dya3lRHCpM" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <div id="themify_builder_content-159" data-postid="159" class="themify_builder_content themify_builder_content-159 themify_builder themify_builder_front">
 
 	</div>
@@ -183,10 +183,10 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The good folks of the Modcom division of the Los Angeles Conservancy have extended an invitation to discuss the Save the 76 Ball campaign at Monday night&#8217;s monthly meeting in Santa Monica, CA. Friends of the 76 Ball are invited to attend this free meeting to connect with others interested in saving the signs, and [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>The good folks of the Modcom division of the Los Angeles Conservancy have extended an invitation to discuss the Save the 76 Ball campaign at Monday night&#8217;s monthly meeting in Santa Monica, CA. Friends of the 76 Ball are invited to attend this free meeting to connect with others interested in saving the signs, and learn about the important work of Modcom. The 76 Ball discussion will be in &quot;new business&quot; in the 8pm hour, but please come early if you can. <a href="https://www.modcom.org/" target="_blank">More info</a>: </p>
+										<content:encoded><![CDATA[<p>The good folks of the Modcom division of the Los Angeles Conservancy have extended an invitation to discuss the Save the 76 Ball campaign at Monday night&#8217;s monthly meeting in Santa Monica, CA. Friends of the 76 Ball are invited to attend this free meeting to connect with others interested in saving the signs, and learn about the important work of Modcom. The 76 Ball discussion will be in &quot;new business&quot; in the 8pm hour, but please come early if you can. <a href="http://www.modcom.org/" target="_blank">More info</a>: </p>
 <p><strong>Monday, March 20th</strong><br />       6:30PM meet &amp; greet<br />       7:00PM meeting</p>
-<p>       <strong>Santa Monica Main Library</strong><br />       Multi-Purpose Room <br />       601 Santa Monica Blvd. <br />       Santa Monica, CA 90401 <br />       <a href="https://www.smpl.org/depts/branches/index.htm">MAP</a></p>
-<p>       Our friends at the <a href="https://www.smconservancy.org/mtpages/main.shtml">Santa Monica Conservancy</a> will be joining us for the meeting. SM Conservancy Vice-President John Zinner, a leading sustainable development consultant, will give a brief discussion on the value of green buildings, of which the Main Library is a noteworthy example, and the connection to historic preservation.  </p>
+<p>       <strong>Santa Monica Main Library</strong><br />       Multi-Purpose Room <br />       601 Santa Monica Blvd. <br />       Santa Monica, CA 90401 <br />       <a href="http://www.smpl.org/depts/branches/index.htm">MAP</a></p>
+<p>       Our friends at the <a href="http://www.smconservancy.org/mtpages/main.shtml">Santa Monica Conservancy</a> will be joining us for the meeting. SM Conservancy Vice-President John Zinner, a leading sustainable development consultant, will give a brief discussion on the value of green buildings, of which the Main Library is a noteworthy example, and the connection to historic preservation.  </p>
 <div id="themify_builder_content-158" data-postid="158" class="themify_builder_content themify_builder_content-158 themify_builder themify_builder_front">
 
 	</div>
@@ -217,8 +217,8 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 
 					<description><![CDATA[Nathan Marsak, author of the book &#8220;Los Angeles Neon&#8221; and co-author of the Save The 76 Ball Petition, delivers an impassioned podcast plea that the remaining 76 Balls be kept safe from harm. stay in touch! subscribe to the channel.]]></description>
 										<content:encoded><![CDATA[
-<p> Nathan Marsak, author of the book &ldquo;Los Angeles Neon&rdquo; and co-author of the Save The 76 Ball Petition, delivers an impassioned <a href="https://ia300226.us.archive.org/2/items/Nathan_Marsak_says_Save_the_76_Ball/NathanMarsaksays_Savethe76ball_.mp3">podcast</a> plea that the remaining 76 Balls be kept safe from harm.</p>
-<p>stay in touch! subscribe to the <a href="https://feeds.feedburner.com/76ball">channel</a>. </p>
+<p> Nathan Marsak, author of the book &ldquo;Los Angeles Neon&rdquo; and co-author of the Save The 76 Ball Petition, delivers an impassioned <a href="http://ia300226.us.archive.org/2/items/Nathan_Marsak_says_Save_the_76_Ball/NathanMarsaksays_Savethe76ball_.mp3">podcast</a> plea that the remaining 76 Balls be kept safe from harm.</p>
+<p>stay in touch! subscribe to the <a href="http://feeds.feedburner.com/76ball">channel</a>. </p>
 <div id="themify_builder_content-144" data-postid="144" class="themify_builder_content themify_builder_content-144 themify_builder themify_builder_front">
 
 	</div>

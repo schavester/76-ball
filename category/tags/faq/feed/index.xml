@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -38,7 +38,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[This website offers original 76 Ball antenna toppers, plus shirts, mugs, stickers and other neat stuff emblazoned with our own &#34;Don&#39;t Let Then Take Our Balls&#34; logo (designed by Phil Goldwhite). Also, click the pictures on the left side of this website for original 76 Ball items like clocks and flags from other vendors. For [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>This website offers <a href="https://www.scrammagazine.com/76ball" target="_blank">original 76 Ball antenna toppers,</a> plus shirts, mugs, stickers and other neat stuff emblazoned with our own &quot;Don&#39;t Let Then Take Our Balls&quot; logo (designed by Phil Goldwhite). Also, click the pictures on the left side of this website for original 76 Ball items like clocks and flags from other vendors. For the completist, full-sized 76 Balls occasionally show up on eBay.   </p>
+										<content:encoded><![CDATA[<p>This website offers <a href="http://www.scrammagazine.com/76ball" target="_blank">original 76 Ball antenna toppers,</a> plus shirts, mugs, stickers and other neat stuff emblazoned with our own &quot;Don&#39;t Let Then Take Our Balls&quot; logo (designed by Phil Goldwhite). Also, click the pictures on the left side of this website for original 76 Ball items like clocks and flags from other vendors. For the completist, full-sized 76 Balls occasionally show up on eBay.   </p>
 <div id="themify_builder_content-219" data-postid="219" class="themify_builder_content themify_builder_content-219 themify_builder themify_builder_front">
 
 	</div>
@@ -62,10 +62,10 @@
 										<content:encoded><![CDATA[
 <p>A year after we first asked them to reconsider their destroy all balls policy, ConocoPhillips has agreed to give some 76 Balls to museums. We applaud this wonderful news. But we still would like to see a few select orange and blue 76 Balls allowed to remain on their poles, like the 1965 modernist station by William Pereira in Beverly Hills, or one of the stations along Highway One in Malibu. And designer Ray Pedersen deserves to be able to keep one of his classic balls. If you agree: </p>
 <ol>
-<li>please sign our <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">petition</a></li>
+<li>please sign our <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">petition</a></li>
 <li>tell your local station owner to keep his 76 Ball lit and spinning if he wants to keep your business</li>
 <li>call ConocoPhillips in Houston at 281-293-1000, ask for Sylvia Hansen in External Communications, and let her know you want to see a few historic orange and blue 76 Balls stay on their poles, and for designer Ray Pedersen to get one 76 Ball of his own.</li>
-<li>visit our <a target="_blank" href="https://savethe76ball.honestbleeps.com/">message board</a> to report existing or missing 76 Balls in your community. Take photos and host them for free right on the message board. </li>
+<li>visit our <a target="_blank" href="http://savethe76ball.honestbleeps.com/">message board</a> to report existing or missing 76 Balls in your community. Take photos and host them for free right on the message board. </li>
 </ol>
 <div id="themify_builder_content-218" data-postid="218" class="themify_builder_content themify_builder_content-218 themify_builder themify_builder_front">
 

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -44,12 +44,12 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Acclaimed KNX reporter Michael Linder has a nice feature on the Save the 76 Ball campaign in his weekend blog. Click over to enjoy a very clever montage of images, or just read on. Thanks, Michael! Pinhead to the rescue of giant 76 balls! You know &#8212; those orange and blue globes being uprooted from [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Acclaimed KNX reporter Michael Linder has a nice feature on the Save the 76 Ball campaign in his weekend blog. <a href="https://www.linder.com/archives/37" target="_blank">Click over</a> to enjoy a very clever montage of images, or just read on. Thanks, Michael! </p>
+										<content:encoded><![CDATA[<p>Acclaimed KNX reporter Michael Linder has a nice feature on the Save the 76 Ball campaign in his weekend blog. <a href="http://www.linder.com/archives/37" target="_blank">Click over</a> to enjoy a very clever montage of images, or just read on. Thanks, Michael! </p>
 <p><strong>Pinhead to the rescue of giant 76 balls!</strong> You know &mdash; those orange and blue globes being uprooted from gas stations across the Southland while Los Angeles culture aficionados howl.</p>
-<p>The branding switcheroo is fallout from <a target="_blank" href="https://www.conocophillips.com/index.htm">ConocoPhillips</a> purchase of Union 76. Flat signage in ConocoPhillips red is replacing the big orange balls which were designed by Ray Pederson for the 1962 Seattle World&rsquo;s Fair. The spheres have taken on urban treasure status among cultural preservationists who regard them as historic Jet Age flashbacks &mdash; like the Jetsonesque <a target="-blank" href="https://you-are-here.com/restaurant/encounter.html">theme restaurant</a> at LAX which also made its debut in &lsquo;62.</p>
-<p>&nbsp;This week, cartoonist <a target="_blank" href="https://en.wikipedia.org/wiki/Bill_Griffith">Bill Griffith</a> announced his <a target="_blank" href="https://www.zippythepinhead.com/">&ldquo;Zippy the Pinhead&rdquo;</a> comic strip is taking up the cause. Griffith&rsquo;s passion for classic signs is legendary. We recently caught Zippy in print, chatting with the <a target="_blank" href="https://la.buzznet.com/cat/?id=51061">Felix Chevrolet sign</a> at Jefferson and Figueroa. And, he&rsquo;s got clout. Seen in over 200 newspapers, Zip&rsquo;s strip is credited with saving the Bay Area&rsquo;s <a target="_blank" href="https://www.doggiediner.com/">Doggie Diner</a> weiner dog signs from destruction.</p>
-<p><strong>Dogged determination by Kim Cooper and Nathan Marsak</strong> is fueling the campaign. The duo publish <a target="_blank" href="https://www.1947project.com/">The 1947 Project</a>, one of our all-time fave explorations into Los Angeles&rsquo; colorful past. (Our KNX news story streams <a target="_blank" href="https://linder.com/1947.mp3">here</a>.) More than 2,300 signatures from motorists threatening to boycott have been gathered at their <a target="_blank" href="https://www.savethe76ball.local../../">Save the 76 Ball</a> site. &ldquo;If that ball goes, so does this customer!&rdquo; </p>
-<p>ConocoPhillips hasn&rsquo;t backed down despite a steady stream of media attention to the cause c&eacute;l&egrave;bre. Even the BBC is onto <a target="_blank" href="https://news.bbc.co.uk/2/hi/entertainment/5055782.stm">gas station castration</a>. Actor Michael Madsen (&ldquo;Reservoir Dogs,&rdquo; &ldquo;Kill Bill&rdquo;) told the Beeb, &ldquo;There seems to be this driving force to tear down everything that&rsquo;s a little old. These are things that were landmarks, a symbol that I remember from childhood.&rdquo; Madsen says he tried to buy a ball but was told they are destined to be crushed. &ldquo;What&rsquo;s the point of smashing them and putting up flat signs?&rdquo; </p>
+<p>The branding switcheroo is fallout from <a target="_blank" href="http://www.conocophillips.com/index.htm">ConocoPhillips</a> purchase of Union 76. Flat signage in ConocoPhillips red is replacing the big orange balls which were designed by Ray Pederson for the 1962 Seattle World&rsquo;s Fair. The spheres have taken on urban treasure status among cultural preservationists who regard them as historic Jet Age flashbacks &mdash; like the Jetsonesque <a target="-blank" href="http://you-are-here.com/restaurant/encounter.html">theme restaurant</a> at LAX which also made its debut in &lsquo;62.</p>
+<p>&nbsp;This week, cartoonist <a target="_blank" href="http://en.wikipedia.org/wiki/Bill_Griffith">Bill Griffith</a> announced his <a target="_blank" href="http://www.zippythepinhead.com/">&ldquo;Zippy the Pinhead&rdquo;</a> comic strip is taking up the cause. Griffith&rsquo;s passion for classic signs is legendary. We recently caught Zippy in print, chatting with the <a target="_blank" href="http://la.buzznet.com/cat/?id=51061">Felix Chevrolet sign</a> at Jefferson and Figueroa. And, he&rsquo;s got clout. Seen in over 200 newspapers, Zip&rsquo;s strip is credited with saving the Bay Area&rsquo;s <a target="_blank" href="http://www.doggiediner.com/">Doggie Diner</a> weiner dog signs from destruction.</p>
+<p><strong>Dogged determination by Kim Cooper and Nathan Marsak</strong> is fueling the campaign. The duo publish <a target="_blank" href="http://www.1947project.com/">The 1947 Project</a>, one of our all-time fave explorations into Los Angeles&rsquo; colorful past. (Our KNX news story streams <a target="_blank" href="http://linder.com/1947.mp3">here</a>.) More than 2,300 signatures from motorists threatening to boycott have been gathered at their <a target="_blank" href="http://www.savethe76ball.local../../">Save the 76 Ball</a> site. &ldquo;If that ball goes, so does this customer!&rdquo; </p>
+<p>ConocoPhillips hasn&rsquo;t backed down despite a steady stream of media attention to the cause c&eacute;l&egrave;bre. Even the BBC is onto <a target="_blank" href="http://news.bbc.co.uk/2/hi/entertainment/5055782.stm">gas station castration</a>. Actor Michael Madsen (&ldquo;Reservoir Dogs,&rdquo; &ldquo;Kill Bill&rdquo;) told the Beeb, &ldquo;There seems to be this driving force to tear down everything that&rsquo;s a little old. These are things that were landmarks, a symbol that I remember from childhood.&rdquo; Madsen says he tried to buy a ball but was told they are destined to be crushed. &ldquo;What&rsquo;s the point of smashing them and putting up flat signs?&rdquo; </p>
 <p>Indeed! Not to mention the way some of the balls magically morph into Halloween jack-o-lanterns every October. Three dollar gas, now this.</p>
 <div id="themify_builder_content-181" data-postid="181" class="themify_builder_content themify_builder_content-181 themify_builder themify_builder_front">
 
@@ -75,11 +75,11 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Thanks to Brandi at Team Madsen, we can offer interested 76 Ball fans this graphic and email text to send out to people who you think would like to know about the campaign. Just right-click the image and save it to your desktop, then you can send it out in emails. We appreciate all your [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Thanks to Brandi at <a target="_blank" href="https://teammadsen.bravehost.com/">Team Madsen</a>, we can offer interested 76 Ball fans this graphic and email text to send out to people who you think would like to know about the campaign. Just right-click the image and save it to your desktop, then you can send it out in emails. We appreciate all your comments, great ideas and support from around the world. Spread the word and together we can Save Our Balls!</p>
-<p>&nbsp;<a target="_blank" href="/https://www.savethe76ball.local/"><img border="0" src="https://static.flickr.com/57/163809226_382cde45e6_o.jpg" /></a> Please click the image above to visit the site&nbsp;and learn how you too can help save a part of America&#8217;s history. If you are unable to visit the link by clicking the image&nbsp;&#8211; you can just copy and paste the following&nbsp;link into your web browser:&nbsp; <a target="_blank" href="../../../../undefined/https://www.savethe76ball.local/">https://www.savethe76ball.local/</a> Campaign was started and is run by Kim Cooper and Nathan Marsak. Supporters include the &quot;76 Ball&quot; creator Ray Pederson and actor Michael Madsen. </p>
-<p>In the news: feature <a target="_blank" href="https://news.bbc.co.uk/1/hi/entertainment/5055782.stm">one</a> and <a target="_blank" href="https://news.bbc.co.uk/1/hi/world/americas/4735280.stm">two</a>.&nbsp;<a> </a></p>
+										<content:encoded><![CDATA[<p>Thanks to Brandi at <a target="_blank" href="http://teammadsen.bravehost.com/">Team Madsen</a>, we can offer interested 76 Ball fans this graphic and email text to send out to people who you think would like to know about the campaign. Just right-click the image and save it to your desktop, then you can send it out in emails. We appreciate all your comments, great ideas and support from around the world. Spread the word and together we can Save Our Balls!</p>
+<p>&nbsp;<a target="_blank" href="/http://www.savethe76ball.local/"><img border="0" src="http://static.flickr.com/57/163809226_382cde45e6_o.jpg" /></a> Please click the image above to visit the site&nbsp;and learn how you too can help save a part of America&#8217;s history. If you are unable to visit the link by clicking the image&nbsp;&#8211; you can just copy and paste the following&nbsp;link into your web browser:&nbsp; <a target="_blank" href="../../../../undefined/http://www.savethe76ball.local/">http://www.savethe76ball.local/</a> Campaign was started and is run by Kim Cooper and Nathan Marsak. Supporters include the &quot;76 Ball&quot; creator Ray Pederson and actor Michael Madsen. </p>
+<p>In the news: feature <a target="_blank" href="http://news.bbc.co.uk/1/hi/entertainment/5055782.stm">one</a> and <a target="_blank" href="http://news.bbc.co.uk/1/hi/world/americas/4735280.stm">two</a>.&nbsp;<a> </a></p>
 <p>Please forward this email to anyone and everyone who you think may support our fight! Thank you for your  support!!!!!  </p>
-<p>Disclaimer:&nbsp; Email and&nbsp;logo above&nbsp;were created by Brandi Blanchard &quot;FilmReelGirl Productions (c) 2006&quot;&nbsp;in support of the Save the 76 Ball Campaign.&nbsp;&nbsp;Pictures used&nbsp;in the&nbsp;above logo were taken from these websites: The <a href="https://news.bbc.co.uk/1/hi/world/americas/4735280.stm" target="_blank">BBC</a> and <a href="../../../../undefined/https://www.savethe76ball.local/" target="_self">Save the 76 Ball</a> and they retain their original copyrights.&nbsp; This email was sent to you by an acquaintance in the hopes that you would support our fight. If you do not feel the need to support the campaign, please disregard and delete this email as you are not on any mailing list to receive any more.</p>
+<p>Disclaimer:&nbsp; Email and&nbsp;logo above&nbsp;were created by Brandi Blanchard &quot;FilmReelGirl Productions (c) 2006&quot;&nbsp;in support of the Save the 76 Ball Campaign.&nbsp;&nbsp;Pictures used&nbsp;in the&nbsp;above logo were taken from these websites: The <a href="http://news.bbc.co.uk/1/hi/world/americas/4735280.stm" target="_blank">BBC</a> and <a href="../../../../undefined/http://www.savethe76ball.local/" target="_self">Save the 76 Ball</a> and they retain their original copyrights.&nbsp; This email was sent to you by an acquaintance in the hopes that you would support our fight. If you do not feel the need to support the campaign, please disregard and delete this email as you are not on any mailing list to receive any more.</p>
 <div id="themify_builder_content-176" data-postid="176" class="themify_builder_content themify_builder_content-176 themify_builder themify_builder_front">
 
 	</div>
@@ -131,7 +131,7 @@
 <p> The 76 Ball is not the first piece of disappearing street furniture that the star has attempted to save. </p>
 <p> He is also buying one of Britain&#8217;s old red telephone boxes in an effort to preserve a little bit of the London that he remembers. </p>
 <p> &quot;I&#8217;m in the process of purchasing one of the phone boxes for myself and having it put up in the front of the garden. My kids aren&#8217;t going to see the same London that I saw, my kids aren&#8217;t going to see the same California that I saw.&quot; </p>
-<div class="footer"> Story from BBC NEWS:<br /><a href="https://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm" target="_blank"> https://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm</a></p>
+<div class="footer"> Story from BBC NEWS:<br /><a href="http://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm" target="_blank"> http://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm</a></p>
 <p> Published: 2006/06/08 07:18:04 GMT</p>
 <p> &copy; BBC MMVI </div>
 <div id="themify_builder_content-174" data-postid="174" class="themify_builder_content themify_builder_content-174 themify_builder themify_builder_front">
@@ -162,10 +162,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Cooper has a ball in effort to save brand iconby Randi Schmelzer &#8211; 5 Jun 2006 10:53 Burma-Shave rhyme signs, Howard Johnson&#8217;s orange roofs, KFC&#8217;s revolving chicken buckets: all pieces of modern Americana that today exist mostly in memory alone. Now, the iconic orange-and-blue Union 76 gas-station ball is on its way to joining them [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/161802452/"><img loading="lazy" width="500" height="343" border="0" alt="Kim Cooper and endangered 76 ball by Ricardo DeAratanha" src="https://static.flickr.com/52/161802452_5ae90c092f.jpg" /></a><br />
+										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/161802452/"><img loading="lazy" width="500" height="343" border="0" alt="Kim Cooper and endangered 76 ball by Ricardo DeAratanha" src="http://static.flickr.com/52/161802452_5ae90c092f.jpg" /></a><br />
 Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5 Jun 2006 10:53</p>
 <p><strong>Burma-Shave rhyme signs, Howard Johnson&#8217;s orange roofs, KFC&#8217;s revolving chicken buckets: all pieces of modern Americana that today exist mostly in memory alone. Now, the iconic orange-and-blue Union 76 gas-station ball is on its way to joining them &#8211; unless Kim Cooper can stop it.</strong></p>
-<p>Cooper, 39, is a native Angelino and self-proclaimed &quot;ultimate dilettante.&quot; From editing and publishing <a target="_blank" href="https://www.scrammagazine.com/">Scram</a>, a journal of un- popular culture, to co-hosting the &quot;<a target="_blank" href="https://www.1947project.com/">1947project</a>,&quot; a blog and bus-tour series highlighting LA&#8217;s off-the-beaten-path crime sites, &quot;my job is rescuing the underdog from neglect and destruction,&quot; she says.</p>
+<p>Cooper, 39, is a native Angelino and self-proclaimed &quot;ultimate dilettante.&quot; From editing and publishing <a target="_blank" href="http://www.scrammagazine.com/">Scram</a>, a journal of un- popular culture, to co-hosting the &quot;<a target="_blank" href="http://www.1947project.com/">1947project</a>,&quot; a blog and bus-tour series highlighting LA&#8217;s off-the-beaten-path crime sites, &quot;my job is rescuing the underdog from neglect and destruction,&quot; she says.</p>
 <p>The underdog this time is the 76 ball, the 45-year-old victim of a quiet marketing shift that began just after the 2002 merger of gas giants Conoco and Phillips.</p>
 <p>According to its 2004 annual report, ConocoPhillips, which operates Conoco and Phillips gas stations, as well as 76, that year initiated a project to streamline the three brands&#8217; marketing efforts. So while its Web site refers to the 76 logo as &quot;a long-trusted symbol [that] means something special to our customers,&quot; its most recent graphic-standards manual calls for a brand-consistent red-and-blue color scheme, rather than the historic, eye-popping orange.</p>
 <p>&quot;They began knocking down the 76 balls,&quot; Cooper recalls. These omnipresent symbols for gasoline in many parts of the US were methodically being substituted with ground-level &quot;monuments&quot; or taller, disc-shaped signage. Many of the LA area&#8217;s 400 spheres have already been replaced, including the one that rose above Dodger Stadium for decades.</p>
@@ -177,12 +177,12 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 <p>Cooper admits that on some level, the effort is prank-like and &quot;silly.&quot; She says she&#8217;s &quot;been attacked by people for putting my energies into this rather frivolous and highly charged campaign.&quot;</p>
 <p>But saving the 76 sphere is about more than a gas-station sign. &quot;If you don&#8217;t look at what&#8217;s around you, it&#8217;s very easy to not care if things get knocked down and destroyed, things that actually reflect the culture, history, and changes of your place,&quot; she explains. &quot;I think it&#8217;s a tragedy.&quot;</p>
 <p>Kim Cooper</p>
-<p>2005-present<br />Cofounder, <a target="_blank" href="https://www.explosivepr.com/">Explosive PR</a>/<a target="_blank" href="https://www.dumplingfeed.com/">Dumplingfeed</a> media consultancy</p>
+<p>2005-present<br />Cofounder, <a target="_blank" href="http://www.explosivepr.com/">Explosive PR</a>/<a target="_blank" href="http://www.dumplingfeed.com/">Dumplingfeed</a> media consultancy</p>
 <p>1995-2000<br />Exhibition coordinator and librarian, LA Museum of Contemporary Art</p>
-<p>1991-1992<br />Researcher, The Oakland Museum of California<br />&nbsp;<br />Copyright &copy; 2005&nbsp; <a target="_blank" href="https://www.prweek.com/">PRWeek</a></p>
+<p>1991-1992<br />Researcher, The Oakland Museum of California<br />&nbsp;<br />Copyright &copy; 2005&nbsp; <a target="_blank" href="http://www.prweek.com/">PRWeek</a></p>
 <p>photo by Ricardo DeAratanha, LA Times  </p>
 <p>&nbsp;</p>
-<p> <a target="_blank" href="https://www.prweek.com/" /></p>
+<p> <a target="_blank" href="http://www.prweek.com/" /></p>
 <div id="themify_builder_content-173" data-postid="173" class="themify_builder_content themify_builder_content-173 themify_builder themify_builder_front">
 
 	</div>

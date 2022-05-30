@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -40,14 +40,14 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The following article appeared on the Swedish website (newspaper?) Ny Teknik. If any of our readers can read Swedish, we would love to know what it says! Amerikaner sl&#229;ss f&#246;r sina bollar Bensinstationskedjan Union 76s skyltar har blivit en del av allas v&#229;r bild av USA. Antingen vi sett dem p&#229; plats l&#228;ngs n&#229;gon Interstate [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>The following article appeared on the Swedish website (newspaper?) <a href="https://www.nyteknik.se/pub/ipsart.asp?art_id=45017" target="_blank">Ny Teknik</a>. If any of our readers can read Swedish, we would love to know what it says!</p>
+										<content:encoded><![CDATA[<p>The following article appeared on the Swedish website (newspaper?) <a href="http://www.nyteknik.se/pub/ipsart.asp?art_id=45017" target="_blank">Ny Teknik</a>. If any of our readers can read Swedish, we would love to know what it says!</p>
 <table width="546" cellspacing="0" cellpadding="5" border="0">
 <tr>
 <td><strong><span class="rubrikstor">Amerikaner sl&aring;ss f&ouml;r sina bollar</span></strong> 		</td>
 </tr>
 <tr>
 <td> 		  			<span class="brodtext"></p>
-<div align="left">Bensinstationskedjan Union 76s skyltar har blivit en del av allas v&aring;r bild av USA. Antingen vi sett dem p&aring; plats l&auml;ngs n&aring;gon Interstate Highway eller k&auml;nner igen dem fr&aring;n en amerikansk roadmovie. Stora lysande orange bollar p&aring; h&ouml;ga master, med sifferkombinationen snitsigt m&aring;lad i m&ouml;rkbl&aring;tt och vitt. <br />&nbsp;<br />Nu plockas de brandgula bollarna ner en efter en. Union 76 &auml;r sedan l&auml;nge inf&ouml;rlivat i den &auml;nnu st&ouml;rre koncernen Conoco Phillips, som tycker att det r&auml;cker med helt vanliga platta skyltar. Och att siffrorna g&ouml;r sig b&auml;ttre mot en r&ouml;d, inte en orange, bakgrund. <br />&nbsp;<br />Men Conoco Phillips bollplockning m&ouml;ter motst&aring;nd. P&aring; internet cirkulerar namninsamlingar till f&ouml;rsvar f&ouml;r dessa motorv&auml;garnas lysande landm&auml;rken. Det finns en hel webbplats,  <a target="_blank" href="https://www.savethe76ball.local../../"> https://www.savethe76ball.local/</a> med samma syfte. <br />&nbsp;<br />Kanske kan reaktionen j&auml;mf&ouml;ras med svenskarnas k&auml;nslor n&auml;r Sparbankerna bytte bort sin v&auml;lk&auml;nda ek. <br />&nbsp;<br />Den gamla trygghetssymbolen devalverades till n&aring;got som mest s&aring;g ut som en sliten fem&ouml;ring. Och &auml;ven om 76-bollens f&ouml;rsvarare talar om den som ett designm&auml;sterverk, s&aring; tror jag att reaktionen ocks&aring; nu ytterst handlar om n&aring;got annat. <br />&nbsp;<br />Union 76 reste sina bollar p&aring; 1960-talet, l&aring;ngt f&ouml;re alla oljekriser, i en tid d&aring; bensinen var billig, s&auml;rskilt i USA, och det aldrig talades om v&auml;xthuseffekten. L&auml;ngtan tillbaka till den tiden delas av m&aring;nga, s&auml;rskilt de som d&aring; var unga. Framtiden var aldrig s&aring; ljus &#8211; och heller inte s&aring; bilburen &#8211; som d&aring;. <br />&nbsp;<br />Och den l&auml;ngtan &auml;r knappast begr&auml;nsad till amerikaner. F&ouml;r varf&ouml;r skulle annars rivningen av en BP-mack l&auml;ngs Ringv&auml;gen i Stockholm utl&ouml;sa uppr&ouml;rda ins&auml;ndare eller svenska eternitkramare samla p&aring; sig bilkuddar med Gulfsymboler. </div>
+<div align="left">Bensinstationskedjan Union 76s skyltar har blivit en del av allas v&aring;r bild av USA. Antingen vi sett dem p&aring; plats l&auml;ngs n&aring;gon Interstate Highway eller k&auml;nner igen dem fr&aring;n en amerikansk roadmovie. Stora lysande orange bollar p&aring; h&ouml;ga master, med sifferkombinationen snitsigt m&aring;lad i m&ouml;rkbl&aring;tt och vitt. <br />&nbsp;<br />Nu plockas de brandgula bollarna ner en efter en. Union 76 &auml;r sedan l&auml;nge inf&ouml;rlivat i den &auml;nnu st&ouml;rre koncernen Conoco Phillips, som tycker att det r&auml;cker med helt vanliga platta skyltar. Och att siffrorna g&ouml;r sig b&auml;ttre mot en r&ouml;d, inte en orange, bakgrund. <br />&nbsp;<br />Men Conoco Phillips bollplockning m&ouml;ter motst&aring;nd. P&aring; internet cirkulerar namninsamlingar till f&ouml;rsvar f&ouml;r dessa motorv&auml;garnas lysande landm&auml;rken. Det finns en hel webbplats,  <a target="_blank" href="http://www.savethe76ball.local../../"> http://www.savethe76ball.local/</a> med samma syfte. <br />&nbsp;<br />Kanske kan reaktionen j&auml;mf&ouml;ras med svenskarnas k&auml;nslor n&auml;r Sparbankerna bytte bort sin v&auml;lk&auml;nda ek. <br />&nbsp;<br />Den gamla trygghetssymbolen devalverades till n&aring;got som mest s&aring;g ut som en sliten fem&ouml;ring. Och &auml;ven om 76-bollens f&ouml;rsvarare talar om den som ett designm&auml;sterverk, s&aring; tror jag att reaktionen ocks&aring; nu ytterst handlar om n&aring;got annat. <br />&nbsp;<br />Union 76 reste sina bollar p&aring; 1960-talet, l&aring;ngt f&ouml;re alla oljekriser, i en tid d&aring; bensinen var billig, s&auml;rskilt i USA, och det aldrig talades om v&auml;xthuseffekten. L&auml;ngtan tillbaka till den tiden delas av m&aring;nga, s&auml;rskilt de som d&aring; var unga. Framtiden var aldrig s&aring; ljus &#8211; och heller inte s&aring; bilburen &#8211; som d&aring;. <br />&nbsp;<br />Och den l&auml;ngtan &auml;r knappast begr&auml;nsad till amerikaner. F&ouml;r varf&ouml;r skulle annars rivningen av en BP-mack l&auml;ngs Ringv&auml;gen i Stockholm utl&ouml;sa uppr&ouml;rda ins&auml;ndare eller svenska eternitkramare samla p&aring; sig bilkuddar med Gulfsymboler. </div>
 <p></span>  		</td>
 </tr>
 <tr>

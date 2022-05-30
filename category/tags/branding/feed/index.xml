@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -41,7 +41,7 @@
 
 					<description><![CDATA[Orange 76 Ball Must Roll: Corporate Conformity Claims Another Victim By DAN BECKMANN (Link to feature with photo slideshow) &#34;Out at the corner of my street is a 76 station. It was about six months ago, and I remember seeing the ball missing,&#34; said Kim Cooper, who co-founded a Web page, www.savethe76ball.com, to rally support [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Orange 76 Ball Must Roll: Corporate Conformity Claims Another Victim By DAN BECKMANN</p>
-<p>(<a href="https://abcnews.go.com/Business/FunMoney/story?id=2407469&#038;page=1" target="_blank">Link</a> to feature with photo slideshow)</p>
+<p>(<a href="http://abcnews.go.com/Business/FunMoney/story?id=2407469&#038;page=1" target="_blank">Link</a> to feature with photo slideshow)</p>
 <p>&quot;Out at the corner of my street is a 76 station. It was about six months ago, and I remember seeing the ball missing,&quot; said Kim Cooper, who co-founded a Web page, www.savethe76ball.com, to rally support for the Union 76 icons. &quot;I was disoriented, and then I decided I wasn&#8217;t going to look there anymore.&quot;</p>
 <p>Cooper&#8217;s grass roots movement is pressing its hardest to put the brakes on what is, in its view, the unceremonious removal of the iconic, rotating 76 globes in favor of flat, stationary, red 76 signs similar to those found demarcating most gas stations around the country.</p>
 <p>As of this writing, 2,703 signatures have been logged on an online petition, most of the signers claiming they&#8217;ll never patronize Union 76 again. Seeing as these signs dot all of Hollywood, it was only a matter of time before someone famous got vocal.</p>
@@ -120,7 +120,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Having a Ball Bloggers launch campaign to save 76 insignia By KATE BERRY Los Angeles Business Journal Staff The ball is back in ConocoPhillips&#8217; court. Two Los Angeles bloggers with a fondness for vintage California signs have launched a Web campaign to save the rotating orange and blue Union 76 balls that were for decades [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Having a Ball<br /> Bloggers launch campaign to save 76 insignia<br /> By KATE BERRY<br /><a href="https://www.labusinessjournal.com/" target="_blank"> Los Angeles Business Journal</a> Staff</p>
+										<content:encoded><![CDATA[<p>Having a Ball<br /> Bloggers launch campaign to save 76 insignia<br /> By KATE BERRY<br /><a href="http://www.labusinessjournal.com/" target="_blank"> Los Angeles Business Journal</a> Staff</p>
 <p> The ball is back in ConocoPhillips&rsquo; court.</p>
 <p> Two Los Angeles bloggers with a fondness for vintage California signs have launched a Web campaign to save the rotating orange and blue Union 76 balls that were for decades that oil company&rsquo;s identifying symbol.</p>
 <p> The orange globes, often referred to as &ldquo;meatballs,&rdquo; have turned into Southern California pop culture icons largely because of their longevity &ndash; they&rsquo;ve been around for 59 years.</p>

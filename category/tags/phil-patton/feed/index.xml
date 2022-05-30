@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -50,7 +50,7 @@
 <p>Mr. Pedersen, 80, who heard Ms. Cooper speaking on a radio program, has joined the effort. Michael Madsen, the actor best known for his role in the film &ldquo;Reservoir Dogs,&rdquo; supports their cause, as does the Society for Commercial Archaeology, an organization devoted to roadside architecture. </p>
 <p>&ldquo;We are trying to engage them in dialogue to save a few,&rdquo; Ms. Cooper said in an e-mail message. &ldquo;But from our observations, it seems like the remaining Hawaiian balls have been switched off, while a small percentage of the U.S. balls continue spinning, especially along the La Brea Boulevard corridor.&rdquo; She said there were once about 400 Union 76 balls in the Los Angeles area. </p>
 <p>Smaller versions of the orange ball are still available &mdash; the ones that attach to automobile radio antennas. Union 76 gas stations began handing out the mini-spheres in 1967, and they can still be bought online at happyballs.com. </p>
-<p> (<a href="https://www.nytimes.com/2006/07/16/automobiles/16BEAM.html?_r=1&#038;oref=slogin" target="_blank">New York Times</a>)</p>
+<p> (<a href="http://www.nytimes.com/2006/07/16/automobiles/16BEAM.html?_r=1&#038;oref=slogin" target="_blank">New York Times</a>)</p>
 <div id="themify_builder_content-186" data-postid="186" class="themify_builder_content themify_builder_content-186 themify_builder themify_builder_front">
 
 	</div>

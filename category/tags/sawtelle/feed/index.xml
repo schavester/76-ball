@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -43,7 +43,7 @@
 					<description><![CDATA[76 Ball fan Marcello Vavala reported earlier this week that there were signs that the station at Santa Monica and Sawtelle might be about to lose its ball. Sure enough, the ball was cut from its pole the next morning, and dragged away to be destroyed. Sean McKinley snapped this photo with his phone: And [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>76 Ball fan Marcello Vavala reported earlier this week that there were signs that the station at Santa Monica and Sawtelle might be about to lose its ball. Sure enough, the ball was cut from its pole the next morning, and dragged away to be destroyed.</p>
 <p>Sean McKinley snapped this photo with his phone:<br />
-<a href="https://www.flickr.com/photos/richardschave/218617865/" title="Photo Sharing"><img loading="lazy" src="https://static.flickr.com/73/218617865_375584d14c.jpg" width="400" height="300" alt="Death of the 76 Ball, Sawtelle and Santa Monica Blvd., LA, August 2006" /></a></p>
+<a href="http://www.flickr.com/photos/richardschave/218617865/" title="Photo Sharing"><img loading="lazy" src="http://static.flickr.com/73/218617865_375584d14c.jpg" width="400" height="300" alt="Death of the 76 Ball, Sawtelle and Santa Monica Blvd., LA, August 2006" /></a></p>
 <p>And Marcello shares some observations, to help spot 76 Balls that face immediate danger. Unfortunately, we were not able to organize a protest to try to save this particular ball, but next time we might. PLEASE, if you see a 76 Ball that fits Marcello&#8217;s description, drop us a line via our contact form ASAP.</p>
 <p>Marcello reports: The new signage is up and the orange ball has been taken away.  The replacement happened very fast, probably within 5 hours.</p>
 <p>There are some observations I&#8217;ve made which may be helpful in the future (if they haven&#8217;t been made already.)</p>

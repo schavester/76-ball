@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -41,7 +41,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The Old Ball Game (link) Last autumn, ConocoPhillips began to pluck the famous orange balls from their posts at Union 76 and Unocal gas stations and replace them with flat, rectangular signs that aren&#8217;t even orange. This sent loyal customers and commercial-design mavens into a fury. To fight back, local writer Kim Cooper launched Savethe76ball.com [&#8230;]]]></description>
-										<content:encoded><![CDATA[<h3>The Old Ball Game (<a href="https://lacitybeat.com/article.php?id=3604&#038;IssueNum=149" target="_blank">link</a>)<br /> </h3>
+										<content:encoded><![CDATA[<h3>The Old Ball Game (<a href="http://lacitybeat.com/article.php?id=3604&#038;IssueNum=149" target="_blank">link</a>)<br /> </h3>
 <p> Last autumn, ConocoPhillips began to pluck the famous orange balls from their posts at Union 76 and Unocal gas stations and replace them with flat, rectangular signs that aren&rsquo;t even orange. This sent loyal customers and commercial-design mavens into a fury. To fight back, local writer Kim Cooper launched Savethe76ball.com in January. Ray Pedersen, the ball&rsquo;s designer, soon took notice, and the two joined forces to launch the campaign &ldquo;Save Ray&rsquo;s Balls.&rdquo; </p>
 <p>The ball was born at the 1962 Seattle World&rsquo;s Fair, when Pedersen was approached to create a marker for 76 at a unique skyride installation. &ldquo;But hanging a sign on it,&rdquo; said Pedersen, &ldquo;would be tantamount to ruining something architecturally beautiful.&rdquo; Instead, he ran a pole up the center of the base and hung a sign on that. As it spun, Pedersen recalls, &ldquo;It looked like hell. It was a lollipop. I said, &lsquo;We need a ball &hellip; and I&rsquo;d like to light the damn thing from inside. Everybody looked at me like I was crazy.&rdquo; </p>
 <p>Nevertheless, Pedersen started building the ball. But he was nearly fired for racking up almost $50,000 in expenses. When he saw his boss standing beneath the prototype, waving his arms and pointing at it, Pedersen thought he was &ldquo;in deep doo-doo.&rdquo; Much to his surprise, he says, his boss emphatically shouted &ldquo;Goddammit, we&rsquo;re gonna put one of these up at every station!&rdquo; </p>

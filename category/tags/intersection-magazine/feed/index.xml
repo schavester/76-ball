@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -49,7 +49,7 @@
 <p> While many of those small balls remain, the full size ones that have been dismantled lie in a graveyard dump near Fresno, like the yesco site in the Nevada Desert where neon signs from Las Vegas go to die. But campaigners Kim and Nathan won&rsquo;t let the discarded signs put them off trying to save those that remain. &ldquo;You&rsquo;ve got to get on the battlements and fight the good fights,&rdquo; says Nathan.  </p>
 <p> The ball&rsquo;s creator is upset, after fifty years, to finally see his favorite design laid to rest. &ldquo;I don&rsquo;t understand why they&rsquo;re changing to that dark red color&rdquo;, says Ray Pederson, a sprightly 80 year-old, still in the ad game. &ldquo;It isn&rsquo;t attractive or eye-catching&hellip; it rather looks like liver.&rdquo;</p>
 <p>&nbsp;</p>
-<p>Thanks to Adam and to <a href="https://www.intersectionmagazine.com/" target="_blank">Intersection Magazine</a> for the support!</p>
+<p>Thanks to Adam and to <a href="http://www.intersectionmagazine.com/" target="_blank">Intersection Magazine</a> for the support!</p>
 <div id="themify_builder_content-201" data-postid="201" class="themify_builder_content themify_builder_content-201 themify_builder themify_builder_front">
 
 	</div>

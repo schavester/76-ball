@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -68,7 +68,7 @@
 <p> The 76 Ball is not the first piece of disappearing street furniture that the star has attempted to save. </p>
 <p> He is also buying one of Britain&#8217;s old red telephone boxes in an effort to preserve a little bit of the London that he remembers. </p>
 <p> &quot;I&#8217;m in the process of purchasing one of the phone boxes for myself and having it put up in the front of the garden. My kids aren&#8217;t going to see the same London that I saw, my kids aren&#8217;t going to see the same California that I saw.&quot; </p>
-<div class="footer"> Story from BBC NEWS:<br /><a href="https://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm" target="_blank"> https://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm</a></p>
+<div class="footer"> Story from BBC NEWS:<br /><a href="http://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm" target="_blank"> http://news.bbc.co.uk/go/pr/fr/-/2/hi/entertainment/5055782.stm</a></p>
 <p> Published: 2006/06/08 07:18:04 GMT</p>
 <p> &copy; BBC MMVI </div>
 <div id="themify_builder_content-174" data-postid="174" class="themify_builder_content themify_builder_content-174 themify_builder themify_builder_front">

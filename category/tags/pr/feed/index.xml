@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -43,10 +43,10 @@
 
 					<description><![CDATA[Thanks to the good folks at Los Angeles Magazine (April issue, not yet online) for the swell piece on the campaign to Save the 76 Ball. We are tickled to see our Ray&#8217;s balls next to the Bettie Page feature, and further tickled by the ConocoPhillips spokesperson&#8217;s amusing claims that they had heard nothing about [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Thanks to the good folks at <a target="_blank" href="https://www.lamag.com/Me2/Default.asp">Los Angeles Magazine</a> (April issue, not yet online) for the swell piece on the campaign to Save the 76 Ball. </p>
+<p>Thanks to the good folks at <a target="_blank" href="http://www.lamag.com/Me2/Default.asp">Los Angeles Magazine</a> (April issue, not yet online) for the swell piece on the campaign to Save the 76 Ball. </p>
 <p>We are tickled to see our Ray&#8217;s balls next to the Bettie Page feature, and further tickled by the ConocoPhillips spokesperson&#8217;s amusing claims that they had heard <em>nothing</em> about any campaign to Save the 76 Ball&#8211;really? so the calls from the BBC, <em>LA Business Journal, Brandweek</em>, KTLA, KABC and <em>Daily Telegraph</em> didn&#8217;t go through?&#8211;and that anyway, they had heard <em>many more</em> complements than complaints about the new signs.</p>
 <p>Nice work, PR flack! That&#8217;s what the boss men want to hear!</p>
-<p>&#8230;now the <em>stockholders</em>, on the other hand, might be interested in knowing that as of today, 1493 people have <a target="_blank" href="https://www.petitiononline.com/mod_perl/signed.cgi?76ball&#038;1">signed the petition</a> supporting the retention of the balls, most pledging not to purchase gas from your stations unless an orange sphere flies high above!</p>
+<p>&#8230;now the <em>stockholders</em>, on the other hand, might be interested in knowing that as of today, 1493 people have <a target="_blank" href="http://www.petitiononline.com/mod_perl/signed.cgi?76ball&#038;1">signed the petition</a> supporting the retention of the balls, most pledging not to purchase gas from your stations unless an orange sphere flies high above!</p>
 <p>Take special note of signatory Charles Vaughan (#1440), who proclaims &quot;$300 in personal gasoline expense a month and well over $1000 for my company is now being spent at Exxon.&quot; Ouch! That&#8217;s a pretty expensive side effect from a failed re-branding attempt!</p>
 <p>So c&#8217;mon, let&#8217;s Save Ray&#8217;s Balls! It&#8217;s not too late! </p>
 <div id="themify_builder_content-165" data-postid="165" class="themify_builder_content themify_builder_content-165 themify_builder themify_builder_front">

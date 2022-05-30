@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -44,7 +44,7 @@
 					<description><![CDATA[ConocoPhillips doesn&#8217;t care about Southern Californians, tradition or good design. That&#8217;s the only possible explanation for the grisly news that the beautiful and beloved blue and orange 76 Ball that has flown high at Dodger Stadium for generations has been replaced with a flat liver-colored disk. ConocoPhillips will not stop their campaign of design terrorism [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>ConocoPhillips doesn&#8217;t care about Southern Californians, tradition or good design. That&#8217;s the only possible explanation for the grisly news that the beautiful and beloved blue and orange 76 Ball that has flown high at Dodger Stadium for generations has been replaced with a flat liver-colored disk.</p>
-<p>ConocoPhillips will not stop their campaign of design terrorism until the last 76 Ball is pulled from its pole and smashed into a million pieces&#8230; unless YOU the consumer make it clear that you won&#8217;t stand for it. <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">Sign the petition</a> if you haven&#8217;t already. Then <a href="https://www.conocophillips.com/contactus/index.htm" target="_blank">contact ConocoPhillips</a> and let them know they won&#8217;t get a penny of your gas buying dollar unless an ORANGE and blue 76 BALL is looking over the pumps. The red disk just doesn&#8217;t make it.</p>
+<p>ConocoPhillips will not stop their campaign of design terrorism until the last 76 Ball is pulled from its pole and smashed into a million pieces&#8230; unless YOU the consumer make it clear that you won&#8217;t stand for it. <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">Sign the petition</a> if you haven&#8217;t already. Then <a href="http://www.conocophillips.com/contactus/index.htm" target="_blank">contact ConocoPhillips</a> and let them know they won&#8217;t get a penny of your gas buying dollar unless an ORANGE and blue 76 BALL is looking over the pumps. The red disk just doesn&#8217;t make it.</p>
 <p>Together we can SAVE RAY&#8217;S BALLS!&nbsp;</p>
 <div id="themify_builder_content-161" data-postid="161" class="themify_builder_content themify_builder_content-161 themify_builder themify_builder_front">
 

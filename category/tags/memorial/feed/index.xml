@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -39,10 +39,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[It is with great sadness that I announce that Earl Ma has died after a long battle with cancer. In addition to being a lovely guy with vast stores of energy and passion, Earl was instrumental in the campaign to save his beloved 76 Balls. It began with his interviewing Nathan Marsak and myself for [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>It is with great sadness that I announce that <a href="https://earlma.org/" target="_blank">Earl Ma</a> has died after a long battle with cancer. In addition to being a lovely guy with vast stores of energy and passion, Earl was instrumental in the campaign to save his beloved 76 Balls. </p>
-<p>It began with his interviewing Nathan Marsak and myself for  a feature in <em>Check the Oil!</em> magazine, but he soon became the go-to guy whenever another journalist covering the campaign needed to put Union 76 into its proper historical context. Earl knew <em>everything</em> about the brand, and was always generous responding to anyone&#39;s questions. And in his spare time, he made an effort to videotape every 76 Ball, ideally spinning, that he could find and shared those tapes on <a href="https://www.youtube.com/profile_videos?user=theunions&amp;p=r" target="_blank">Youtube</a> so future generations could see lost balls <em>in situ</em>.</p>
+										<content:encoded><![CDATA[<p>It is with great sadness that I announce that <a href="http://earlma.org/" target="_blank">Earl Ma</a> has died after a long battle with cancer. In addition to being a lovely guy with vast stores of energy and passion, Earl was instrumental in the campaign to save his beloved 76 Balls. </p>
+<p>It began with his interviewing Nathan Marsak and myself for  a feature in <em>Check the Oil!</em> magazine, but he soon became the go-to guy whenever another journalist covering the campaign needed to put Union 76 into its proper historical context. Earl knew <em>everything</em> about the brand, and was always generous responding to anyone&#39;s questions. And in his spare time, he made an effort to videotape every 76 Ball, ideally spinning, that he could find and shared those tapes on <a href="http://www.youtube.com/profile_videos?user=theunions&amp;p=r" target="_blank">Youtube</a> so future generations could see lost balls <em>in situ</em>.</p>
 <p>I only met Earl once, for a breakfast and Philippe&#39;s in downtown LA with fellow 76 Ball geeks J. Eric Freedner and Nathan, but recognized him immediately in his Union 76 regalia. We all had a great visit, with no idea it would be our last. </p>
-<p><img loading="lazy" src="https://farm2.static.flickr.com/1355/540270581_38a597b1ca.jpg" alt="" width="500" height="374" /></p>
+<p><img loading="lazy" src="http://farm2.static.flickr.com/1355/540270581_38a597b1ca.jpg" alt="" width="500" height="374" /></p>
 <p>I greatly appreciated Earl&#39;s intelligence, kindness and reliability. He was a true gentleman, and it&#39;s some small consolation to know that he left this plane knowing that the 76 Ball lives on in large part thanks to his efforts.</p>
 <p>Godspeed, Earl, and thanks for all your good work and friendship.</p>
 <div id="themify_builder_content-228" data-postid="228" class="themify_builder_content themify_builder_content-228 themify_builder themify_builder_front">

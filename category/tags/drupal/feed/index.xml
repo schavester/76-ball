@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -46,7 +46,7 @@
 <tbody>
 <tr>
 <td>
-<p class="text">From <a href="https://www.nationaltrust.org/magazine/story/index.htm" target="_blank">Preservation Online</a>, the online magazine of the National          Trust for Historic Preservation</p>
+<p class="text">From <a href="http://www.nationaltrust.org/magazine/story/index.htm" target="_blank">Preservation Online</a>, the online magazine of the National          Trust for Historic Preservation</p>
 <p class="text">www.preservationonline.org</p>
 <p> 						       <span class="texttitle">On the Ball</span><br />       <span class="textbold"><em><span class="text">How the 76 Ball Was Saved</span></em></span> <br />       <img loading="lazy" src="/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" /><br />       <span class="textsmall">Story by Arin Greenwood / July 13, 2007</span><br />       <img loading="lazy" src="/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" />       </p>
 <p class="text" align="left">About a year and a half ago, Kim Cooper and her husband, Richard Schave, were driving in Los AngelesÃ¢â‚¬â€perhaps to get some dumplings for lunch, she recallsÃ¢â‚¬â€when at a stop light she happened to look up and find herself shocked by what she saw: changes to the Union 76 gas station on the corner. Big changes. </p>
@@ -100,10 +100,10 @@
 
 					<description><![CDATA[Nearly one year after we launched our campaign asking ConocoPhillips to reconsider their &#34;destroy all balls&#34; policy towards the historic blue and orange Union 76 Ball gas station signs, the Texas energy giant announced to the Wall Street Journal that they have changed their course. Focus groups held last fall told them what nearly 3000 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p><img loading="lazy" src="https://static.flickr.com/40/104241155_9a9ff0c7e6_o.jpg" border="0" alt="" width="432" height="162" /> </p>
-<p>Nearly one year after we launched our campaign asking ConocoPhillips to reconsider their &quot;destroy all balls&quot; policy towards the historic blue and orange Union 76 Ball gas station signs, the Texas energy giant announced to the Wall Street Journal that they have changed their course. Focus groups held last fall told them what nearly 3000 signers of the Save the 76 Ball <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">petition</a> have already told us: <strong>people love the 76 Balls, and don&#39;t want them to disappear.</strong> </p>
+<p><img loading="lazy" src="http://static.flickr.com/40/104241155_9a9ff0c7e6_o.jpg" border="0" alt="" width="432" height="162" /> </p>
+<p>Nearly one year after we launched our campaign asking ConocoPhillips to reconsider their &quot;destroy all balls&quot; policy towards the historic blue and orange Union 76 Ball gas station signs, the Texas energy giant announced to the Wall Street Journal that they have changed their course. Focus groups held last fall told them what nearly 3000 signers of the Save the 76 Ball <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">petition</a> have already told us: <strong>people love the 76 Balls, and don&#39;t want them to disappear.</strong> </p>
 <p> The 76 Balls that come off their poles are <strong>no longer being smashed</strong> or cut into pieces, but being <strong>preserved for donation to museums</strong> like the American Sign Museum, Petersen Automotive Museum, NASCAR Hall of Fame, Museum of Neon Art and perhaps even the Smithsonian! <strong>And a new type of 76 Ball, colored red rather than orange, will soon be installed at up to 100 gas stations in the west.</strong>  </p>
-<p> But there are still good reasons for signing our <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">petition</a>. We believe that a select few historically and architecturally <strong>significant orange 76 Balls should remain </strong>where they have always glowed and spun, like at William Pereira&#39;s modernist 76 station in Beverly Hills, one of the spheres along Highway One in Malibu, and the station in Marysville, WA where 76 Ball designer Ray Pedersen buys his gas. Also, ConocoPhillips has declared that no private individuals will be able to get a 76 Ball, which will be a disappointment to our campaign&#39;s supporter Michael Madsen. <strong>We respectfully ask that ConocoPhillips reconsider this policy, and present one 76 Ball to the individual who conceived,  designed and hand-painted the first 76 Ball for the 1962 Seattle  World&#39;s Fair: Ray Pedersen.</strong></p>
+<p> But there are still good reasons for signing our <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">petition</a>. We believe that a select few historically and architecturally <strong>significant orange 76 Balls should remain </strong>where they have always glowed and spun, like at William Pereira&#39;s modernist 76 station in Beverly Hills, one of the spheres along Highway One in Malibu, and the station in Marysville, WA where 76 Ball designer Ray Pedersen buys his gas. Also, ConocoPhillips has declared that no private individuals will be able to get a 76 Ball, which will be a disappointment to our campaign&#39;s supporter Michael Madsen. <strong>We respectfully ask that ConocoPhillips reconsider this policy, and present one 76 Ball to the individual who conceived,  designed and hand-painted the first 76 Ball for the 1962 Seattle  World&#39;s Fair: Ray Pedersen.</strong></p>
 <p>And most importantly, we ask that ConocoPhillips commit to <strong>pay all costs</strong> <strong>associated with crating and shipping donated 76 Balls to the selected museums</strong>, thus enjoying greater tax benefits and sparing these institutions from having to pay hundreds or thousands of dollars out of their limited budgets in order to receive the gift of the 76 Ball.    </p>
 <p> Our heartfelt thanks to everyone who has supported this campaign through 2006 and into 2007. This is inspiring proof that citizens have the power to reach large corporations and inspire positive change.  </p>
 <div id="themify_builder_content-220" data-postid="220" class="themify_builder_content themify_builder_content-220 themify_builder themify_builder_front">
@@ -133,15 +133,15 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Why won&#8217;t ConocoPhillips talk with us? On 6/15/06, we called ConocoPhillips with a win-win plan to save and preserve some select 76 Balls. We are still waiting for them to call back. Maybe they need to hear from you, too. The main number in Houston is 281-293-1000. Ask for Sylvia Hansen in External Communications and [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" src="https://static.flickr.com/40/104241155_9a9ff0c7e6_o.jpg" alt="" width="432" height="162" border="0" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="http://static.flickr.com/40/104241155_9a9ff0c7e6_o.jpg" alt="" width="432" height="162" border="0" /></p>
 <p><strong>Why won&#8217;t ConocoPhillips talk with us?</strong> On 6/15/06, we called ConocoPhillips with a win-win plan to save and preserve some select 76 Balls. We are still waiting for them to call back. Maybe they need to hear from <strong>you</strong>, too. The main number in Houston is 281-293-1000. Ask for <strong>Sylvia Hansen in External Communications</strong> and request that she call Nathan Marsak back and open a dialogue about how to work together to turn this bad publicity around and save some balls.</p>
 <p><strong>About our cause:</strong> ConocoPhillips is removing the iconic 76 Balls and replacing them with boring rectangular signs that aren&#8217;t even orange! Our petition and boycott asks that they STOP THIS and leave the remaining 76 Balls on their poles, where they belong. Wanna help?:</p>
-<p>1) sign the <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">PETITION</a>; after adding your name to the list, you can also call ConocoPhillips <a href="https://www.conocophillips.com/contactus/index.htm" target="_blank">DIRECTLY</a>.</p>
-<p>2) Join the digg online community and click that you &#8220;digg&#8221; <a href="https://digg.com/software/Can_Drupal_Save_the_76_Ball_" target="_blank">THIS POST</a>. If we can get enough diggs, the topic will rise to the front page and get many thousands of visitors.</p>
-<p>3) if your local 76 gas station still has its ball, tell them &#8220;if that ball goes, so does this customer!&#8221; Ask them to turn the ball on if it&#8217;s not lit or rotating. And if your local 76 station has already switched to the liver-colored tombstone sign, don&#8217;t buy gas there and be sure to tell the owner why. (<a href="https://plasticmuse.com/Download.html" target="_blank">DOWNLOAD</a> and print these cards to make it simple.)</p>
-<p><img src="https://savethe76ball.honestbleeps.com/files/savethe76card_168.jpg" alt="" border="0" /></p>
+<p>1) sign the <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">PETITION</a>; after adding your name to the list, you can also call ConocoPhillips <a href="http://www.conocophillips.com/contactus/index.htm" target="_blank">DIRECTLY</a>.</p>
+<p>2) Join the digg online community and click that you &#8220;digg&#8221; <a href="http://digg.com/software/Can_Drupal_Save_the_76_Ball_" target="_blank">THIS POST</a>. If we can get enough diggs, the topic will rise to the front page and get many thousands of visitors.</p>
+<p>3) if your local 76 gas station still has its ball, tell them &#8220;if that ball goes, so does this customer!&#8221; Ask them to turn the ball on if it&#8217;s not lit or rotating. And if your local 76 station has already switched to the liver-colored tombstone sign, don&#8217;t buy gas there and be sure to tell the owner why. (<a href="http://plasticmuse.com/Download.html" target="_blank">DOWNLOAD</a> and print these cards to make it simple.)</p>
+<p><img src="http://savethe76ball.honestbleeps.com/files/savethe76card_168.jpg" alt="" border="0" /></p>
 <p>4) SPREAD THE WORD: through blogs, email chains, conversation, calls to your favorite talk radio show and letters to the editor.</p>
-<p>5) visit our <a href="https://savethe76ball.honestbleeps.com/" target="_blank">FORUM</a> to report existing or missing 76 Balls in your community. Take photos and host them for free right on the Forum.</p>
+<p>5) visit our <a href="http://savethe76ball.honestbleeps.com/" target="_blank">FORUM</a> to report existing or missing 76 Balls in your community. Take photos and host them for free right on the Forum.</p>
 <p>Consumers have the power to change corporate mistakes. ConocoPhillips will listen if you just speak up!</p>
 <div id="themify_builder_content-142" data-postid="142" class="themify_builder_content themify_builder_content-142 themify_builder themify_builder_front">
 

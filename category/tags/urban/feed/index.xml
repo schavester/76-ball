@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -45,15 +45,15 @@
 										<content:encoded><![CDATA[<p>Here are five more 76 Ball short films from the camera of Earl Ma, these from his recent trip to Southern California. Compared to the Oahu spheres posted earlier, you&#8217;ll note that the SoCal stations aren&#8217;t using the rotating motors, thus weakening the power of this extraordinary sign. Is this a cost-saving move, or just another symbol of corporate neglect?</p>
 <p>
 Studio City Union 76 service station, 12863 Ventura Boulevard, Studio City, CA, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/iJWucDwz4SA"></param><embed src="https://www.youtube.com/v/iJWucDwz4SA" type="application/x-shockwave-flash" width="425" height="350"></embed></object><br />
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/iJWucDwz4SA"></param><embed src="http://www.youtube.com/v/iJWucDwz4SA" type="application/x-shockwave-flash" width="425" height="350"></embed></object><br />
 Gregory Union 76 service station, 5436 W. 6th Street, Los Angeles, CA, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/_U91NT2oBb8"></param><embed src="https://www.youtube.com/v/_U91NT2oBb8" type="application/x-shockwave-flash" width="425" height="350"></embed></object><br />
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/_U91NT2oBb8"></param><embed src="http://www.youtube.com/v/_U91NT2oBb8" type="application/x-shockwave-flash" width="425" height="350"></embed></object><br />
 Tommy&#8217;s Union 76 service station, 5890 Hollywood Boulevard, Los Angeles, CA, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/yRw1FxI0GeU"></param><embed src="https://www.youtube.com/v/yRw1FxI0GeU" type="application/x-shockwave-flash" width="425" height="350"></embed></object><br />
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/yRw1FxI0GeU"></param><embed src="http://www.youtube.com/v/yRw1FxI0GeU" type="application/x-shockwave-flash" width="425" height="350"></embed></object><br />
 Jack Colkers Union 76 station, 427 N. Crescent Drive, Beverly Hills, CA, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/UItW5f8t9vg"></param><embed src="https://www.youtube.com/v/UItW5f8t9vg" type="application/x-shockwave-flash" width="425" height="350"></embed></object><br />
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/UItW5f8t9vg"></param><embed src="http://www.youtube.com/v/UItW5f8t9vg" type="application/x-shockwave-flash" width="425" height="350"></embed></object><br />
 Norm&#8217;s Union 76 service station, 7979 W. Sunset Boulevard, Los Angeles, CA, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/ctTz6or1CaE"></param><embed src="https://www.youtube.com/v/ctTz6or1CaE" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/ctTz6or1CaE"></param><embed src="http://www.youtube.com/v/ctTz6or1CaE" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <div id="themify_builder_content-179" data-postid="179" class="themify_builder_content themify_builder_content-179 themify_builder themify_builder_front">
 
 	</div>

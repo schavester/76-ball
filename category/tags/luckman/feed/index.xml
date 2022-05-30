@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -40,13 +40,13 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Thanks to the discerning eye of J. Eric Freedner, we&#39;ve been alerted to design changes at the modernist William Pereira-designed 76 station in Beverly Hills, CA. Of all the 76 stations which still proudly fly the orange ball, this is the most unique and architecturally significant, and we&#39;ve let ConocoPhillips know that the Los Angeles [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.flickr.com/photos/richardschave/396489186/" title="Photo Sharing"><img loading="lazy" src="https://farm1.static.flickr.com/184/396489186_a9ee5d8a5d.jpg" alt="Endangered Luckman Pereira 76 Station in Beverly Hills" width="500" height="375" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/richardschave/396489186/" title="Photo Sharing"><img loading="lazy" src="http://farm1.static.flickr.com/184/396489186_a9ee5d8a5d.jpg" alt="Endangered Luckman Pereira 76 Station in Beverly Hills" width="500" height="375" /></a></p>
 <p>Thanks to the discerning eye of J. Eric Freedner, we&#39;ve been alerted to design changes at the modernist William Pereira-designed 76 station in Beverly Hills, CA. Of all the 76 stations which still proudly fly the orange ball, this is the most unique and architecturally significant, and we&#39;ve let ConocoPhillips know that the Los Angeles conservation community will be scandalized if its classic beauty is marred by one of the new blisterpak-style red signs. Would you dress Audrey Hepburn in Juicy Couture?</p>
 <p>J. Eric says: <em>The actual name of the dealer is &quot;Jack Colker&#39;s 76&quot; and he has an address on North Crescent Drive.  The station is on the corner of Crescent and Little Santa Monica Boulevard and is the only remaining gas station in downtown Beverly Hills. Perhaps that accounts for the high volume of business done there, especially at rush hour.</em></p>
 <p>  Below, a night shot of the station interior on 2/15, revealing newly installed red pump panels, replacing the previous stainless steel. Regular visitors to this site know, when the creeping red appears, it means the beloved orange ball is soon to fall. But we also know that ConocoPhillips has decided to manufacture a limited number of red 76 balls for installation at select stations. Could one of those red balls be destined for Beverly Hills?</p>
-<p> <a href="https://www.flickr.com/photos/richardschave/396489366/" title="Photo Sharing"><img loading="lazy" src="https://farm1.static.flickr.com/178/396489366_00e42bb446_o.jpg" alt="Endangered Luckman Pereira 76 Station in Beverly Hills" width="447" height="334" /></a></p>
+<p> <a href="http://www.flickr.com/photos/richardschave/396489366/" title="Photo Sharing"><img loading="lazy" src="http://farm1.static.flickr.com/178/396489366_00e42bb446_o.jpg" alt="Endangered Luckman Pereira 76 Station in Beverly Hills" width="447" height="334" /></a></p>
 <p> Right now there are at least two notable stations in the L.A. area that have red signage on the pumps, but still retain their orange 76 balls: Beverly Hills, and the station at the high-traffic corner of Melrose and Highland. If these highly visible stations aren&#39;t on the short list to retain their balls, we&#39;d like to know why not. </p>
-<p> For more of J. Eric Freedner&#39;s and Earl Ma&#39;s photos of the Beverly Hills 76 station, just <a href="https://flickr.com/photos/richardschave/sets/72157594546315309/" target="_blank">click</a>. </p>
+<p> For more of J. Eric Freedner&#39;s and Earl Ma&#39;s photos of the Beverly Hills 76 station, just <a href="http://flickr.com/photos/richardschave/sets/72157594546315309/" target="_blank">click</a>. </p>
 <div id="themify_builder_content-224" data-postid="224" class="themify_builder_content themify_builder_content-224 themify_builder themify_builder_front">
 
 	</div>

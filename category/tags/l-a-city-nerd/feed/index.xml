@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -39,7 +39,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[One of our favorite pseudonymous bloggers, the L.A. City Nerd (c&#39;mon, Antonio, we know it&#39;s you) has made one of the most rare of sightings, a new red 76 Ball in the wild and on the move. Visit his blog to see how carefully the balls are transported to their new homes in the sky. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>One of our favorite pseudonymous bloggers, the L.A. City Nerd (c&#39;mon, Antonio, we know it&#39;s you) has made one of the most rare of sightings, a new red 76 Ball in the wild and on the move. Visit his <a href="https://lacitynerd.blogspot.com/2007/05/76-balls-on-move.html" target="_blank">blog</a> to see how carefully the balls are transported to their new homes in the sky. </p>
+										<content:encoded><![CDATA[<p>One of our favorite pseudonymous bloggers, the L.A. City Nerd (c&#39;mon, Antonio, we know it&#39;s you) has made one of the most rare of sightings, a new red 76 Ball in the wild and on the move. Visit his <a href="http://lacitynerd.blogspot.com/2007/05/76-balls-on-move.html" target="_blank">blog</a> to see how carefully the balls are transported to their new homes in the sky. </p>
 <p>Where will this one end up? Could it be <em>your</em> local 76 station?</p>
 <div id="themify_builder_content-227" data-postid="227" class="themify_builder_content themify_builder_content-227 themify_builder themify_builder_front">
 

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -46,7 +46,7 @@
 <tbody>
 <tr>
 <td>
-<p class="text">From <a href="https://www.nationaltrust.org/magazine/story/index.htm" target="_blank">Preservation Online</a>, the online magazine of the National          Trust for Historic Preservation</p>
+<p class="text">From <a href="http://www.nationaltrust.org/magazine/story/index.htm" target="_blank">Preservation Online</a>, the online magazine of the National          Trust for Historic Preservation</p>
 <p class="text">www.preservationonline.org</p>
 <p> 						       <span class="texttitle">On the Ball</span><br />       <span class="textbold"><em><span class="text">How the 76 Ball Was Saved</span></em></span> <br />       <img loading="lazy" src="/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" /><br />       <span class="textsmall">Story by Arin Greenwood / July 13, 2007</span><br />       <img loading="lazy" src="/wp-content/uploads/spacer.gif" border="0" alt="" vspace="2" width="1" height="1" />       </p>
 <p class="text" align="left">About a year and a half ago, Kim Cooper and her husband, Richard Schave, were driving in Los AngelesÃ¢â‚¬â€perhaps to get some dumplings for lunch, she recallsÃ¢â‚¬â€when at a stop light she happened to look up and find herself shocked by what she saw: changes to the Union 76 gas station on the corner. Big changes. </p>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -46,8 +46,8 @@
 
 					<description><![CDATA[For weeks, I&#8217;d heard the rumors: somewhere down in Malibu there was a 76 ball at a closed gas station, trussed up in black plastic like some ultrakinky egg. Nathan even claimed to have seen it, though naturally he didn&#8217;t have his camera that day. Then Christopher and Claudia Nygard passed through town on their [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>For weeks, I&#8217;d heard the rumors: somewhere down in Malibu there was a 76 ball at a closed gas station, trussed up in black plastic like some ultrakinky egg. Nathan even claimed to have seen it, though <em>naturally</em> he didn&#8217;t have his camera that day.</p>
-<p>Then <a target="_blank" href="https://www.kitegirl.com/">Christopher and Claudia Nygard</a> passed through town on their way to Oregon, and darned if they didn&#8217;t snap a cameraphone pic while passing the strange black orb. Behold, the oddest 76 Ball in all L.A.! </p>
-<p> <a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/197175758/"><img loading="lazy" width="500" height="375" border="0" alt=" 76 Bondage Ball in Malibu" src="https://static.flickr.com/78/197175758_d6bb7bead4.jpg" /></a></p>
+<p>Then <a target="_blank" href="http://www.kitegirl.com/">Christopher and Claudia Nygard</a> passed through town on their way to Oregon, and darned if they didn&#8217;t snap a cameraphone pic while passing the strange black orb. Behold, the oddest 76 Ball in all L.A.! </p>
+<p> <a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/197175758/"><img loading="lazy" width="500" height="375" border="0" alt=" 76 Bondage Ball in Malibu" src="http://static.flickr.com/78/197175758_d6bb7bead4.jpg" /></a></p>
 <div id="themify_builder_content-189" data-postid="189" class="themify_builder_content themify_builder_content-189 themify_builder themify_builder_front">
 
 	</div>

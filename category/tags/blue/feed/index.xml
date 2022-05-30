@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -43,7 +43,7 @@
 
 					<description><![CDATA[Jeremy Sanford shot this live action footage of the one known example of a 3D 76 Ball in the new red and blue color scheme. ConocoPhillips is tearing down all the classic orange balls; why did they erect one red ball in Sacramento?]]></description>
 										<content:encoded><![CDATA[<p>Jeremy Sanford shot this live action footage of the one known example of a 3D 76 Ball in the new red and blue color scheme. ConocoPhillips is tearing down all the classic orange balls; why did they erect one red ball in Sacramento?</p>
-<p><object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/3lbeI4u0hVY"></param><embed src="https://www.youtube.com/v/3lbeI4u0hVY" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/3lbeI4u0hVY"></param><embed src="http://www.youtube.com/v/3lbeI4u0hVY" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <div id="themify_builder_content-204" data-postid="204" class="themify_builder_content themify_builder_content-204 themify_builder themify_builder_front">
 
 	</div>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-76BallAmazon-1-32x32.jpg</url>
@@ -43,7 +43,7 @@
 					<description><![CDATA[76 Ball fan Marcello Vavala reported earlier this week that there were signs that the station at Santa Monica and Sawtelle might be about to lose its ball. Sure enough, the ball was cut from its pole the next morning, and dragged away to be destroyed. Sean McKinley snapped this photo with his phone: And [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>76 Ball fan Marcello Vavala reported earlier this week that there were signs that the station at Santa Monica and Sawtelle might be about to lose its ball. Sure enough, the ball was cut from its pole the next morning, and dragged away to be destroyed.</p>
 <p>Sean McKinley snapped this photo with his phone:<br />
-<a href="https://www.flickr.com/photos/richardschave/218617865/" title="Photo Sharing"><img loading="lazy" src="https://static.flickr.com/73/218617865_375584d14c.jpg" width="400" height="300" alt="Death of the 76 Ball, Sawtelle and Santa Monica Blvd., LA, August 2006" /></a></p>
+<a href="http://www.flickr.com/photos/richardschave/218617865/" title="Photo Sharing"><img loading="lazy" src="http://static.flickr.com/73/218617865_375584d14c.jpg" width="400" height="300" alt="Death of the 76 Ball, Sawtelle and Santa Monica Blvd., LA, August 2006" /></a></p>
 <p>And Marcello shares some observations, to help spot 76 Balls that face immediate danger. Unfortunately, we were not able to organize a protest to try to save this particular ball, but next time we might. PLEASE, if you see a 76 Ball that fits Marcello&#8217;s description, drop us a line via our contact form ASAP.</p>
 <p>Marcello reports: The new signage is up and the orange ball has been taken away.  The replacement happened very fast, probably within 5 hours.</p>
 <p>There are some observations I&#8217;ve made which may be helpful in the future (if they haven&#8217;t been made already.)</p>
@@ -79,13 +79,13 @@
 										<content:encoded><![CDATA[<p>Here are the last of the 76 Ball short films shot by Earl Ma in Hawaii. He notes these are the first Hawaiian balls that he&#8217;s seen with the spinning motors turned off, which has become sadly standard in Southern California.</p>
 <p>If you care about the 76 Balls, please call Sylvia Hansen in External Communications at ConocoPhillips, (281) 293-1000. Request that she call Nathan Marsak back and open a dialogue about how to work together to turn this bad publicity around and save some balls.</p>
 <p>Sand Island Union 76 station, 165 Sand Island Access Road, Honolulu, HI, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/EU-_XfEtNHQ"></param><embed src="https://www.youtube.com/v/EU-_XfEtNHQ" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/EU-_XfEtNHQ"></param><embed src="http://www.youtube.com/v/EU-_XfEtNHQ" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <p>Miyazaki Airport Union 76 service station, Honolulu International Airport, 351 Rodgers Boulevard, Honolulu, HI, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/83JTl5f0HGE"></param><embed src="https://www.youtube.com/v/83JTl5f0HGE" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/83JTl5f0HGE"></param><embed src="http://www.youtube.com/v/83JTl5f0HGE" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <p>Hi-Way Union 76 service station, Pearl City Shopping Center, 850 Kamehameha Highway, Pearl City, HI, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/7dLqTSTRdHA"></param><embed src="https://www.youtube.com/v/7dLqTSTRdHA" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/7dLqTSTRdHA"></param><embed src="http://www.youtube.com/v/7dLqTSTRdHA" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <p>Bobby&#8217;s Union 76 station, 99-236 Moanalua Road, Aiea, HI, April 2006<br />
-<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/RSkUFY-6weM"></param><embed src="https://www.youtube.com/v/RSkUFY-6weM" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/RSkUFY-6weM"></param><embed src="http://www.youtube.com/v/RSkUFY-6weM" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <div id="themify_builder_content-169" data-postid="169" class="themify_builder_content themify_builder_content-169 themify_builder themify_builder_front">
 
 	</div>
@@ -114,10 +114,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Cooper has a ball in effort to save brand iconby Randi Schmelzer &#8211; 5 Jun 2006 10:53 Burma-Shave rhyme signs, Howard Johnson&#8217;s orange roofs, KFC&#8217;s revolving chicken buckets: all pieces of modern Americana that today exist mostly in memory alone. Now, the iconic orange-and-blue Union 76 gas-station ball is on its way to joining them [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/161802452/"><img loading="lazy" width="500" height="343" border="0" alt="Kim Cooper and endangered 76 ball by Ricardo DeAratanha" src="https://static.flickr.com/52/161802452_5ae90c092f.jpg" /></a><br />
+										<content:encoded><![CDATA[<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/161802452/"><img loading="lazy" width="500" height="343" border="0" alt="Kim Cooper and endangered 76 ball by Ricardo DeAratanha" src="http://static.flickr.com/52/161802452_5ae90c092f.jpg" /></a><br />
 Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5 Jun 2006 10:53</p>
 <p><strong>Burma-Shave rhyme signs, Howard Johnson&#8217;s orange roofs, KFC&#8217;s revolving chicken buckets: all pieces of modern Americana that today exist mostly in memory alone. Now, the iconic orange-and-blue Union 76 gas-station ball is on its way to joining them &#8211; unless Kim Cooper can stop it.</strong></p>
-<p>Cooper, 39, is a native Angelino and self-proclaimed &quot;ultimate dilettante.&quot; From editing and publishing <a target="_blank" href="https://www.scrammagazine.com/">Scram</a>, a journal of un- popular culture, to co-hosting the &quot;<a target="_blank" href="https://www.1947project.com/">1947project</a>,&quot; a blog and bus-tour series highlighting LA&#8217;s off-the-beaten-path crime sites, &quot;my job is rescuing the underdog from neglect and destruction,&quot; she says.</p>
+<p>Cooper, 39, is a native Angelino and self-proclaimed &quot;ultimate dilettante.&quot; From editing and publishing <a target="_blank" href="http://www.scrammagazine.com/">Scram</a>, a journal of un- popular culture, to co-hosting the &quot;<a target="_blank" href="http://www.1947project.com/">1947project</a>,&quot; a blog and bus-tour series highlighting LA&#8217;s off-the-beaten-path crime sites, &quot;my job is rescuing the underdog from neglect and destruction,&quot; she says.</p>
 <p>The underdog this time is the 76 ball, the 45-year-old victim of a quiet marketing shift that began just after the 2002 merger of gas giants Conoco and Phillips.</p>
 <p>According to its 2004 annual report, ConocoPhillips, which operates Conoco and Phillips gas stations, as well as 76, that year initiated a project to streamline the three brands&#8217; marketing efforts. So while its Web site refers to the 76 logo as &quot;a long-trusted symbol [that] means something special to our customers,&quot; its most recent graphic-standards manual calls for a brand-consistent red-and-blue color scheme, rather than the historic, eye-popping orange.</p>
 <p>&quot;They began knocking down the 76 balls,&quot; Cooper recalls. These omnipresent symbols for gasoline in many parts of the US were methodically being substituted with ground-level &quot;monuments&quot; or taller, disc-shaped signage. Many of the LA area&#8217;s 400 spheres have already been replaced, including the one that rose above Dodger Stadium for decades.</p>
@@ -129,12 +129,12 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 <p>Cooper admits that on some level, the effort is prank-like and &quot;silly.&quot; She says she&#8217;s &quot;been attacked by people for putting my energies into this rather frivolous and highly charged campaign.&quot;</p>
 <p>But saving the 76 sphere is about more than a gas-station sign. &quot;If you don&#8217;t look at what&#8217;s around you, it&#8217;s very easy to not care if things get knocked down and destroyed, things that actually reflect the culture, history, and changes of your place,&quot; she explains. &quot;I think it&#8217;s a tragedy.&quot;</p>
 <p>Kim Cooper</p>
-<p>2005-present<br />Cofounder, <a target="_blank" href="https://www.explosivepr.com/">Explosive PR</a>/<a target="_blank" href="https://www.dumplingfeed.com/">Dumplingfeed</a> media consultancy</p>
+<p>2005-present<br />Cofounder, <a target="_blank" href="http://www.explosivepr.com/">Explosive PR</a>/<a target="_blank" href="http://www.dumplingfeed.com/">Dumplingfeed</a> media consultancy</p>
 <p>1995-2000<br />Exhibition coordinator and librarian, LA Museum of Contemporary Art</p>
-<p>1991-1992<br />Researcher, The Oakland Museum of California<br />&nbsp;<br />Copyright &copy; 2005&nbsp; <a target="_blank" href="https://www.prweek.com/">PRWeek</a></p>
+<p>1991-1992<br />Researcher, The Oakland Museum of California<br />&nbsp;<br />Copyright &copy; 2005&nbsp; <a target="_blank" href="http://www.prweek.com/">PRWeek</a></p>
 <p>photo by Ricardo DeAratanha, LA Times  </p>
 <p>&nbsp;</p>
-<p> <a target="_blank" href="https://www.prweek.com/" /></p>
+<p> <a target="_blank" href="http://www.prweek.com/" /></p>
 <div id="themify_builder_content-173" data-postid="173" class="themify_builder_content themify_builder_content-173 themify_builder themify_builder_front">
 
 	</div>
@@ -164,7 +164,7 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[A reader writes to say: Someone correct me if I am wrong (but I believe I remembered this correctly!) &#8212; the original Union 76 fiberglass BALLS (NOT DISKS) were manufactured ONLY in my hometown of Galva, Illinois (population 12[?]). Just FYI (a little fun factoid): one Spring (I was, perhaps, nine years old), Galva was [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>A reader writes to say: Someone correct me if I am wrong (but I believe I remembered this correctly!) &#8212; the original Union 76 fiberglass BALLS (NOT DISKS) were manufactured ONLY in my hometown of <a href="https://www.galva.com/" target="_blank">Galva, Illinois</a> (population 12[?]).  </p>
+										<content:encoded><![CDATA[<p>A reader writes to say: Someone correct me if I am wrong (but I believe I remembered this correctly!) &#8212; the original Union 76 fiberglass BALLS (NOT DISKS) were manufactured ONLY in my hometown of <a href="http://www.galva.com/" target="_blank">Galva, Illinois</a> (population 12[?]).  </p>
 <p>Just FYI (a little fun factoid):  one Spring (I was, perhaps, nine years old), Galva was hit by a tornado, and the 76 balls (which were usually neatly lined up in rows OUTSIDE of the factory) were blown all over the town!  My next-door neighboor was gifted by Mother Nature with one, and we rolled around inside of it until the fiberglass worked its nastiness on us!  </p>
 <p>I also remember someone a few blocks away cutting one in half for his dog to use as a doghouse!  (I hope the dog escaped the wrath of the fiberglass!)  I may have that wrong (I was young!), but I am fairly certain that Galva is the ONLY place where the infamous orange balls were manufactured!  I&#8217;d like to know more information, if anyone has any!  </p>
 <p>Thanks! Sharon (Johnson) Palmer  </p>
@@ -196,10 +196,10 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 					<description><![CDATA[Intrepid 76 Ball Fan J. Eric Freedner has made a startling discovery near Fresno, CA, a discovery that bodes well for those of us who believe ConocoPhillips needs to REPLACE the 76 Balls that they&#8217;ve taken down from their poles. He reports: Well, I had a feeling I would find the &#34;missing&#34; 76 balls and&#8230; [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Intrepid 76 Ball Fan J. Eric Freedner has made a startling discovery near Fresno, CA, a discovery that bodes well for those of us who believe ConocoPhillips needs to REPLACE the 76 Balls that they&#8217;ve taken down from their poles. He reports:</p>
 <p> Well, I had a feeling I  would find the &quot;missing&quot; 76 balls and&#8230; here they are! </p>
-<p><img border="0" src="https://static.flickr.com/47/119375652_89badd6baf.jpg" /></p>
+<p><img border="0" src="http://static.flickr.com/47/119375652_89badd6baf.jpg" /></p>
 <p>A whole bunch of orange balls is now in the yard of Nelson Sign Service on  Golden State Highway (Old Route 99) in Fresno, California.</p>
-<p><img border="0" src="https://static.flickr.com/45/119375653_b338c03311.jpg" /> These weren&#8217;t here a few months ago!&nbsp;&nbsp; What do they plan to do  with them?&nbsp;&nbsp; Spheres take up a whole lot more space than flat signs so  I have a feeling Mr. Nelson won&#8217;t keep them around forever&#8230;</p>
-<p><img border="0" src="https://static.flickr.com/43/119375654_51b777b232.jpg" />&nbsp;</p>
+<p><img border="0" src="http://static.flickr.com/45/119375653_b338c03311.jpg" /> These weren&#8217;t here a few months ago!&nbsp;&nbsp; What do they plan to do  with them?&nbsp;&nbsp; Spheres take up a whole lot more space than flat signs so  I have a feeling Mr. Nelson won&#8217;t keep them around forever&#8230;</p>
+<p><img border="0" src="http://static.flickr.com/43/119375654_51b777b232.jpg" />&nbsp;</p>
 <p>&nbsp;</p>
 <div>There are also some flat 76 signs such as this old Fast Break one.&nbsp;  I&#8217;m not sure if the &quot;Fast Break&quot; chain is still in business.&nbsp;&nbsp; Haven&#8217;t  seen any with the new red 76 logos, anyway.</div>
 <div>&nbsp;</div>
@@ -235,8 +235,8 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 
 					<description><![CDATA[Nathan Marsak, author of the book &#8220;Los Angeles Neon&#8221; and co-author of the Save The 76 Ball Petition, delivers an impassioned podcast plea that the remaining 76 Balls be kept safe from harm. stay in touch! subscribe to the channel.]]></description>
 										<content:encoded><![CDATA[
-<p> Nathan Marsak, author of the book &ldquo;Los Angeles Neon&rdquo; and co-author of the Save The 76 Ball Petition, delivers an impassioned <a href="https://ia300226.us.archive.org/2/items/Nathan_Marsak_says_Save_the_76_Ball/NathanMarsaksays_Savethe76ball_.mp3">podcast</a> plea that the remaining 76 Balls be kept safe from harm.</p>
-<p>stay in touch! subscribe to the <a href="https://feeds.feedburner.com/76ball">channel</a>. </p>
+<p> Nathan Marsak, author of the book &ldquo;Los Angeles Neon&rdquo; and co-author of the Save The 76 Ball Petition, delivers an impassioned <a href="http://ia300226.us.archive.org/2/items/Nathan_Marsak_says_Save_the_76_Ball/NathanMarsaksays_Savethe76ball_.mp3">podcast</a> plea that the remaining 76 Balls be kept safe from harm.</p>
+<p>stay in touch! subscribe to the <a href="http://feeds.feedburner.com/76ball">channel</a>. </p>
 <div id="themify_builder_content-144" data-postid="144" class="themify_builder_content themify_builder_content-144 themify_builder themify_builder_front">
 
 	</div>
@@ -267,8 +267,8 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 
 					<description><![CDATA[Car Owners and California History Buffs Cry: Save the Union 76 Ball! &#160; February 8, 2006&#160; &#8211; For immediate release Click to view petition. LOS ANGELES- In 2005, ConocoPhillips, the Texas-based energy company that took over the historic California Unocal refineries and gas stations in 2002, commenced a campaign of design terrorism, ripping down the [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Car Owners and California History Buffs Cry: Save the Union 76 Ball!  </p>
-<p>&nbsp;<br /> February 8, 2006&nbsp;  &#8211; For immediate release  <a target="_blank" href="https://www.petitiononline.com/76ball/petition.html" /></p>
-<p><a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">Click</a> to view petition. </p>
+<p>&nbsp;<br /> February 8, 2006&nbsp;  &#8211; For immediate release  <a target="_blank" href="http://www.petitiononline.com/76ball/petition.html" /></p>
+<p><a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">Click</a> to view petition. </p>
 <p>LOS ANGELES- In 2005, ConocoPhillips, the Texas-based energy company that took over the historic California Unocal refineries and gas stations in 2002, commenced a campaign of design terrorism, ripping down the hugely popular orange and blue &quot;76&quot; branded ball signs in favor of a generic flattened red and blue disk. </p>
 <p>&nbsp;<br /> To give the public a chance to be heard, an online petition has been launched by the authors of L.A.&#8217;s 1947project crime history blog. Signers are declaring their intention to boycott if ConocoPhillips doesn&#8217;t reverse their redesign policy and show proper respect for the beloved 76 ball brand. </p>
 <p>&nbsp;<br /> Petition co-writer Nathan Marsak, author of &quot;Los Angeles Neon,&quot; says &quot;Our urban fabric will lose a groovy, sexy element of its attraction with the disappearance of this turning orb&lsaquo;an orb that still speaks &quot;progress!&quot; and &quot;fun!&quot; as opposed to its replacement, which resembles some sort of giant tombstone.&quot; </p>
@@ -276,7 +276,7 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 <p>Here&#8217;s what some of the petition&#8217;s signers are saying: &quot;I actually buy 76 gas because of their historic branding and am proud to have a 76 ball on my vintage 1963 car.&quot; (Mary-Margaret Stratton). . . &quot;I used to buy from a 76 station only 2 blocks from my house. The day ConocoPhillips changed it to red and blue, I stopped patronizing it.&quot; (Guy Kudlemyer) . . . &quot;It&#8217;s like McDonald&#8217;s dumping the arches. Just wrong!&quot; (Sean Russ). . . &quot;How can you destroy such a trusted icon?&quot; (Kyle Barnes). . . &quot;Please stop destroying American history.&quot; (Steve Tepperman). </p>
 <p>Petition co-writer Kim Cooper muses, &quot;If ConocoPhillips&#8217; intention was to lose any goodwill their customers feel towards the 76 brand, they&#8217;re off to a great start. In 2004 they withdrew fuel sponsorship of NASCAR&#8211;killing off the longest such relationship in the history of the organization&#8211;and in late 2005 began chopping down the big orange pumpkin balls that cheer our urban landscape. Since my local station had its orange ball removed, I&#8217;ve started filling my tank elsewhere, and from our petition it sounds like many others are doing the same.&quot; </p>
 <p>Petition authors Kim Cooper and Nathan Marsak are available for interviews. </p>
-<p>See the petition <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">here</a>.&nbsp; </p>
+<p>See the petition <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">here</a>.&nbsp; </p>
 <div id="themify_builder_content-140" data-postid="140" class="themify_builder_content themify_builder_content-140 themify_builder themify_builder_front">
 
 	</div>
@@ -305,7 +305,7 @@ Cooper has a ball in effort to save brand icon<br />by Randi Schmelzer &#8211; 5
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[To sign this petition, click here.&#160; To: ConocoPhillips We, the undersigned, as consumers with an abiding fondness for the striking, historic and uniquely Californian blue and orange ball-shaped Union 76 logo, be it on tall metal poles or car antennae (since 1967), hereby call on ConocoPhillips to reconsider their alteration of the 115-year-old brand, to [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>To sign this petition, click <a href="https://www.petitiononline.com/76ball/petition.html" target="_blank">here</a>.&nbsp;  </p>
+										<content:encoded><![CDATA[<p>To sign this petition, click <a href="http://www.petitiononline.com/76ball/petition.html" target="_blank">here</a>.&nbsp;  </p>
 <p>To:  ConocoPhillips  </p>
 <p>We, the undersigned, as consumers with an abiding fondness for the striking, historic and uniquely Californian blue and orange ball-shaped Union 76 logo, be it on tall metal poles or car antennae (since 1967), hereby call on ConocoPhillips to reconsider their alteration of the 115-year-old brand, to cease replacing spherical blue and orange 76 balls at gas stations with flattened blue and red disks, and to restore the beloved spheres to the poles where they belong. If ConocoPhillips does not demonstrate greater respect for the the history and goodwill associated with the blue and orange 76 ball, we will be taking our business to other gas sellers. </p>
 <p>This petition is being launched on January 31, six days after ConocoPhillips posted fourth quarterly earnings of $3.7 Billion, and we call for a sincere response to our concerns before the announcement of their next second quarterly earnings. </p>
