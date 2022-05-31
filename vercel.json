@@ -2,8 +2,8 @@ module.exports = {
   async redirects() {
     return [
       {
-        source: '/tag',
-        destination: '/tags',
+        source: 'tags/zippy-the-pinhead/',
+        destination: 'tag/zippy-the-pinhead/',
         permanent: true,
       },
             {
