@@ -1,6 +1,6 @@
 module.exports = {
   trailingSlash: true,
-  async rewrites() {
+  async redirects() {
     return [
       {
         source: '/faq2/',
