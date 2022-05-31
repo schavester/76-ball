@@ -1,4 +1,4 @@
-const redirects = {
+module.exports = {
   trailingSlash: true,
   async redirects() {
     return [
