@@ -6,6 +6,11 @@ module.exports = {
         destination: '/tags',
         permanent: true,
       },
+            {
+        source: '/nathansucks',
+        destination: '/nathan-sucks',
+        permanent: true,
+      },
      ]
   },
 }
