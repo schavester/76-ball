@@ -1,10 +1,9 @@
 module.exports = {
-  trailingSlash: true,
   async redirects() {
     return [
       {
-        source: '/faq2/',
-        destination: '/nathan/',
+        source: '/faq2',
+        destination: '/nathan',
       },
     ]
   },
