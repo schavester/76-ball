@@ -7,8 +7,8 @@ module.exports = {
         permanent: true,
       },
             {
-        source: '/nathansucks',
-        destination: '/nathan-sucks',
+        source: 'zippysays/',
+        destination: '2006/06/09/zippysays/',
         permanent: true,
       },
      ]
